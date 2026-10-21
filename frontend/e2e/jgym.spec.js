@@ -1,0 +1,77 @@
+import { test, expect } from '@playwright/test'
+import ExcelJS from 'exceljs'
+
+test.beforeEach(async ({ page }) => {
+  await page.route('http://127.0.0.1:5173/api/**', route => {
+    const path = new URL(route.request().url()).pathname
+    if (path === '/api/config') return route.fulfill({json:{allow_guest:true,password_login:true}})
+    return route.fulfill({status:401,json:{error:'not signed in'}})
+  })
+  await page.addInitScript(() => {
+    localStorage.setItem('gym_guest','1')
+    localStorage.setItem('gym_state_v1',JSON.stringify({lang:'en',unit:'kg',jgymAppearance:'sage',bodyweight:[],routines:[],workouts:[],week:{},dayPlan:{}}))
+  })
+})
+
+test('dashboard, weigh-in, BMI, edit, themes and reload', async ({ page }) => {
+  const errors=[]; page.on('pageerror', e => errors.push(e.message))
+  await page.goto('/#/home')
+  await expect(page.getByRole('heading',{name:'Make room for you.'})).toBeVisible()
+  await page.getByRole('link',{name:'Weight & BMI',exact:true}).click()
+  await page.getByLabel('Weight (kg)',{exact:true}).fill('80')
+  await page.getByRole('button',{name:'Save weigh-in'}).click()
+  await page.getByLabel('Height (cm)').fill('200')
+  await page.getByRole('button',{name:'Save details'}).click()
+  await expect(page.locator('.jg-bmi')).toContainText('20.0')
+  await expect(page.locator('.jg-bmi')).toContainText('Healthy weight')
+  await page.getByRole('button',{name:'Edit',exact:true}).click()
+  await page.getByLabel('Weight (kg)',{exact:true}).fill('84')
+  await page.getByRole('button',{name:'Save weigh-in'}).click()
+  await expect(page.locator('tbody tr')).toHaveCount(1)
+  await expect(page.locator('.jg-bmi')).toContainText('21.0')
+  await page.getByRole('link',{name:'Appearance',exact:true}).click()
+  await page.getByRole('button',{name:/Midnight/}).click()
+  await expect(page.locator('html')).toHaveAttribute('data-appearance','midnight')
+  // Remove the init seed for subsequent navigations: reload in a second tab of this context.
+  const second = await page.context().newPage()
+  await second.route('http://127.0.0.1:5173/api/**', r => r.fulfill({status:401,json:{error:'not signed in'}}))
+  await second.goto('/#/weight')
+  await expect(second.locator('html')).toHaveAttribute('data-appearance','midnight')
+  await expect(second.locator('.jg-bmi')).toContainText('21.0')
+  expect(errors).toEqual([])
+})
+
+test('CSV preview, duplicate detection and actual Excel worksheet import', async ({page}) => {
+  await page.goto('/#/import')
+  await page.locator('input[type=file]').setInputFiles({name:'weight.csv',mimeType:'text/csv',buffer:Buffer.from('date,weight,unit\n2025-01-01,80,kg\n2025-01-01,81,kg\n2025-01-02,176.3698,lb')})
+  await page.getByRole('button',{name:'Preview import'}).click()
+  await expect(page.getByText('2 new weigh-ins · 1 duplicates skipped · 0 issues')).toBeVisible()
+  await page.getByRole('button',{name:'Import 2 weigh-ins'}).click()
+  const wb = new ExcelJS.Workbook()
+  wb.addWorksheet('Notes').addRow(['not data'])
+  const ws = wb.addWorksheet('My weight'); ws.addRow(['date','weight','unit']); ws.addRow([new Date('2025-01-03T00:00:00Z'),82,'kg'])
+  await page.locator('input[type=file]').setInputFiles({name:'weight.xlsx',mimeType:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',buffer:Buffer.from(await wb.xlsx.writeBuffer())})
+  await page.getByLabel('Worksheet',{exact:true}).selectOption('1')
+  await page.getByRole('button',{name:'Preview import'}).click()
+  await expect(page.getByText('1 new weigh-ins · 0 duplicates skipped · 0 issues')).toBeVisible()
+  await page.getByRole('button',{name:'Import 1 weigh-ins'}).click()
+  await page.getByRole('link',{name:'Weight & BMI',exact:true}).click()
+  await expect(page.locator('tbody tr')).toHaveCount(3)
+  await expect(page.locator('tbody tr').first()).toContainText('82 kg')
+})
+
+test('mobile layout and appearance previews', async ({page}) => {
+  await page.goto('/#/home')
+  await expect(page.getByRole('heading',{name:'Make room for you.'})).toBeVisible()
+  await page.screenshot({path:'.qa/jgym-sage-desktop.png',fullPage:true})
+  await page.setViewportSize({width:390,height:844})
+  await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
+  await expect(page.locator('#tabbar').getByRole('button',{name:'Home',exact:true})).toBeInViewport()
+  await page.screenshot({path:'.qa/jgym-sage-mobile.png',fullPage:true})
+  await page.screenshot({path:'.qa/jgym-sage-mobile-viewport.png'})
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
+  await page.getByRole('link',{name:'Appearance',exact:true}).click()
+  await page.getByRole('button',{name:/Sand/}).click()
+  await page.getByRole('link',{name:'Overview',exact:true}).click()
+  await page.screenshot({path:'.qa/jgym-sand-mobile.png',fullPage:true})
+})
