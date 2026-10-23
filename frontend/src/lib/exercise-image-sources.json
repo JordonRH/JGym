@@ -1,0 +1,26 @@
+{
+  "everkinetic": {
+    "creator": "Greg Priday / Everkinetic",
+    "url": "https://github.com/everkinetic/data",
+    "license": "CC BY-SA 4.0",
+    "licensePath": "exercise-media/everkinetic/LICENSE.md",
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "open": {
+    "creator": "Open Exercise Illustrations",
+    "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+    "license": "CC0 1.0",
+    "licensePath": "exercise-media/open/LICENSE",
+    "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+    "dark": true,
+    "aiGenerated": true
+  },
+  "guide": {
+    "creator": "Bryl Lim / Workout Guide; Greg Priday / Everkinetic (where credited)",
+    "url": "https://github.com/bryllim/workout-guide",
+    "license": "CC BY-SA 4.0",
+    "licensePath": "exercise-media/guide/LICENSE-ASSETS",
+    "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+    "dark": true
+  }
+}

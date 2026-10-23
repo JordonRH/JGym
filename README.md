@@ -13,6 +13,7 @@ Built on [OpenGym](https://github.com/DuarteSantos8/openGym), retaining routines
 - **CSV and Excel (.xlsx)** imports: sheet selection, weight-column mapping, unit conversion, preview, validation, and duplicate-date protection. Workout sheets use OpenGym's exercise matching and review.
 - **People** for administrators to manage accounts and single-use invitations.
 - Linux Docker Compose with optional Cloudflare Tunnel.
+- Free local exercise illustrations for 414 entries, position controls, and an illustrated-only library filter. See [image coverage and credits](docs/EXERCISE_IMAGES.md); the full catalogue is not yet illustrated.
 
 ## Deploy on Linux
 

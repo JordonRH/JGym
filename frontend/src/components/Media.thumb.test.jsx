@@ -23,19 +23,19 @@ afterEach(() => { act(() => { mounted.splice(0).forEach(({ root, host }) => { ro
 
 describe('Thumb', () => {
   it('shows the still, and the neutral tile once it fails to load', () => {
-    const { host } = mount(<Thumb ex={{ id: 'a', img: 'a.jpg' }} />)
+    const { host } = mount(<Thumb ex={{ id: '0025', img: 'a.jpg' }} />)
     const img = host.querySelector('img.thumb')
-    expect(img.getAttribute('src')).toMatch(/a\.jpg$/)
+    expect(img.getAttribute('src')).toMatch(/0042-relaxation\.svg$/)
     act(() => { img.dispatchEvent(new Event('error')) })
     expect(host.querySelector('img')).toBeNull()
     expect(host.querySelector('.thumb.thumb-x')).toBeTruthy()
   })
 
   it('another exercise in the same place tries its own still', () => {
-    const { host, root } = mount(<Thumb ex={{ id: 'a', img: 'a.jpg' }} />)
+    const { host, root } = mount(<Thumb ex={{ id: '0025', img: 'a.jpg' }} />)
     act(() => { host.querySelector('img').dispatchEvent(new Event('error')) })
-    act(() => root.render(<Thumb ex={{ id: 'b', img: 'b.jpg' }} />))
-    expect(host.querySelector('img.thumb').getAttribute('src')).toMatch(/b\.jpg$/)
+    act(() => root.render(<Thumb ex={{ id: '0289', img: 'b.jpg' }} />))
+    expect(host.querySelector('img.thumb').getAttribute('src')).toMatch(/0055-relaxation\.svg$/)
   })
 
   it('an exercise without media has the tile from the start', () => {

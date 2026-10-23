@@ -1,0 +1,4417 @@
+{
+  "open/band-squat": {
+    "source": "open",
+    "sourceId": "band-squat",
+    "title": "Band Squat",
+    "originalPaths": [
+      "images/band-squat/start.webp",
+      "images/band-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pec-deck": {
+    "source": "open",
+    "sourceId": "pec-deck",
+    "title": "Pec Deck",
+    "originalPaths": [
+      "images/pec-deck/start.webp",
+      "images/pec-deck/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/plate-pinch-hold": {
+    "source": "open",
+    "sourceId": "plate-pinch-hold",
+    "title": "Plate Pinch Hold",
+    "originalPaths": [
+      "images/plate-pinch-hold/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-kneeling-hip-flexor-stretch": {
+    "source": "guide",
+    "sourceId": "exercise-kneeling-hip-flexor-stretch",
+    "title": "Kneeling Hip Flexor Stretch",
+    "originalPaths": [
+      "assets/kneeling-hip-flexor-stretch/frame-1.svg",
+      "assets/kneeling-hip-flexor-stretch/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/kneeling-hip-flexor-stretch/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/kneeling-hip-flexor-stretch/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/hip-thrusts": {
+    "source": "open",
+    "sourceId": "hip-thrusts",
+    "title": "Hip Thrust",
+    "originalPaths": [
+      "images/hip-thrusts/start.webp",
+      "images/hip-thrusts/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/suspension-row": {
+    "source": "open",
+    "sourceId": "suspension-row",
+    "title": "Suspension Row",
+    "originalPaths": [
+      "images/suspension-row/start.webp",
+      "images/suspension-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/suspension-hamstring-curl": {
+    "source": "open",
+    "sourceId": "suspension-hamstring-curl",
+    "title": "Suspension Hamstring Curl",
+    "originalPaths": [
+      "images/suspension-hamstring-curl/start.webp",
+      "images/suspension-hamstring-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/burpees": {
+    "source": "open",
+    "sourceId": "burpees",
+    "title": "Burpee",
+    "originalPaths": [
+      "images/burpees/start.webp",
+      "images/burpees/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/rowing-machine": {
+    "source": "open",
+    "sourceId": "rowing-machine",
+    "title": "Rowing Machine",
+    "originalPaths": [
+      "images/rowing-machine/start.webp",
+      "images/rowing-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/overhead-press": {
+    "source": "open",
+    "sourceId": "overhead-press",
+    "title": "Overhead Press",
+    "originalPaths": [
+      "images/overhead-press/start.webp",
+      "images/overhead-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/leg-raises": {
+    "source": "open",
+    "sourceId": "leg-raises",
+    "title": "Leg Raise",
+    "originalPaths": [
+      "images/leg-raises/start.webp",
+      "images/leg-raises/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/jump-lunge": {
+    "source": "open",
+    "sourceId": "jump-lunge",
+    "title": "Jump Lunge",
+    "originalPaths": [
+      "images/jump-lunge/start.webp",
+      "images/jump-lunge/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/push-press": {
+    "source": "open",
+    "sourceId": "push-press",
+    "title": "Push Press",
+    "originalPaths": [
+      "images/push-press/start.webp",
+      "images/push-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pallof-press": {
+    "source": "open",
+    "sourceId": "pallof-press",
+    "title": "Pallof Press",
+    "originalPaths": [
+      "images/pallof-press/start.webp",
+      "images/pallof-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-pull-through": {
+    "source": "open",
+    "sourceId": "cable-pull-through",
+    "title": "Cable Pull-Through",
+    "originalPaths": [
+      "images/cable-pull-through/start.webp",
+      "images/cable-pull-through/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bird-dog": {
+    "source": "open",
+    "sourceId": "bird-dog",
+    "title": "Bird Dog",
+    "originalPaths": [
+      "images/bird-dog/start.webp",
+      "images/bird-dog/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hollow-body-hold": {
+    "source": "open",
+    "sourceId": "hollow-body-hold",
+    "title": "Hollow Body Hold",
+    "originalPaths": [
+      "images/hollow-body-hold/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/clap-push-up": {
+    "source": "open",
+    "sourceId": "clap-push-up",
+    "title": "Clap Push-Up",
+    "originalPaths": [
+      "images/clap-push-up/start.webp",
+      "images/clap-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/medicine-ball-chest-pass": {
+    "source": "open",
+    "sourceId": "medicine-ball-chest-pass",
+    "title": "Medicine Ball Chest Pass",
+    "originalPaths": [
+      "images/medicine-ball-chest-pass/start.webp",
+      "images/medicine-ball-chest-pass/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wide-push-up": {
+    "source": "open",
+    "sourceId": "wide-push-up",
+    "title": "Wide Push-Up",
+    "originalPaths": [
+      "images/wide-push-up/start.webp",
+      "images/wide-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/chin-up": {
+    "source": "open",
+    "sourceId": "chin-up",
+    "title": "Chin-Up",
+    "originalPaths": [
+      "images/chin-up/start.webp",
+      "images/chin-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/medicine-ball-slam": {
+    "source": "open",
+    "sourceId": "medicine-ball-slam",
+    "title": "Medicine Ball Slam",
+    "originalPaths": [
+      "images/medicine-ball-slam/start.webp",
+      "images/medicine-ball-slam/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/smith-machine-bent-over-row": {
+    "source": "open",
+    "sourceId": "smith-machine-bent-over-row",
+    "title": "Smith Machine Bent-Over Row",
+    "originalPaths": [
+      "images/smith-machine-bent-over-row/start.webp",
+      "images/smith-machine-bent-over-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/seated-calf-raise": {
+    "source": "open",
+    "sourceId": "seated-calf-raise",
+    "title": "Seated Calf Raise",
+    "originalPaths": [
+      "images/seated-calf-raise/start.webp",
+      "images/seated-calf-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/leg-press-calf-raise": {
+    "source": "open",
+    "sourceId": "leg-press-calf-raise",
+    "title": "Leg Press Calf Raise",
+    "originalPaths": [
+      "images/leg-press-calf-raise/start.webp",
+      "images/leg-press-calf-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/neck-side-stretch": {
+    "source": "open",
+    "sourceId": "neck-side-stretch",
+    "title": "Neck Side Stretch",
+    "originalPaths": [
+      "images/neck-side-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/barbell-glute-bridge": {
+    "source": "open",
+    "sourceId": "barbell-glute-bridge",
+    "title": "Barbell Glute Bridge",
+    "originalPaths": [
+      "images/barbell-glute-bridge/start.webp",
+      "images/barbell-glute-bridge/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wide-grip-pull-up": {
+    "source": "open",
+    "sourceId": "wide-grip-pull-up",
+    "title": "Wide Grip Pull Up",
+    "originalPaths": [
+      "images/wide-grip-pull-up/start.webp",
+      "images/wide-grip-pull-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/seated-dip-machine": {
+    "source": "open",
+    "sourceId": "seated-dip-machine",
+    "title": "Seated Dip Machine",
+    "originalPaths": [
+      "images/seated-dip-machine/start.webp",
+      "images/seated-dip-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-romanian-deadlift": {
+    "source": "open",
+    "sourceId": "dumbbell-romanian-deadlift",
+    "title": "Dumbbell Romanian Deadlift",
+    "originalPaths": [
+      "images/dumbbell-romanian-deadlift/start.webp",
+      "images/dumbbell-romanian-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/inchworm": {
+    "source": "open",
+    "sourceId": "inchworm",
+    "title": "Inchworm",
+    "originalPaths": [
+      "images/inchworm/start.webp",
+      "images/inchworm/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/sissy-squat": {
+    "source": "open",
+    "sourceId": "sissy-squat",
+    "title": "Sissy Squat",
+    "originalPaths": [
+      "images/sissy-squat/start.webp",
+      "images/sissy-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-tricep-pushdown": {
+    "source": "open",
+    "sourceId": "band-tricep-pushdown",
+    "title": "Band Tricep Pushdown",
+    "originalPaths": [
+      "images/band-tricep-pushdown/start.webp",
+      "images/band-tricep-pushdown/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-pull-apart": {
+    "source": "open",
+    "sourceId": "band-pull-apart",
+    "title": "Band Pull-Apart",
+    "originalPaths": [
+      "images/band-pull-apart/start.webp",
+      "images/band-pull-apart/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hang-clean": {
+    "source": "open",
+    "sourceId": "hang-clean",
+    "title": "Hang Clean",
+    "originalPaths": [
+      "images/hang-clean/start.webp",
+      "images/hang-clean/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/snatch": {
+    "source": "open",
+    "sourceId": "snatch",
+    "title": "Snatch",
+    "originalPaths": [
+      "images/snatch/start.webp",
+      "images/snatch/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/stability-ball-wall-squat": {
+    "source": "open",
+    "sourceId": "stability-ball-wall-squat",
+    "title": "Stability Ball Wall Squat",
+    "originalPaths": [
+      "images/stability-ball-wall-squat/start.webp",
+      "images/stability-ball-wall-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/kettlebell-swing": {
+    "source": "open",
+    "sourceId": "kettlebell-swing",
+    "title": "Kettlebell Swing",
+    "originalPaths": [
+      "images/kettlebell-swing/start.webp",
+      "images/kettlebell-swing/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "everkinetic/0143": {
+    "source": "everkinetic",
+    "sourceId": "0143",
+    "title": "Narrow Stance Leg Press",
+    "originalPaths": [
+      "svg/0143-relaxation.svg",
+      "svg/0143-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "open/reverse-lunge": {
+    "source": "open",
+    "sourceId": "reverse-lunge",
+    "title": "Reverse Lunge",
+    "originalPaths": [
+      "images/reverse-lunge/start.webp",
+      "images/reverse-lunge/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/broad-jump": {
+    "source": "open",
+    "sourceId": "broad-jump",
+    "title": "Broad Jump",
+    "originalPaths": [
+      "images/broad-jump/start.webp",
+      "images/broad-jump/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "everkinetic/0269": {
+    "source": "everkinetic",
+    "sourceId": "0269",
+    "title": "Biceps Curl: V-Sit on Dome with Dumbbells",
+    "originalPaths": [
+      "svg/0269-relaxation.svg",
+      "svg/0269-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "open/dumbbell-push-press": {
+    "source": "open",
+    "sourceId": "dumbbell-push-press",
+    "title": "Dumbbell Push Press",
+    "originalPaths": [
+      "images/dumbbell-push-press/start.webp",
+      "images/dumbbell-push-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/goblet-squat": {
+    "source": "open",
+    "sourceId": "goblet-squat",
+    "title": "Goblet Squat",
+    "originalPaths": [
+      "images/goblet-squat/start.webp",
+      "images/goblet-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wrist-flexor-stretch": {
+    "source": "open",
+    "sourceId": "wrist-flexor-stretch",
+    "title": "Wrist Flexor Stretch",
+    "originalPaths": [
+      "images/wrist-flexor-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/side-lunge-adductor-stretch": {
+    "source": "open",
+    "sourceId": "side-lunge-adductor-stretch",
+    "title": "Side Lunge Adductor Stretch",
+    "originalPaths": [
+      "images/side-lunge-adductor-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pigeon-stretch": {
+    "source": "open",
+    "sourceId": "pigeon-stretch",
+    "title": "Pigeon Stretch",
+    "originalPaths": [
+      "images/pigeon-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/arnold-press": {
+    "source": "open",
+    "sourceId": "arnold-press",
+    "title": "Arnold Press",
+    "originalPaths": [
+      "images/arnold-press/start.webp",
+      "images/arnold-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/ski-machine": {
+    "source": "open",
+    "sourceId": "ski-machine",
+    "title": "Ski Machine",
+    "originalPaths": [
+      "images/ski-machine/start.webp",
+      "images/ski-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/treadmill-run": {
+    "source": "open",
+    "sourceId": "treadmill-run",
+    "title": "Treadmill Run",
+    "originalPaths": [
+      "images/treadmill-run/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/leg-press": {
+    "source": "open",
+    "sourceId": "leg-press",
+    "title": "Leg Press",
+    "originalPaths": [
+      "images/leg-press/start.webp",
+      "images/leg-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/seated-leg-press": {
+    "source": "open",
+    "sourceId": "seated-leg-press",
+    "title": "Seated Leg Press (Sliding Seat)",
+    "originalPaths": [
+      "images/seated-leg-press/start.webp",
+      "images/seated-leg-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/machine-pullover": {
+    "source": "open",
+    "sourceId": "machine-pullover",
+    "title": "Machine Pullover",
+    "originalPaths": [
+      "images/machine-pullover/start.webp",
+      "images/machine-pullover/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bulgarian-split-squat": {
+    "source": "open",
+    "sourceId": "bulgarian-split-squat",
+    "title": "Bulgarian Split Squat",
+    "originalPaths": [
+      "images/bulgarian-split-squat/start.webp",
+      "images/bulgarian-split-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/stability-ball-rollout": {
+    "source": "open",
+    "sourceId": "stability-ball-rollout",
+    "title": "Stability Ball Rollout",
+    "originalPaths": [
+      "images/stability-ball-rollout/start.webp",
+      "images/stability-ball-rollout/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/sumo-squat": {
+    "source": "open",
+    "sourceId": "sumo-squat",
+    "title": "Sumo Squat",
+    "originalPaths": [
+      "images/sumo-squat/start.webp",
+      "images/sumo-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/rear-delt-fly": {
+    "source": "open",
+    "sourceId": "rear-delt-fly",
+    "title": "Rear Delt Fly",
+    "originalPaths": [
+      "images/rear-delt-fly/start.webp",
+      "images/rear-delt-fly/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cossack-squat": {
+    "source": "open",
+    "sourceId": "cossack-squat",
+    "title": "Cossack Squat",
+    "originalPaths": [
+      "images/cossack-squat/start.webp",
+      "images/cossack-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/jump-rope": {
+    "source": "open",
+    "sourceId": "jump-rope",
+    "title": "Jump Rope",
+    "originalPaths": [
+      "images/jump-rope/start.webp",
+      "images/jump-rope/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/plate-loaded-incline-chest-press": {
+    "source": "open",
+    "sourceId": "plate-loaded-incline-chest-press",
+    "title": "Plate-Loaded Incline Chest Press",
+    "originalPaths": [
+      "images/plate-loaded-incline-chest-press/start.webp",
+      "images/plate-loaded-incline-chest-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/suitcase-carry": {
+    "source": "open",
+    "sourceId": "suitcase-carry",
+    "title": "Suitcase Carry",
+    "originalPaths": [
+      "images/suitcase-carry/start.webp",
+      "images/suitcase-carry/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/farmers-walk": {
+    "source": "open",
+    "sourceId": "farmers-walk",
+    "title": "Farmer's Walk",
+    "originalPaths": [
+      "images/farmers-walk/start.webp",
+      "images/farmers-walk/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pike-push-up": {
+    "source": "open",
+    "sourceId": "pike-push-up",
+    "title": "Pike Push-Up",
+    "originalPaths": [
+      "images/pike-push-up/start.webp",
+      "images/pike-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/belt-squat": {
+    "source": "open",
+    "sourceId": "belt-squat",
+    "title": "Belt Squat",
+    "originalPaths": [
+      "images/belt-squat/start.webp",
+      "images/belt-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/leg-press-moving-plate": {
+    "source": "open",
+    "sourceId": "leg-press-moving-plate",
+    "title": "Seated Leg Press (Moving Plate)",
+    "originalPaths": [
+      "images/leg-press-moving-plate/start.webp",
+      "images/leg-press-moving-plate/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-front-foot-elevated-split-squat": {
+    "source": "guide",
+    "sourceId": "exercise-front-foot-elevated-split-squat",
+    "title": "Front-Foot Elevated Split Squat",
+    "originalPaths": [
+      "assets/front-foot-elevated-split-squat/frame-1.svg",
+      "assets/front-foot-elevated-split-squat/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/front-foot-elevated-split-squat/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/front-foot-elevated-split-squat/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "guide/exercise-split-squat": {
+    "source": "guide",
+    "sourceId": "exercise-split-squat",
+    "title": "Split Squat",
+    "originalPaths": [
+      "assets/split-squat/frame-1.svg",
+      "assets/split-squat/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/split-squat/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/split-squat/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/dumbbell-thruster": {
+    "source": "open",
+    "sourceId": "dumbbell-thruster",
+    "title": "Dumbbell Thruster",
+    "originalPaths": [
+      "images/dumbbell-thruster/start.webp",
+      "images/dumbbell-thruster/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/renegade-row": {
+    "source": "open",
+    "sourceId": "renegade-row",
+    "title": "Renegade Row",
+    "originalPaths": [
+      "images/renegade-row/start.webp",
+      "images/renegade-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pendlay-row": {
+    "source": "open",
+    "sourceId": "pendlay-row",
+    "title": "Pendlay Row",
+    "originalPaths": [
+      "images/pendlay-row/start.webp",
+      "images/pendlay-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/barbell-split-squat": {
+    "source": "open",
+    "sourceId": "barbell-split-squat",
+    "title": "Barbell Split Squat",
+    "originalPaths": [
+      "images/barbell-split-squat/start.webp",
+      "images/barbell-split-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/butt-kicks": {
+    "source": "open",
+    "sourceId": "butt-kicks",
+    "title": "Butt Kicks",
+    "originalPaths": [
+      "images/butt-kicks/start.webp",
+      "images/butt-kicks/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-preacher-curl": {
+    "source": "open",
+    "sourceId": "dumbbell-preacher-curl",
+    "title": "Dumbbell Preacher Curl",
+    "originalPaths": [
+      "images/dumbbell-preacher-curl/start.webp",
+      "images/dumbbell-preacher-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/jumping-jacks": {
+    "source": "open",
+    "sourceId": "jumping-jacks",
+    "title": "Jumping Jack",
+    "originalPaths": [
+      "images/jumping-jacks/start.webp",
+      "images/jumping-jacks/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/smith-machine-hip-thrust": {
+    "source": "open",
+    "sourceId": "smith-machine-hip-thrust",
+    "title": "Smith Machine Hip Thrust",
+    "originalPaths": [
+      "images/smith-machine-hip-thrust/start.webp",
+      "images/smith-machine-hip-thrust/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/frog-pumps": {
+    "source": "open",
+    "sourceId": "frog-pumps",
+    "title": "Frog Pumps",
+    "originalPaths": [
+      "images/frog-pumps/start.webp",
+      "images/frog-pumps/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/glute-ham-raise": {
+    "source": "open",
+    "sourceId": "glute-ham-raise",
+    "title": "Glute-Ham Raise",
+    "originalPaths": [
+      "images/glute-ham-raise/start.webp",
+      "images/glute-ham-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/side-plank-leg-raise": {
+    "source": "open",
+    "sourceId": "side-plank-leg-raise",
+    "title": "Side Plank Leg Raise",
+    "originalPaths": [
+      "images/side-plank-leg-raise/start.webp",
+      "images/side-plank-leg-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/side-lying-leg-raise": {
+    "source": "open",
+    "sourceId": "side-lying-leg-raise",
+    "title": "Side-Lying Leg Raise",
+    "originalPaths": [
+      "images/side-lying-leg-raise/start.webp",
+      "images/side-lying-leg-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/archer-push-up": {
+    "source": "open",
+    "sourceId": "archer-push-up",
+    "title": "Archer Push-Up",
+    "originalPaths": [
+      "images/archer-push-up/start.webp",
+      "images/archer-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/thruster": {
+    "source": "open",
+    "sourceId": "thruster",
+    "title": "Thruster",
+    "originalPaths": [
+      "images/thruster/start.webp",
+      "images/thruster/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/kettlebell-deadlift": {
+    "source": "open",
+    "sourceId": "kettlebell-deadlift",
+    "title": "Kettlebell Deadlift",
+    "originalPaths": [
+      "images/kettlebell-deadlift/start.webp",
+      "images/kettlebell-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-y-raise": {
+    "source": "open",
+    "sourceId": "cable-y-raise",
+    "title": "Cable Y-Raise",
+    "originalPaths": [
+      "images/cable-y-raise/start.webp",
+      "images/cable-y-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/standing-cable-chest-press": {
+    "source": "open",
+    "sourceId": "standing-cable-chest-press",
+    "title": "Standing Cable Chest Press",
+    "originalPaths": [
+      "images/standing-cable-chest-press/start.webp",
+      "images/standing-cable-chest-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bear-crawl": {
+    "source": "open",
+    "sourceId": "bear-crawl",
+    "title": "Bear Crawl",
+    "originalPaths": [
+      "images/bear-crawl/start.webp",
+      "images/bear-crawl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/table-inverted-row": {
+    "source": "open",
+    "sourceId": "table-inverted-row",
+    "title": "Table Inverted Row",
+    "originalPaths": [
+      "images/table-inverted-row/start.webp",
+      "images/table-inverted-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/superman": {
+    "source": "open",
+    "sourceId": "superman",
+    "title": "Superman",
+    "originalPaths": [
+      "images/superman/start.webp",
+      "images/superman/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/downward-dog": {
+    "source": "open",
+    "sourceId": "downward-dog",
+    "title": "Downward Dog",
+    "originalPaths": [
+      "images/downward-dog/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-leg-extension": {
+    "source": "open",
+    "sourceId": "band-leg-extension",
+    "title": "Band Leg Extension",
+    "originalPaths": [
+      "images/band-leg-extension/start.webp",
+      "images/band-leg-extension/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/glute-bridge-march": {
+    "source": "open",
+    "sourceId": "glute-bridge-march",
+    "title": "Glute Bridge March",
+    "originalPaths": [
+      "images/glute-bridge-march/start.webp",
+      "images/glute-bridge-march/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/v-up": {
+    "source": "open",
+    "sourceId": "v-up",
+    "title": "V-Up",
+    "originalPaths": [
+      "images/v-up/start.webp",
+      "images/v-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/box-jump": {
+    "source": "open",
+    "sourceId": "box-jump",
+    "title": "Box Jump",
+    "originalPaths": [
+      "images/box-jump/start.webp",
+      "images/box-jump/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/treadmill-incline-walk": {
+    "source": "open",
+    "sourceId": "treadmill-incline-walk",
+    "title": "Treadmill Incline Walk",
+    "originalPaths": [
+      "images/treadmill-incline-walk/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-squeeze-press": {
+    "source": "open",
+    "sourceId": "dumbbell-squeeze-press",
+    "title": "Dumbbell Squeeze Press",
+    "originalPaths": [
+      "images/dumbbell-squeeze-press/start.webp",
+      "images/dumbbell-squeeze-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-squat-thrust": {
+    "source": "guide",
+    "sourceId": "exercise-squat-thrust",
+    "title": "Squat Thrust",
+    "originalPaths": [
+      "assets/squat-thrust/frame-1.svg",
+      "assets/squat-thrust/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/squat-thrust/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/squat-thrust/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/barbell-floor-press": {
+    "source": "open",
+    "sourceId": "barbell-floor-press",
+    "title": "Barbell Floor Press",
+    "originalPaths": [
+      "images/barbell-floor-press/start.webp",
+      "images/barbell-floor-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-chest-press": {
+    "source": "open",
+    "sourceId": "band-chest-press",
+    "title": "Band Chest Press",
+    "originalPaths": [
+      "images/band-chest-press/start.webp",
+      "images/band-chest-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/toes-to-bar": {
+    "source": "open",
+    "sourceId": "toes-to-bar",
+    "title": "Toes-to-Bar",
+    "originalPaths": [
+      "images/toes-to-bar/start.webp",
+      "images/toes-to-bar/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/arm-circles": {
+    "source": "open",
+    "sourceId": "arm-circles",
+    "title": "Arm Circles",
+    "originalPaths": [
+      "images/arm-circles/start.webp",
+      "images/arm-circles/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/standing-hip-abduction": {
+    "source": "open",
+    "sourceId": "standing-hip-abduction",
+    "title": "Standing Hip Abduction",
+    "originalPaths": [
+      "images/standing-hip-abduction/start.webp",
+      "images/standing-hip-abduction/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bodyweight-squat": {
+    "source": "open",
+    "sourceId": "bodyweight-squat",
+    "title": "Bodyweight Squat",
+    "originalPaths": [
+      "images/bodyweight-squat/start.webp",
+      "images/bodyweight-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-bicep-curl": {
+    "source": "open",
+    "sourceId": "band-bicep-curl",
+    "title": "Band Bicep Curl",
+    "originalPaths": [
+      "images/band-bicep-curl/start.webp",
+      "images/band-bicep-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-landmine-romanian-deadlift": {
+    "source": "guide",
+    "sourceId": "exercise-landmine-romanian-deadlift",
+    "title": "Landmine Romanian Deadlift",
+    "originalPaths": [
+      "assets/landmine-romanian-deadlift/frame-1.svg",
+      "assets/landmine-romanian-deadlift/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/landmine-romanian-deadlift/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/landmine-romanian-deadlift/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/bear-plank": {
+    "source": "open",
+    "sourceId": "bear-plank",
+    "title": "Bear Plank",
+    "originalPaths": [
+      "images/bear-plank/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-half-kneeling-pallof-press": {
+    "source": "guide",
+    "sourceId": "exercise-half-kneeling-pallof-press",
+    "title": "Half-Kneeling Pallof Press",
+    "originalPaths": [
+      "assets/half-kneeling-pallof-press/frame-1.svg",
+      "assets/half-kneeling-pallof-press/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/half-kneeling-pallof-press/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/half-kneeling-pallof-press/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "everkinetic/0120": {
+    "source": "everkinetic",
+    "sourceId": "0120",
+    "title": "Standing Leg Curls",
+    "originalPaths": [
+      "svg/0120-relaxation.svg",
+      "svg/0120-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "open/step-jack": {
+    "source": "open",
+    "sourceId": "step-jack",
+    "title": "Step Jack",
+    "originalPaths": [
+      "images/step-jack/start.webp",
+      "images/step-jack/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-cat-cow-stretch": {
+    "source": "guide",
+    "sourceId": "exercise-cat-cow-stretch",
+    "title": "Cat-Cow Stretch",
+    "originalPaths": [
+      "assets/cat-cow-stretch/frame-1.svg",
+      "assets/cat-cow-stretch/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/cat-cow-stretch/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/cat-cow-stretch/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/band-deadlift": {
+    "source": "open",
+    "sourceId": "band-deadlift",
+    "title": "Band Deadlift",
+    "originalPaths": [
+      "images/band-deadlift/start.webp",
+      "images/band-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-worlds-greatest-stretch": {
+    "source": "guide",
+    "sourceId": "exercise-worlds-greatest-stretch",
+    "title": "World's Greatest Stretch",
+    "originalPaths": [
+      "assets/worlds-greatest-stretch/frame-1.svg",
+      "assets/worlds-greatest-stretch/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/worlds-greatest-stretch/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/worlds-greatest-stretch/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/dumbbell-hip-thrust": {
+    "source": "open",
+    "sourceId": "dumbbell-hip-thrust",
+    "title": "Dumbbell Hip Thrust",
+    "originalPaths": [
+      "images/dumbbell-hip-thrust/start.webp",
+      "images/dumbbell-hip-thrust/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-dumbbell-lateral-lunge": {
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-lateral-lunge",
+    "title": "Dumbbell Lateral Lunge",
+    "originalPaths": [
+      "assets/dumbbell-lateral-lunge/frame-1.svg",
+      "assets/dumbbell-lateral-lunge/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/dumbbell-lateral-lunge/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/dumbbell-lateral-lunge/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "guide/exercise-kettlebell-romanian-deadlift": {
+    "source": "guide",
+    "sourceId": "exercise-kettlebell-romanian-deadlift",
+    "title": "Kettlebell Romanian Deadlift",
+    "originalPaths": [
+      "assets/kettlebell-romanian-deadlift/frame-1.svg",
+      "assets/kettlebell-romanian-deadlift/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/kettlebell-romanian-deadlift/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/kettlebell-romanian-deadlift/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/stability-ball-hamstring-curl": {
+    "source": "open",
+    "sourceId": "stability-ball-hamstring-curl",
+    "title": "Stability Ball Hamstring Curl",
+    "originalPaths": [
+      "images/stability-ball-hamstring-curl/start.webp",
+      "images/stability-ball-hamstring-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-landmine-press": {
+    "source": "guide",
+    "sourceId": "exercise-landmine-press",
+    "title": "Landmine Press",
+    "originalPaths": [
+      "assets/landmine-press/frame-1.svg",
+      "assets/landmine-press/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/landmine-press/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/landmine-press/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "everkinetic/0190": {
+    "source": "everkinetic",
+    "sourceId": "0190",
+    "title": "Bench Press: Barbell (Reverse Triceps)",
+    "originalPaths": [
+      "svg/0190-relaxation.svg",
+      "svg/0190-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "open/reverse-grip-lat-pulldown": {
+    "source": "open",
+    "sourceId": "reverse-grip-lat-pulldown",
+    "title": "Reverse-Grip Lat Pulldown",
+    "originalPaths": [
+      "images/reverse-grip-lat-pulldown/start.webp",
+      "images/reverse-grip-lat-pulldown/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/lateral-step-up": {
+    "source": "open",
+    "sourceId": "lateral-step-up",
+    "title": "Lateral Step-Up",
+    "originalPaths": [
+      "images/lateral-step-up/start.webp",
+      "images/lateral-step-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bodyweight-good-mornings": {
+    "source": "open",
+    "sourceId": "bodyweight-good-mornings",
+    "title": "Bodyweight Good Mornings",
+    "originalPaths": [
+      "images/bodyweight-good-mornings/start.webp",
+      "images/bodyweight-good-mornings/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/face-pulls": {
+    "source": "open",
+    "sourceId": "face-pulls",
+    "title": "Face Pull",
+    "originalPaths": [
+      "images/face-pulls/start.webp",
+      "images/face-pulls/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hollow-body-rock": {
+    "source": "open",
+    "sourceId": "hollow-body-rock",
+    "title": "Hollow Body Rock",
+    "originalPaths": [
+      "images/hollow-body-rock/start.webp",
+      "images/hollow-body-rock/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/suspension-chest-press": {
+    "source": "open",
+    "sourceId": "suspension-chest-press",
+    "title": "Suspension Chest Press",
+    "originalPaths": [
+      "images/suspension-chest-press/start.webp",
+      "images/suspension-chest-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/reverse-hyperextension": {
+    "source": "open",
+    "sourceId": "reverse-hyperextension",
+    "title": "Reverse Hyperextension (Bench)",
+    "originalPaths": [
+      "images/reverse-hyperextension/start.webp",
+      "images/reverse-hyperextension/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/prone-y-raise": {
+    "source": "open",
+    "sourceId": "prone-y-raise",
+    "title": "Prone Y-Raise",
+    "originalPaths": [
+      "images/prone-y-raise/start.webp",
+      "images/prone-y-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/suspension-triceps-extension": {
+    "source": "open",
+    "sourceId": "suspension-triceps-extension",
+    "title": "Suspension Triceps Extension",
+    "originalPaths": [
+      "images/suspension-triceps-extension/start.webp",
+      "images/suspension-triceps-extension/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/crab-walk": {
+    "source": "open",
+    "sourceId": "crab-walk",
+    "title": "Crab Walk",
+    "originalPaths": [
+      "images/crab-walk/start.webp",
+      "images/crab-walk/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bicycle-crunch": {
+    "source": "open",
+    "sourceId": "bicycle-crunch",
+    "title": "Bicycle Crunch",
+    "originalPaths": [
+      "images/bicycle-crunch/start.webp",
+      "images/bicycle-crunch/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/preacher-curl": {
+    "source": "open",
+    "sourceId": "preacher-curl",
+    "title": "Preacher Curl",
+    "originalPaths": [
+      "images/preacher-curl/start.webp",
+      "images/preacher-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wall-handstand-hold": {
+    "source": "open",
+    "sourceId": "wall-handstand-hold",
+    "title": "Wall Handstand Hold",
+    "originalPaths": [
+      "images/wall-handstand-hold/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/negative-pull-up": {
+    "source": "open",
+    "sourceId": "negative-pull-up",
+    "title": "Negative Pull-Up",
+    "originalPaths": [
+      "images/negative-pull-up/start.webp",
+      "images/negative-pull-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/doorway-chest-stretch": {
+    "source": "open",
+    "sourceId": "doorway-chest-stretch",
+    "title": "Chest Stretch on Post",
+    "originalPaths": [
+      "images/doorway-chest-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-landmine-squat": {
+    "source": "guide",
+    "sourceId": "exercise-landmine-squat",
+    "title": "Landmine Squat",
+    "originalPaths": [
+      "assets/landmine-squat/frame-1.svg",
+      "assets/landmine-squat/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/landmine-squat/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/landmine-squat/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/nordic-hamstring-curl": {
+    "source": "open",
+    "sourceId": "nordic-hamstring-curl",
+    "title": "Nordic Hamstring Curl",
+    "originalPaths": [
+      "images/nordic-hamstring-curl/start.webp",
+      "images/nordic-hamstring-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-dumbbell-sumo-deadlift": {
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-sumo-deadlift",
+    "title": "Dumbbell Sumo Deadlift",
+    "originalPaths": [
+      "assets/dumbbell-sumo-deadlift/frame-1.svg",
+      "assets/dumbbell-sumo-deadlift/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/dumbbell-sumo-deadlift/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/dumbbell-sumo-deadlift/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/chest-supported-dumbbell-row": {
+    "source": "open",
+    "sourceId": "chest-supported-dumbbell-row",
+    "title": "Chest-Supported Dumbbell Row",
+    "originalPaths": [
+      "images/chest-supported-dumbbell-row/start.webp",
+      "images/chest-supported-dumbbell-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hanging-knee-raise": {
+    "source": "open",
+    "sourceId": "hanging-knee-raise",
+    "title": "Hanging Knee Raise",
+    "originalPaths": [
+      "images/hanging-knee-raise/start.webp",
+      "images/hanging-knee-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/box-squat": {
+    "source": "open",
+    "sourceId": "box-squat",
+    "title": "Box Squat",
+    "originalPaths": [
+      "images/box-squat/start.webp",
+      "images/box-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/neck-flexion": {
+    "source": "open",
+    "sourceId": "neck-flexion",
+    "title": "Neck Flexion",
+    "originalPaths": [
+      "images/neck-flexion/start.webp",
+      "images/neck-flexion/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/neck-extension": {
+    "source": "open",
+    "sourceId": "neck-extension",
+    "title": "Neck Extension",
+    "originalPaths": [
+      "images/neck-extension/start.webp",
+      "images/neck-extension/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wrist-extensor-stretch": {
+    "source": "open",
+    "sourceId": "wrist-extensor-stretch",
+    "title": "Wrist Extensor Stretch",
+    "originalPaths": [
+      "images/wrist-extensor-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/assisted-pull-up": {
+    "source": "open",
+    "sourceId": "assisted-pull-up",
+    "title": "Assisted Pull-Up",
+    "originalPaths": [
+      "images/assisted-pull-up/start.webp",
+      "images/assisted-pull-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/back-extensions": {
+    "source": "open",
+    "sourceId": "back-extensions",
+    "title": "Back Extension",
+    "originalPaths": [
+      "images/back-extensions/start.webp",
+      "images/back-extensions/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-lateral-raise": {
+    "source": "open",
+    "sourceId": "band-lateral-raise",
+    "title": "Band Lateral Raise",
+    "originalPaths": [
+      "images/band-lateral-raise/start.webp",
+      "images/band-lateral-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-lying-leg-curl": {
+    "source": "open",
+    "sourceId": "band-lying-leg-curl",
+    "title": "Band Lying Leg Curl",
+    "originalPaths": [
+      "images/band-lying-leg-curl/start.webp",
+      "images/band-lying-leg-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/barbell-pullover": {
+    "source": "open",
+    "sourceId": "barbell-pullover",
+    "title": "Barbell Pullover",
+    "originalPaths": [
+      "images/barbell-pullover/start.webp",
+      "images/barbell-pullover/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-curl": {
+    "source": "open",
+    "sourceId": "cable-curl",
+    "title": "Cable Curl",
+    "originalPaths": [
+      "images/cable-curl/start.webp",
+      "images/cable-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-shrug": {
+    "source": "open",
+    "sourceId": "cable-shrug",
+    "title": "Cable Shrug",
+    "originalPaths": [
+      "images/cable-shrug/start.webp",
+      "images/cable-shrug/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dead-bug": {
+    "source": "open",
+    "sourceId": "dead-bug",
+    "title": "Dead Bug",
+    "originalPaths": [
+      "images/dead-bug/start.webp",
+      "images/dead-bug/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/decline-push-up": {
+    "source": "open",
+    "sourceId": "decline-push-up",
+    "title": "Decline Push-Up",
+    "originalPaths": [
+      "images/decline-push-up/start.webp",
+      "images/decline-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/decline-sit-up": {
+    "source": "open",
+    "sourceId": "decline-sit-up",
+    "title": "Decline Sit Up",
+    "originalPaths": [
+      "images/decline-sit-up/start.webp",
+      "images/decline-sit-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-deadlift": {
+    "source": "open",
+    "sourceId": "dumbbell-deadlift",
+    "title": "Dumbbell Deadlift",
+    "originalPaths": [
+      "images/dumbbell-deadlift/start.webp",
+      "images/dumbbell-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-kickback": {
+    "source": "open",
+    "sourceId": "dumbbell-kickback",
+    "title": "Triceps Kickback",
+    "originalPaths": [
+      "images/dumbbell-kickback/start.webp",
+      "images/dumbbell-kickback/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-pullover": {
+    "source": "open",
+    "sourceId": "dumbbell-pullover",
+    "title": "Dumbbell Pullover",
+    "originalPaths": [
+      "images/dumbbell-pullover/start.webp",
+      "images/dumbbell-pullover/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-reverse-wrist-curl": {
+    "source": "open",
+    "sourceId": "dumbbell-reverse-wrist-curl",
+    "title": "Dumbbell Reverse Wrist Curl",
+    "originalPaths": [
+      "images/dumbbell-reverse-wrist-curl/start.webp",
+      "images/dumbbell-reverse-wrist-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-shrug": {
+    "source": "open",
+    "sourceId": "dumbbell-shrug",
+    "title": "Dumbbell Shrug",
+    "originalPaths": [
+      "images/dumbbell-shrug/start.webp",
+      "images/dumbbell-shrug/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hanging-leg-raise": {
+    "source": "open",
+    "sourceId": "hanging-leg-raise",
+    "title": "Hanging Leg Raise",
+    "originalPaths": [
+      "images/hanging-leg-raise/start.webp",
+      "images/hanging-leg-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/incline-dumbbell-curl": {
+    "source": "open",
+    "sourceId": "incline-dumbbell-curl",
+    "title": "Incline Dumbbell Curl",
+    "originalPaths": [
+      "images/incline-dumbbell-curl/start.webp",
+      "images/incline-dumbbell-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/incline-push-up": {
+    "source": "open",
+    "sourceId": "incline-push-up",
+    "title": "Incline Push-Up",
+    "originalPaths": [
+      "images/incline-push-up/start.webp",
+      "images/incline-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/inverted-row": {
+    "source": "open",
+    "sourceId": "inverted-row",
+    "title": "Inverted Row",
+    "originalPaths": [
+      "images/inverted-row/start.webp",
+      "images/inverted-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/jump-squat": {
+    "source": "open",
+    "sourceId": "jump-squat",
+    "title": "Jump Squat",
+    "originalPaths": [
+      "images/jump-squat/start.webp",
+      "images/jump-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/kettlebell-goblet-squat": {
+    "source": "open",
+    "sourceId": "kettlebell-goblet-squat",
+    "title": "Kettlebell Goblet Squat",
+    "originalPaths": [
+      "images/kettlebell-goblet-squat/start.webp",
+      "images/kettlebell-goblet-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/mountain-climbers": {
+    "source": "open",
+    "sourceId": "mountain-climbers",
+    "title": "Mountain Climber",
+    "originalPaths": [
+      "images/mountain-climbers/start.webp",
+      "images/mountain-climbers/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/muscle-up": {
+    "source": "open",
+    "sourceId": "muscle-up",
+    "title": "Muscle-Up",
+    "originalPaths": [
+      "images/muscle-up/start.webp",
+      "images/muscle-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/neutral-grip-pull-up": {
+    "source": "open",
+    "sourceId": "neutral-grip-pull-up",
+    "title": "Neutral Grip Pull Up",
+    "originalPaths": [
+      "images/neutral-grip-pull-up/start.webp",
+      "images/neutral-grip-pull-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/overhead-triceps-stretch": {
+    "source": "open",
+    "sourceId": "overhead-triceps-stretch",
+    "title": "Overhead Triceps Stretch",
+    "originalPaths": [
+      "images/overhead-triceps-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/power-clean": {
+    "source": "open",
+    "sourceId": "power-clean",
+    "title": "Power Clean",
+    "originalPaths": [
+      "images/power-clean/start.webp",
+      "images/power-clean/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/pull-up": {
+    "source": "open",
+    "sourceId": "pull-up",
+    "title": "Pull-Up",
+    "originalPaths": [
+      "images/pull-up/start.webp",
+      "images/pull-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/reverse-crunch": {
+    "source": "open",
+    "sourceId": "reverse-crunch",
+    "title": "Reverse Crunch",
+    "originalPaths": [
+      "images/reverse-crunch/start.webp",
+      "images/reverse-crunch/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/reverse-plank": {
+    "source": "open",
+    "sourceId": "reverse-plank",
+    "title": "Reverse Plank",
+    "originalPaths": [
+      "images/reverse-plank/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/seated-dumbbell-curl": {
+    "source": "open",
+    "sourceId": "seated-dumbbell-curl",
+    "title": "Seated Dumbbell Curl",
+    "originalPaths": [
+      "images/seated-dumbbell-curl/start.webp",
+      "images/seated-dumbbell-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/sit-up": {
+    "source": "open",
+    "sourceId": "sit-up",
+    "title": "Sit-Up",
+    "originalPaths": [
+      "images/sit-up/start.webp",
+      "images/sit-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/standing-hamstring-stretch": {
+    "source": "open",
+    "sourceId": "standing-hamstring-stretch",
+    "title": "Standing Hamstring Stretch",
+    "originalPaths": [
+      "images/standing-hamstring-stretch/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/step-ups": {
+    "source": "open",
+    "sourceId": "step-ups",
+    "title": "Step-Up",
+    "originalPaths": [
+      "images/step-ups/start.webp",
+      "images/step-ups/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/trap-bar-deadlift": {
+    "source": "open",
+    "sourceId": "trap-bar-deadlift",
+    "title": "Trap Bar Deadlift",
+    "originalPaths": [
+      "images/trap-bar-deadlift/start.webp",
+      "images/trap-bar-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/tricep-pushdowns": {
+    "source": "open",
+    "sourceId": "tricep-pushdowns",
+    "title": "Tricep Pushdown",
+    "originalPaths": [
+      "images/tricep-pushdowns/start.webp",
+      "images/tricep-pushdowns/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wall-push-up": {
+    "source": "open",
+    "sourceId": "wall-push-up",
+    "title": "Wall Push-Up",
+    "originalPaths": [
+      "images/wall-push-up/start.webp",
+      "images/wall-push-up/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wall-sit": {
+    "source": "open",
+    "sourceId": "wall-sit",
+    "title": "Wall Sit",
+    "originalPaths": [
+      "images/wall-sit/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-external-rotation": {
+    "source": "open",
+    "sourceId": "band-external-rotation",
+    "title": "Band External Rotation",
+    "originalPaths": [
+      "images/band-external-rotation/start.webp",
+      "images/band-external-rotation/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-internal-rotation": {
+    "source": "open",
+    "sourceId": "band-internal-rotation",
+    "title": "Band Internal Rotation",
+    "originalPaths": [
+      "images/band-internal-rotation/start.webp",
+      "images/band-internal-rotation/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-overhead-press": {
+    "source": "open",
+    "sourceId": "band-overhead-press",
+    "title": "Band Overhead Press",
+    "originalPaths": [
+      "images/band-overhead-press/start.webp",
+      "images/band-overhead-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/band-pallof-press": {
+    "source": "open",
+    "sourceId": "band-pallof-press",
+    "title": "Band Pallof Press",
+    "originalPaths": [
+      "images/band-pallof-press/start.webp",
+      "images/band-pallof-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/bent-over-row": {
+    "source": "open",
+    "sourceId": "bent-over-row",
+    "title": "Bent-Over Row",
+    "originalPaths": [
+      "images/bent-over-row/start.webp",
+      "images/bent-over-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-crunch": {
+    "source": "open",
+    "sourceId": "cable-crunch",
+    "title": "Cable Crunch",
+    "originalPaths": [
+      "images/cable-crunch/start.webp",
+      "images/cable-crunch/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/cable-external-rotation": {
+    "source": "open",
+    "sourceId": "cable-external-rotation",
+    "title": "Cable External Rotation",
+    "originalPaths": [
+      "images/cable-external-rotation/start.webp",
+      "images/cable-external-rotation/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/chest-press-machine": {
+    "source": "open",
+    "sourceId": "chest-press-machine",
+    "title": "Machine Chest Press",
+    "originalPaths": [
+      "images/chest-press-machine/start.webp",
+      "images/chest-press-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/childs-pose": {
+    "source": "open",
+    "sourceId": "childs-pose",
+    "title": "Child's Pose",
+    "originalPaths": [
+      "images/childs-pose/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-calf-raise": {
+    "source": "open",
+    "sourceId": "dumbbell-calf-raise",
+    "title": "Dumbbell Calf Raise",
+    "originalPaths": [
+      "images/dumbbell-calf-raise/start.webp",
+      "images/dumbbell-calf-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/dumbbell-shoulder-press": {
+    "source": "open",
+    "sourceId": "dumbbell-shoulder-press",
+    "title": "Dumbbell Shoulder Press",
+    "originalPaths": [
+      "images/dumbbell-shoulder-press/start.webp",
+      "images/dumbbell-shoulder-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hack-squat": {
+    "source": "open",
+    "sourceId": "hack-squat",
+    "title": "Hack Squat",
+    "originalPaths": [
+      "images/hack-squat/start.webp",
+      "images/hack-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hip-abduction-machine": {
+    "source": "open",
+    "sourceId": "hip-abduction-machine",
+    "title": "Hip Abduction",
+    "originalPaths": [
+      "images/hip-abduction-machine/start.webp",
+      "images/hip-abduction-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/hip-adduction-machine": {
+    "source": "open",
+    "sourceId": "hip-adduction-machine",
+    "title": "Hip Adduction",
+    "originalPaths": [
+      "images/hip-adduction-machine/start.webp",
+      "images/hip-adduction-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/lat-pulldown": {
+    "source": "open",
+    "sourceId": "lat-pulldown",
+    "title": "Lat Pulldown",
+    "originalPaths": [
+      "images/lat-pulldown/start.webp",
+      "images/lat-pulldown/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/machine-high-row": {
+    "source": "open",
+    "sourceId": "machine-high-row",
+    "title": "Machine High Row",
+    "originalPaths": [
+      "images/machine-high-row/start.webp",
+      "images/machine-high-row/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/machine-lateral-raise": {
+    "source": "open",
+    "sourceId": "machine-lateral-raise",
+    "title": "Machine Lateral Raise",
+    "originalPaths": [
+      "images/machine-lateral-raise/start.webp",
+      "images/machine-lateral-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/machine-preacher-curl": {
+    "source": "open",
+    "sourceId": "machine-preacher-curl",
+    "title": "Machine Preacher Curl",
+    "originalPaths": [
+      "images/machine-preacher-curl/start.webp",
+      "images/machine-preacher-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/seated-calf-raise-machine": {
+    "source": "open",
+    "sourceId": "seated-calf-raise-machine",
+    "title": "Seated Calf Raise Machine",
+    "originalPaths": [
+      "images/seated-calf-raise-machine/start.webp",
+      "images/seated-calf-raise-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/rack-pull": {
+    "source": "open",
+    "sourceId": "rack-pull",
+    "title": "Rack Pull",
+    "originalPaths": [
+      "images/rack-pull/start.webp",
+      "images/rack-pull/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/romanian-deadlift": {
+    "source": "open",
+    "sourceId": "romanian-deadlift",
+    "title": "Romanian Deadlift",
+    "originalPaths": [
+      "images/romanian-deadlift/start.webp",
+      "images/romanian-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/smith-machine-shrug": {
+    "source": "open",
+    "sourceId": "smith-machine-shrug",
+    "title": "Smith Machine Shrug",
+    "originalPaths": [
+      "images/smith-machine-shrug/start.webp",
+      "images/smith-machine-shrug/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/smith-machine-squat": {
+    "source": "open",
+    "sourceId": "smith-machine-squat",
+    "title": "Smith Machine Squat",
+    "originalPaths": [
+      "images/smith-machine-squat/start.webp",
+      "images/smith-machine-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/stair-climber": {
+    "source": "open",
+    "sourceId": "stair-climber",
+    "title": "Stair Climber",
+    "originalPaths": [
+      "images/stair-climber/hold.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/standing-calf-raise-machine": {
+    "source": "open",
+    "sourceId": "standing-calf-raise-machine",
+    "title": "Standing Calf Raise Machine",
+    "originalPaths": [
+      "images/standing-calf-raise-machine/start.webp",
+      "images/standing-calf-raise-machine/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/straight-arm-pulldown": {
+    "source": "open",
+    "sourceId": "straight-arm-pulldown",
+    "title": "Straight-Arm Pulldown",
+    "originalPaths": [
+      "images/straight-arm-pulldown/start.webp",
+      "images/straight-arm-pulldown/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/sumo-deadlift": {
+    "source": "open",
+    "sourceId": "sumo-deadlift",
+    "title": "Sumo Deadlift",
+    "originalPaths": [
+      "images/sumo-deadlift/start.webp",
+      "images/sumo-deadlift/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wide-grip-bench-press": {
+    "source": "open",
+    "sourceId": "wide-grip-bench-press",
+    "title": "Wide Grip Bench Press",
+    "originalPaths": [
+      "images/wide-grip-bench-press/start.webp",
+      "images/wide-grip-bench-press/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/wrist-curl": {
+    "source": "open",
+    "sourceId": "wrist-curl",
+    "title": "Wrist Curl",
+    "originalPaths": [
+      "images/wrist-curl/start.webp",
+      "images/wrist-curl/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "open/zercher-squat": {
+    "source": "open",
+    "sourceId": "zercher-squat",
+    "title": "Zercher Squat",
+    "originalPaths": [
+      "images/zercher-squat/start.webp",
+      "images/zercher-squat/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-dumbbell-bent-over-row": {
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-bent-over-row",
+    "title": "Dumbbell Bent Over Row",
+    "originalPaths": [
+      "assets/dumbbell-bent-over-row/frame-1.svg",
+      "assets/dumbbell-bent-over-row/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/dumbbell-bent-over-row/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/dumbbell-bent-over-row/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "guide/exercise-weighted-crunch": {
+    "source": "guide",
+    "sourceId": "exercise-weighted-crunch",
+    "title": "Weighted Crunch",
+    "originalPaths": [
+      "assets/weighted-crunch/frame-1.svg",
+      "assets/weighted-crunch/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/weighted-crunch/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/weighted-crunch/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/russian-twists": {
+    "source": "open",
+    "sourceId": "russian-twists",
+    "title": "Russian Twist",
+    "originalPaths": [
+      "images/russian-twists/start.webp",
+      "images/russian-twists/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "guide/exercise-push-up-shoulder-tap": {
+    "source": "guide",
+    "sourceId": "exercise-push-up-shoulder-tap",
+    "title": "Push-up Shoulder Tap",
+    "originalPaths": [
+      "assets/push-up-shoulder-tap/frame-1.svg",
+      "assets/push-up-shoulder-tap/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/push-up-shoulder-tap/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/push-up-shoulder-tap/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "guide/exercise-scapular-pull-up": {
+    "source": "guide",
+    "sourceId": "exercise-scapular-pull-up",
+    "title": "Scapular Pull-up",
+    "originalPaths": [
+      "assets/scapular-pull-up/frame-1.svg",
+      "assets/scapular-pull-up/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/scapular-pull-up/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/scapular-pull-up/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "guide/exercise-reverse-curl": {
+    "source": "guide",
+    "sourceId": "exercise-reverse-curl",
+    "title": "Reverse Curl",
+    "originalPaths": [
+      "assets/reverse-curl/frame-1.svg",
+      "assets/reverse-curl/frame-3.svg"
+    ],
+    "attribution": [
+      {
+        "path": "assets/reverse-curl/frame-1.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "path": "assets/reverse-curl/frame-3.svg",
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "open/cable-lateral-raise": {
+    "source": "open",
+    "sourceId": "cable-lateral-raise",
+    "title": "Cable Lateral Raise",
+    "originalPaths": [
+      "images/cable-lateral-raise/start.webp",
+      "images/cable-lateral-raise/end.webp"
+    ],
+    "attribution": {
+      "creator": "Open Exercise Illustrations",
+      "url": "https://github.com/hitmanrepo/open-exercise-illustrations",
+      "license": "CC0 1.0",
+      "licensePath": "exercise-media/open/LICENSE",
+      "revision": "2786aefa4b36a08faeca8114e0d1eb0af3ef6732",
+      "dark": true,
+      "aiGenerated": true
+    }
+  },
+  "everkinetic/0004": {
+    "source": "everkinetic",
+    "sourceId": "0004",
+    "title": "Seated Military Press",
+    "originalPaths": [
+      "svg/0004-relaxation.svg",
+      "svg/0004-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0029": {
+    "source": "everkinetic",
+    "sourceId": "0029",
+    "title": "T-Bar Rows",
+    "originalPaths": [
+      "svg/0029-relaxation.svg",
+      "svg/0029-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0057": {
+    "source": "everkinetic",
+    "sourceId": "0057",
+    "title": "Flat Bench Cable Flys",
+    "originalPaths": [
+      "svg/0057-relaxation.svg",
+      "svg/0057-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0059": {
+    "source": "everkinetic",
+    "sourceId": "0059",
+    "title": "Bench Press: Dumbbell (Incline, Hammer Grip)",
+    "originalPaths": [
+      "svg/0059-relaxation.svg",
+      "svg/0059-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0063": {
+    "source": "everkinetic",
+    "sourceId": "0063",
+    "title": "Incline Fly's with a Twist",
+    "originalPaths": [
+      "svg/0063-relaxation.svg",
+      "svg/0063-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0068": {
+    "source": "everkinetic",
+    "sourceId": "0068",
+    "title": "Bench Press: Dumbbell (One Arm)",
+    "originalPaths": [
+      "svg/0068-relaxation.svg",
+      "svg/0068-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0099": {
+    "source": "everkinetic",
+    "sourceId": "0099",
+    "title": "Dead Lifts: Barbell",
+    "originalPaths": [
+      "svg/0099-relaxation.svg",
+      "svg/0099-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0100": {
+    "source": "everkinetic",
+    "sourceId": "0100",
+    "title": "Dead Lifts: Smith Machine",
+    "originalPaths": [
+      "svg/0100-relaxation.svg",
+      "svg/0100-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0102": {
+    "source": "everkinetic",
+    "sourceId": "0102",
+    "title": "Good Mornings: Smith Machine",
+    "originalPaths": [
+      "svg/0102-relaxation.svg",
+      "svg/0102-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0117": {
+    "source": "everkinetic",
+    "sourceId": "0117",
+    "title": "Lying Leg Curl Machine",
+    "originalPaths": [
+      "svg/0117-relaxation.svg",
+      "svg/0117-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0135": {
+    "source": "everkinetic",
+    "sourceId": "0135",
+    "title": "Hip Adduction",
+    "originalPaths": [
+      "svg/0135-relaxation.svg",
+      "svg/0135-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0158": {
+    "source": "everkinetic",
+    "sourceId": "0158",
+    "title": "Weighted Sissy Squat with Weight Plate",
+    "originalPaths": [
+      "svg/0158-relaxation.svg",
+      "svg/0158-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0160": {
+    "source": "everkinetic",
+    "sourceId": "0160",
+    "title": "Wide Stance Squat with Barbell",
+    "originalPaths": [
+      "svg/0160-relaxation.svg",
+      "svg/0160-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0168": {
+    "source": "everkinetic",
+    "sourceId": "0168",
+    "title": "Decline Close Grip Bench to Skull Crusher",
+    "originalPaths": [
+      "svg/0168-relaxation.svg",
+      "svg/0168-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0172": {
+    "source": "everkinetic",
+    "sourceId": "0172",
+    "title": "Triceps Dips: Body Weight",
+    "originalPaths": [
+      "svg/0172-relaxation.svg",
+      "svg/0172-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0175": {
+    "source": "everkinetic",
+    "sourceId": "0175",
+    "title": "JM Press",
+    "originalPaths": [
+      "svg/0175-relaxation.svg",
+      "svg/0175-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0180": {
+    "source": "everkinetic",
+    "sourceId": "0180",
+    "title": "Lying Close Grip Triceps Press to Chin with Barbell",
+    "originalPaths": [
+      "svg/0180-relaxation.svg",
+      "svg/0180-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0183": {
+    "source": "everkinetic",
+    "sourceId": "0183",
+    "title": "Lying Triceps Press with Barbell",
+    "originalPaths": [
+      "svg/0183-relaxation.svg",
+      "svg/0183-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0186": {
+    "source": "everkinetic",
+    "sourceId": "0186",
+    "title": "Triceps Extension: Dumbbell (Single Arm, Pronated)",
+    "originalPaths": [
+      "svg/0186-relaxation.svg",
+      "svg/0186-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0187": {
+    "source": "everkinetic",
+    "sourceId": "0187",
+    "title": "Triceps Extension: Dumbbell (Single Arm, Supinated)",
+    "originalPaths": [
+      "svg/0187-relaxation.svg",
+      "svg/0187-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0188": {
+    "source": "everkinetic",
+    "sourceId": "0188",
+    "title": "Close Triceps Pushup",
+    "originalPaths": [
+      "svg/0188-relaxation.svg",
+      "svg/0188-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0202": {
+    "source": "everkinetic",
+    "sourceId": "0202",
+    "title": "Triceps Extension: Towel (Standing)",
+    "originalPaths": [
+      "svg/0202-relaxation.svg",
+      "svg/0202-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0215": {
+    "source": "everkinetic",
+    "sourceId": "0215",
+    "title": "Lying Incline Curl with Barbell",
+    "originalPaths": [
+      "svg/0215-relaxation.svg",
+      "svg/0215-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0219": {
+    "source": "everkinetic",
+    "sourceId": "0219",
+    "title": "Close Grip Standing Biceps Curls with Barbell",
+    "originalPaths": [
+      "svg/0219-relaxation.svg",
+      "svg/0219-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0223": {
+    "source": "everkinetic",
+    "sourceId": "0223",
+    "title": "Alternating Bicep Curl with Dumbbell",
+    "originalPaths": [
+      "svg/0223-relaxation.svg",
+      "svg/0223-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0247": {
+    "source": "everkinetic",
+    "sourceId": "0247",
+    "title": "Standing One Arm Bicep Curl with Cable",
+    "originalPaths": [
+      "svg/0247-relaxation.svg",
+      "svg/0247-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0258": {
+    "source": "everkinetic",
+    "sourceId": "0258",
+    "title": "One Arm Bicep Concentration on Stability Ball with Dumbbell",
+    "originalPaths": [
+      "svg/0258-relaxation.svg",
+      "svg/0258-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0285": {
+    "source": "everkinetic",
+    "sourceId": "0285",
+    "title": "Ab Rollout with Barbell",
+    "originalPaths": [
+      "svg/0285-relaxation.svg",
+      "svg/0285-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  },
+  "everkinetic/0286": {
+    "source": "everkinetic",
+    "sourceId": "0286",
+    "title": "Ab Rollout on Knees with Barbell",
+    "originalPaths": [
+      "svg/0286-relaxation.svg",
+      "svg/0286-tension.svg"
+    ],
+    "attribution": {
+      "creator": "Greg Priday / Everkinetic",
+      "url": "https://github.com/everkinetic/data",
+      "license": "CC BY-SA 4.0",
+      "licensePath": "exercise-media/everkinetic/LICENSE.md",
+      "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+    }
+  }
+}

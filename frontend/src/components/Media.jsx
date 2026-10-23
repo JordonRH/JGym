@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react'
-import { imgSrc, gifSrc, isVideoSrc, isCustomEx, figureOf } from '../lib/exercises.js'
+import { imgSrc, illustrationOf, isCustomEx } from '../lib/exercises.js'
 import { MOBILE } from '../lib/mobile.js'
 import { useStore } from '../store/useStore.js'
 import { t, exerciseNameFor } from '../lib/i18n.js'
 import Icon from './Icon.jsx'
+import SOURCES from '../lib/exercise-image-sources.json'
 import CustomMedia, { CustomThumb } from './CustomMedia.jsx'
 
 // An exercise's picture, wherever one shows. A custom exercise goes to CustomMedia.jsx — its own
@@ -14,60 +15,35 @@ export default function Media(p) {
   return isCustomEx(p.ex) ? <CustomMedia {...p} /> : <BuiltinMedia {...p} />
 }
 
-// Big autoplaying animation; tap toggles to the still frame. `compact` shrinks it (superset cards).
-// `minimizable` (workout view) adds a persistent minimize/expand control so the animation stops
-// eating the screen; the chosen size is saved to settings and carries across exercises and
-// future workouts (issue #12). Settings can also turn workout media off entirely
-// (gifSize 'off') — then nothing renders here and the exercise card closes up, exactly like
-// an exercise without media. Any other/legacy value behaves as 'full'.
+// Static demonstration frames are labelled as such, never presented as an animation.
 function BuiltinMedia({ ex, id, compact, minimizable }) {
-  const [playing, setPlaying] = useState(true)
-  // 'gif' → the animation failed, the still is showing; 'all' → the still failed too. Media is
-  // fetched from wherever the build points (a mount, a CDN): a dropped connection, an expired
-  // session on a gated instance or a CDN hiccup used to leave the browser's broken-image glyph
-  // on a white block. Now the still stands in for the animation, a neutral tile stands in for
-  // both, and a tap tries again — no text, so nothing new to translate.
+  const art = illustrationOf(ex)
+  const [selection, setSelection] = useState({ id: null, frame: 0 })
   const [failed, setFailed] = useState(null)
   const gifSize = useStore(s => s.S.gifSize)
-  const body = useStore(s => figureOf(s.S))
   const update = useStore(s => s.update)
-  const clip = ex.gif && isVideoSrc(gifSrc(ex, body)) ? gifSrc(ex, body) : null
-  const clipSrc = useClipInMemory(clip)
-  if (!ex.gif) return null
   if (minimizable && gifSize === 'off') return null
+  if (!art) return <p className="small dim jg-media-missing">No free demonstration image available for this exercise yet.</p>
+  const source = SOURCES[art.source || 'everkinetic']
+  const frame = selection.id === ex.id ? selection.frame : 0
+  const src = art.frames[frame]
   const mini = minimizable && gifSize === 'mini'
-  const toggleSize = e => { e.stopPropagation(); update(s => { s.gifSize = mini ? 'full' : 'mini' }) }
-  const showGif = playing && failed == null
-  const onError = () => setFailed(showGif ? 'gif' : 'all')
-  const onTap = () => {
-    if (failed) { setFailed(null); setPlaying(true); return }
-    setPlaying(p => !p)
-  }
-  return (
-    <div className={'exmedia' + (compact ? ' compact' : '') + (mini ? ' mini' : '') + (failed === 'all' ? ' broken' : '')} id={id} onClick={onTap}>
-      {failed === 'all'
-        ? <div className="exmedia-x"><Icon name="dumbbell" /></div>
-        : showGif && clip && clipSrc
-          // No poster: Android's WebView went back to it at every loop and stalled there (the
-          // still above stands in while the clip loads, so nothing is lost without it).
-          ? <video ref={autoplayMuted} className="catvid" src={clipSrc} autoPlay muted loop playsInline disablePictureInPicture
-              aria-label={exerciseNameFor(ex)} onError={onError} />
-          : showGif && clip
-            // the phone app is still reading the clip into memory: the still holds its place
-            ? <img decoding="async" draggable={false} src={imgSrc(ex, body)} alt={exerciseNameFor(ex)} />
-          : <img decoding="async" draggable={false} src={showGif ? gifSrc(ex, body) : imgSrc(ex, body)} alt={exerciseNameFor(ex)} onError={onError} />}
-      {minimizable && (
-        <button className="giftoggle" onClick={toggleSize}>
-          <Icon name={mini ? 'expand' : 'minimize'} />{mini ? t('Expand') : t('Minimize')}
-        </button>
-      )}
-      {!mini && !failed && (
-        <span className="gifhint">
-          <Icon name={playing ? 'pause' : 'play'} />{playing ? t('tap to pause') : t('tap to play')}
-        </span>
-      )}
-    </div>
-  )
+  return <figure id={id} data-image-background={source.dark ? 'dark' : 'light'} className={'jg-illustration' + (compact ? ' compact' : '') + (mini ? ' mini' : '')}>
+    {failed === src
+      ? <p role="status">Image could not load. <button onClick={() => setFailed(null)}>Retry</button></p>
+      : <img src={src} alt={`${exerciseNameFor(ex)} — demonstration ${frame + 1} of ${art.frames.length}`} onError={() => setFailed(src)} />}
+    <figcaption>
+      <div className="jg-frame-controls" aria-label="Demonstration frames">
+        {art.frames.length > 1 && art.frames.map((_, i) => <button key={i} aria-pressed={frame === i}
+          onClick={() => setSelection({ id: ex.id, frame: i })}>Position {i + 1}</button>)}
+        {minimizable && <button className="giftoggle" onClick={() => update(s => { s.gifSize = mini ? 'full' : 'mini' })}>
+          {mini ? t('Expand') : t('Minimize')}</button>}
+      </div>
+      <small>{source.aiGenerated ? 'AI-generated illustration: ' : 'Illustration: '}<a href={source.url} target="_blank" rel="noreferrer">{source.creator}</a>
+        {' · '}<a href={source.licensePath} target="_blank" rel="noreferrer">{source.license}</a>
+        {art.source === 'guide' && <> · <a href="exercise-media/provenance.json" target="_blank" rel="noreferrer">Frame credits</a></>}</small>
+    </figcaption>
+  </figure>
 }
 
 // In the phone app the clips come out of the app package through Capacitor's local server, which
@@ -135,9 +111,8 @@ export function Thumb(p) {
   return isCustomEx(p.ex) ? <CustomThumb {...p} /> : <BuiltinThumb {...p} />
 }
 function BuiltinThumb({ ex }) {
-  const body = useStore(s => figureOf(s.S))
-  const src = ex.img ? imgSrc(ex, body) : null
+  const src = illustrationOf(ex) ? imgSrc(ex) : null
   const [broken, setBroken] = useState(null)
-  if (!src || broken === src) return <div className="thumb thumb-x"><Icon name="dumbbell" /></div>
-  return <img className="thumb" loading="lazy" decoding="async" draggable={false} src={src} alt="" onError={() => setBroken(src)} />
+  if (!src || broken === src) return <div className="thumb thumb-x" role="img" aria-label="No demonstration image"><Icon name="dumbbell" /></div>
+  return <img className="thumb" data-image-background={SOURCES[illustrationOf(ex)?.source || 'everkinetic']?.dark ? 'dark' : 'light'} loading="lazy" decoding="async" draggable={false} src={src} alt="" onError={() => setBroken(src)} />
 }

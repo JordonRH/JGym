@@ -1,0 +1,4121 @@
+{
+  "1004": {
+    "name": "band squat",
+    "source": "open",
+    "sourceId": "band-squat",
+    "title": "Band Squat",
+    "frames": [
+      "exercise-media/open/band-squat/start.webp",
+      "exercise-media/open/band-squat/end.webp"
+    ]
+  },
+  "1030": {
+    "name": "lever pec deck fly",
+    "source": "open",
+    "sourceId": "pec-deck",
+    "title": "Pec Deck",
+    "frames": [
+      "exercise-media/open/pec-deck/start.webp",
+      "exercise-media/open/pec-deck/end.webp"
+    ]
+  },
+  "1044": {
+    "name": "plate pinch",
+    "source": "open",
+    "sourceId": "plate-pinch-hold",
+    "title": "Plate Pinch Hold",
+    "frames": [
+      "exercise-media/open/plate-pinch-hold/hold.webp"
+    ]
+  },
+  "1053": {
+    "name": "kneeling hip flexor stretch",
+    "source": "guide",
+    "sourceId": "exercise-kneeling-hip-flexor-stretch",
+    "title": "Kneeling Hip Flexor Stretch",
+    "frames": [
+      "exercise-media/guide/exercise-kneeling-hip-flexor-stretch/frame-1.svg",
+      "exercise-media/guide/exercise-kneeling-hip-flexor-stretch/frame-3.svg"
+    ]
+  },
+  "1060": {
+    "name": "barbell hip thrust",
+    "source": "open",
+    "sourceId": "hip-thrusts",
+    "title": "Hip Thrust",
+    "frames": [
+      "exercise-media/open/hip-thrusts/start.webp",
+      "exercise-media/open/hip-thrusts/end.webp"
+    ]
+  },
+  "1080": {
+    "name": "suspension inverted row",
+    "source": "open",
+    "sourceId": "suspension-row",
+    "title": "Suspension Row",
+    "frames": [
+      "exercise-media/open/suspension-row/start.webp",
+      "exercise-media/open/suspension-row/end.webp"
+    ]
+  },
+  "1083": {
+    "name": "suspension leg curl",
+    "source": "open",
+    "sourceId": "suspension-hamstring-curl",
+    "title": "Suspension Hamstring Curl",
+    "frames": [
+      "exercise-media/open/suspension-hamstring-curl/start.webp",
+      "exercise-media/open/suspension-hamstring-curl/end.webp"
+    ]
+  },
+  "1160": {
+    "name": "burpee",
+    "source": "open",
+    "sourceId": "burpees",
+    "title": "Burpee",
+    "frames": [
+      "exercise-media/open/burpees/start.webp",
+      "exercise-media/open/burpees/end.webp"
+    ]
+  },
+  "1161": {
+    "name": "rowing (with rowing machine)",
+    "source": "open",
+    "sourceId": "rowing-machine",
+    "title": "Rowing Machine",
+    "frames": [
+      "exercise-media/open/rowing-machine/start.webp",
+      "exercise-media/open/rowing-machine/end.webp"
+    ]
+  },
+  "1162": {
+    "name": "barbell standing military press",
+    "source": "open",
+    "sourceId": "overhead-press",
+    "title": "Overhead Press",
+    "frames": [
+      "exercise-media/open/overhead-press/start.webp",
+      "exercise-media/open/overhead-press/end.webp"
+    ]
+  },
+  "1163": {
+    "name": "lying leg raise",
+    "source": "open",
+    "sourceId": "leg-raises",
+    "title": "Leg Raise",
+    "frames": [
+      "exercise-media/open/leg-raises/start.webp",
+      "exercise-media/open/leg-raises/end.webp"
+    ]
+  },
+  "1166": {
+    "name": "jump split",
+    "source": "open",
+    "sourceId": "jump-lunge",
+    "title": "Jump Lunge",
+    "frames": [
+      "exercise-media/open/jump-lunge/start.webp",
+      "exercise-media/open/jump-lunge/end.webp"
+    ]
+  },
+  "1200": {
+    "name": "push press",
+    "source": "open",
+    "sourceId": "push-press",
+    "title": "Push Press",
+    "frames": [
+      "exercise-media/open/push-press/start.webp",
+      "exercise-media/open/push-press/end.webp"
+    ]
+  },
+  "1202": {
+    "name": "cable horizontal pallof press",
+    "source": "open",
+    "sourceId": "pallof-press",
+    "title": "Pallof Press",
+    "frames": [
+      "exercise-media/open/pallof-press/start.webp",
+      "exercise-media/open/pallof-press/end.webp"
+    ]
+  },
+  "1206": {
+    "name": "cable pull through",
+    "source": "open",
+    "sourceId": "cable-pull-through",
+    "title": "Cable Pull-Through",
+    "frames": [
+      "exercise-media/open/cable-pull-through/start.webp",
+      "exercise-media/open/cable-pull-through/end.webp"
+    ]
+  },
+  "1228": {
+    "name": "dumbbell standing inner biceps curl",
+    "sourceId": "0246",
+    "title": "Standing Inner Biceps Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0246-relaxation.svg",
+      "exercise-media/everkinetic/0246-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1241": {
+    "name": "bird dog",
+    "source": "open",
+    "sourceId": "bird-dog",
+    "title": "Bird Dog",
+    "frames": [
+      "exercise-media/open/bird-dog/start.webp",
+      "exercise-media/open/bird-dog/end.webp"
+    ]
+  },
+  "1246": {
+    "name": "hollow hold",
+    "source": "open",
+    "sourceId": "hollow-body-hold",
+    "title": "Hollow Body Hold",
+    "frames": [
+      "exercise-media/open/hollow-body-hold/hold.webp"
+    ]
+  },
+  "1273": {
+    "name": "clap push up",
+    "source": "open",
+    "sourceId": "clap-push-up",
+    "title": "Clap Push-Up",
+    "frames": [
+      "exercise-media/open/clap-push-up/start.webp",
+      "exercise-media/open/clap-push-up/end.webp"
+    ]
+  },
+  "1300": {
+    "name": "lever decline chest press",
+    "sourceId": "0085",
+    "title": "Decline Chest Press",
+    "frames": [
+      "exercise-media/everkinetic/0085-relaxation.svg",
+      "exercise-media/everkinetic/0085-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1302": {
+    "name": "medicine ball chest pass",
+    "source": "open",
+    "sourceId": "medicine-ball-chest-pass",
+    "title": "Medicine Ball Chest Pass",
+    "frames": [
+      "exercise-media/open/medicine-ball-chest-pass/start.webp",
+      "exercise-media/open/medicine-ball-chest-pass/end.webp"
+    ]
+  },
+  "1307": {
+    "name": "push up on bosu ball",
+    "sourceId": "0069",
+    "title": "Push Up: Bosu Ball",
+    "frames": [
+      "exercise-media/everkinetic/0069-relaxation.svg",
+      "exercise-media/everkinetic/0069-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1311": {
+    "name": "wide hand push up",
+    "source": "open",
+    "sourceId": "wide-push-up",
+    "title": "Wide Push-Up",
+    "frames": [
+      "exercise-media/open/wide-push-up/start.webp",
+      "exercise-media/open/wide-push-up/end.webp"
+    ]
+  },
+  "1314": {
+    "name": "back extension on exercise ball",
+    "sourceId": "0104",
+    "title": "Back Extension on Stability Ball",
+    "frames": [
+      "exercise-media/everkinetic/0104-relaxation.svg",
+      "exercise-media/everkinetic/0104-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1316": {
+    "name": "barbell bent arm pullover",
+    "sourceId": "0045",
+    "title": "Bent Arm Pullover",
+    "frames": [
+      "exercise-media/everkinetic/0045-relaxation.svg",
+      "exercise-media/everkinetic/0045-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1326": {
+    "name": "chin-up",
+    "source": "open",
+    "sourceId": "chin-up",
+    "title": "Chin-Up",
+    "frames": [
+      "exercise-media/open/chin-up/start.webp",
+      "exercise-media/open/chin-up/end.webp"
+    ]
+  },
+  "1354": {
+    "name": "medicine ball overhead slam",
+    "source": "open",
+    "sourceId": "medicine-ball-slam",
+    "title": "Medicine Ball Slam",
+    "frames": [
+      "exercise-media/open/medicine-ball-slam/start.webp",
+      "exercise-media/open/medicine-ball-slam/end.webp"
+    ]
+  },
+  "1359": {
+    "name": "smith bent over row",
+    "source": "open",
+    "sourceId": "smith-machine-bent-over-row",
+    "title": "Smith Machine Bent-Over Row",
+    "frames": [
+      "exercise-media/open/smith-machine-bent-over-row/start.webp",
+      "exercise-media/open/smith-machine-bent-over-row/end.webp"
+    ]
+  },
+  "1368": {
+    "name": "ankle circles",
+    "sourceId": "0270",
+    "title": "Ankle Circles",
+    "frames": [
+      "exercise-media/everkinetic/0270-relaxation.svg",
+      "exercise-media/everkinetic/0270-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1371": {
+    "name": "barbell seated calf raise",
+    "sourceId": "0272",
+    "title": "Seated Calf Raise with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0272-relaxation.svg",
+      "exercise-media/everkinetic/0272-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1372": {
+    "name": "barbell standing calf raise",
+    "sourceId": "0281",
+    "title": "Standing Barbell Calf Raise",
+    "frames": [
+      "exercise-media/everkinetic/0281-relaxation.svg",
+      "exercise-media/everkinetic/0281-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1379": {
+    "name": "dumbbell seated calf raise",
+    "source": "open",
+    "sourceId": "seated-calf-raise",
+    "title": "Seated Calf Raise",
+    "frames": [
+      "exercise-media/open/seated-calf-raise/start.webp",
+      "exercise-media/open/seated-calf-raise/end.webp"
+    ]
+  },
+  "1391": {
+    "name": "sled calf press on leg press",
+    "source": "open",
+    "sourceId": "leg-press-calf-raise",
+    "title": "Leg Press Calf Raise",
+    "frames": [
+      "exercise-media/open/leg-press-calf-raise/start.webp",
+      "exercise-media/open/leg-press-calf-raise/end.webp"
+    ]
+  },
+  "1394": {
+    "name": "smith reverse calf raises",
+    "sourceId": "0280",
+    "title": "Smith Machine Reverse Calf Raises",
+    "frames": [
+      "exercise-media/everkinetic/0280-relaxation.svg",
+      "exercise-media/everkinetic/0280-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1403": {
+    "name": "neck side stretch",
+    "source": "open",
+    "sourceId": "neck-side-stretch",
+    "title": "Neck Side Stretch",
+    "frames": [
+      "exercise-media/open/neck-side-stretch/hold.webp"
+    ]
+  },
+  "1409": {
+    "name": "barbell glute bridge",
+    "source": "open",
+    "sourceId": "barbell-glute-bridge",
+    "title": "Barbell Glute Bridge",
+    "frames": [
+      "exercise-media/open/barbell-glute-bridge/start.webp",
+      "exercise-media/open/barbell-glute-bridge/end.webp"
+    ]
+  },
+  "1429": {
+    "name": "wide grip pull-up",
+    "source": "open",
+    "sourceId": "wide-grip-pull-up",
+    "title": "Wide Grip Pull Up",
+    "frames": [
+      "exercise-media/open/wide-grip-pull-up/start.webp",
+      "exercise-media/open/wide-grip-pull-up/end.webp"
+    ]
+  },
+  "1451": {
+    "name": "lever seated dip",
+    "source": "open",
+    "sourceId": "seated-dip-machine",
+    "title": "Seated Dip Machine",
+    "frames": [
+      "exercise-media/open/seated-dip-machine/start.webp",
+      "exercise-media/open/seated-dip-machine/end.webp"
+    ]
+  },
+  "1459": {
+    "name": "dumbbell romanian deadlift",
+    "source": "open",
+    "sourceId": "dumbbell-romanian-deadlift",
+    "title": "Dumbbell Romanian Deadlift",
+    "frames": [
+      "exercise-media/open/dumbbell-romanian-deadlift/start.webp",
+      "exercise-media/open/dumbbell-romanian-deadlift/end.webp"
+    ]
+  },
+  "1471": {
+    "name": "inchworm",
+    "source": "open",
+    "sourceId": "inchworm",
+    "title": "Inchworm",
+    "frames": [
+      "exercise-media/open/inchworm/start.webp",
+      "exercise-media/open/inchworm/end.webp"
+    ]
+  },
+  "1489": {
+    "name": "sissy squat",
+    "source": "open",
+    "sourceId": "sissy-squat",
+    "title": "Sissy Squat",
+    "frames": [
+      "exercise-media/open/sissy-squat/start.webp",
+      "exercise-media/open/sissy-squat/end.webp"
+    ]
+  },
+  "1502": {
+    "name": "band pushdown",
+    "source": "open",
+    "sourceId": "band-tricep-pushdown",
+    "title": "Band Tricep Pushdown",
+    "frames": [
+      "exercise-media/open/band-tricep-pushdown/start.webp",
+      "exercise-media/open/band-tricep-pushdown/end.webp"
+    ]
+  },
+  "1503": {
+    "name": "band pull apart",
+    "source": "open",
+    "sourceId": "band-pull-apart",
+    "title": "Band Pull-Apart",
+    "frames": [
+      "exercise-media/open/band-pull-apart/start.webp",
+      "exercise-media/open/band-pull-apart/end.webp"
+    ]
+  },
+  "1520": {
+    "name": "barbell hang clean",
+    "source": "open",
+    "sourceId": "hang-clean",
+    "title": "Hang Clean",
+    "frames": [
+      "exercise-media/open/hang-clean/start.webp",
+      "exercise-media/open/hang-clean/end.webp"
+    ]
+  },
+  "1533": {
+    "name": "barbell snatch",
+    "source": "open",
+    "sourceId": "snatch",
+    "title": "Snatch",
+    "frames": [
+      "exercise-media/open/snatch/start.webp",
+      "exercise-media/open/snatch/end.webp"
+    ]
+  },
+  "1553": {
+    "name": "dumbbell lateral lunge with bicep curl",
+    "sourceId": "0264",
+    "title": "Lateral Lunge with Bicep Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0264-relaxation.svg",
+      "exercise-media/everkinetic/0264-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1557": {
+    "name": "dumbbell walking lunges",
+    "sourceId": "0121",
+    "title": "Lunges: Dumbbell (Walking)",
+    "frames": [
+      "exercise-media/everkinetic/0121-relaxation.svg",
+      "exercise-media/everkinetic/0121-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1562": {
+    "name": "exercise ball wall squat",
+    "source": "open",
+    "sourceId": "stability-ball-wall-squat",
+    "title": "Stability Ball Wall Squat",
+    "frames": [
+      "exercise-media/open/stability-ball-wall-squat/start.webp",
+      "exercise-media/open/stability-ball-wall-squat/end.webp"
+    ]
+  },
+  "1568": {
+    "name": "kettlebell one arm swing",
+    "source": "open",
+    "sourceId": "kettlebell-swing",
+    "title": "Kettlebell Swing",
+    "frames": [
+      "exercise-media/open/kettlebell-swing/start.webp",
+      "exercise-media/open/kettlebell-swing/end.webp"
+    ]
+  },
+  "1575": {
+    "name": "sled 45° narrow stance leg press",
+    "source": "everkinetic",
+    "sourceId": "0143",
+    "title": "Narrow Stance Leg Press",
+    "frames": [
+      "exercise-media/everkinetic/0143-relaxation.svg",
+      "exercise-media/everkinetic/0143-tension.svg"
+    ]
+  },
+  "1581": {
+    "name": "bodyweight rear lunge",
+    "source": "open",
+    "sourceId": "reverse-lunge",
+    "title": "Reverse Lunge",
+    "frames": [
+      "exercise-media/open/reverse-lunge/start.webp",
+      "exercise-media/open/reverse-lunge/end.webp"
+    ]
+  },
+  "1600": {
+    "name": "standing long jump",
+    "source": "open",
+    "sourceId": "broad-jump",
+    "title": "Broad Jump",
+    "frames": [
+      "exercise-media/open/broad-jump/start.webp",
+      "exercise-media/open/broad-jump/end.webp"
+    ]
+  },
+  "1629": {
+    "name": "barbell standing wide grip biceps curl",
+    "sourceId": "0250",
+    "title": "Wide Grip Standing Biceps Curl with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0250-relaxation.svg",
+      "exercise-media/everkinetic/0250-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1634": {
+    "name": "cable lying bicep curl",
+    "sourceId": "0232",
+    "title": "Lying Bicep Cable Curl",
+    "frames": [
+      "exercise-media/everkinetic/0232-relaxation.svg",
+      "exercise-media/everkinetic/0232-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1636": {
+    "name": "cable overhead curl",
+    "sourceId": "0238",
+    "title": "Overhead Curl with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0238-relaxation.svg",
+      "exercise-media/everkinetic/0238-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1653": {
+    "name": "dumbbell bicep curl with stork stance",
+    "sourceId": "0268",
+    "title": "Stork Stance Bicep Curl with Dumbbells",
+    "frames": [
+      "exercise-media/everkinetic/0268-relaxation.svg",
+      "exercise-media/everkinetic/0268-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1654": {
+    "name": "dumbbell biceps curl reverse",
+    "sourceId": "0257",
+    "title": "Biceps Curl: Dumbbell (Reverse)",
+    "frames": [
+      "exercise-media/everkinetic/0257-relaxation.svg",
+      "exercise-media/everkinetic/0257-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1655": {
+    "name": "dumbbell biceps curl squat",
+    "sourceId": "0256",
+    "title": "Biceps Curl: Squat with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0256-relaxation.svg",
+      "exercise-media/everkinetic/0256-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1656": {
+    "name": "dumbbell biceps curl v sit on bosu ball",
+    "source": "everkinetic",
+    "sourceId": "0269",
+    "title": "Biceps Curl: V-Sit on Dome with Dumbbells",
+    "frames": [
+      "exercise-media/everkinetic/0269-relaxation.svg",
+      "exercise-media/everkinetic/0269-tension.svg"
+    ]
+  },
+  "1661": {
+    "name": "dumbbell lying supine biceps curl",
+    "sourceId": "0235",
+    "title": "Lying Supine Biceps Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0235-relaxation.svg",
+      "exercise-media/everkinetic/0235-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1677": {
+    "name": "dumbbell seated bicep curl",
+    "sourceId": "0243",
+    "title": "Seated Bicep Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0243-relaxation.svg",
+      "exercise-media/everkinetic/0243-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1680": {
+    "name": "dumbbell standing one arm curl over incline bench",
+    "sourceId": "0248",
+    "title": "Standing One Arm Curl Over Incline Bench with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0248-relaxation.svg",
+      "exercise-media/everkinetic/0248-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1684": {
+    "name": "dumbbell step up single leg balance with bicep curl",
+    "sourceId": "0266",
+    "title": "Step Up: Dumbbell (Bicep Curl, Single Leg Balance)",
+    "frames": [
+      "exercise-media/everkinetic/0266-relaxation.svg",
+      "exercise-media/everkinetic/0266-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1700": {
+    "name": "dumbbell push press",
+    "source": "open",
+    "sourceId": "dumbbell-push-press",
+    "title": "Dumbbell Push Press",
+    "frames": [
+      "exercise-media/open/dumbbell-push-press/start.webp",
+      "exercise-media/open/dumbbell-push-press/end.webp"
+    ]
+  },
+  "1740": {
+    "name": "dumbbell standing bent over one arm triceps extension",
+    "sourceId": "0196",
+    "title": "Triceps Extension: Dumbbell (Bent-Over, One Arm)",
+    "frames": [
+      "exercise-media/everkinetic/0196-relaxation.svg",
+      "exercise-media/everkinetic/0196-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1741": {
+    "name": "dumbbell standing bent over two arm triceps extension",
+    "sourceId": "0197",
+    "title": "Triceps Extension: Dumbbell (Bent-Over, Two Arm)",
+    "frames": [
+      "exercise-media/everkinetic/0197-relaxation.svg",
+      "exercise-media/everkinetic/0197-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "1760": {
+    "name": "dumbbell goblet squat",
+    "source": "open",
+    "sourceId": "goblet-squat",
+    "title": "Goblet Squat",
+    "frames": [
+      "exercise-media/open/goblet-squat/start.webp",
+      "exercise-media/open/goblet-squat/end.webp"
+    ]
+  },
+  "1850": {
+    "name": "wrist flexor stretch",
+    "source": "open",
+    "sourceId": "wrist-flexor-stretch",
+    "title": "Wrist Flexor Stretch",
+    "frames": [
+      "exercise-media/open/wrist-flexor-stretch/hold.webp"
+    ]
+  },
+  "1899": {
+    "name": "side lunge adductor stretch",
+    "source": "open",
+    "sourceId": "side-lunge-adductor-stretch",
+    "title": "Side Lunge Adductor Stretch",
+    "frames": [
+      "exercise-media/open/side-lunge-adductor-stretch/hold.webp"
+    ]
+  },
+  "1943": {
+    "name": "pigeon hip stretch",
+    "source": "open",
+    "sourceId": "pigeon-stretch",
+    "title": "Pigeon Stretch",
+    "frames": [
+      "exercise-media/open/pigeon-stretch/hold.webp"
+    ]
+  },
+  "2137": {
+    "name": "dumbbell arnold press",
+    "source": "open",
+    "sourceId": "arnold-press",
+    "title": "Arnold Press",
+    "frames": [
+      "exercise-media/open/arnold-press/start.webp",
+      "exercise-media/open/arnold-press/end.webp"
+    ]
+  },
+  "2142": {
+    "name": "ski ergometer",
+    "source": "open",
+    "sourceId": "ski-machine",
+    "title": "Ski Machine",
+    "frames": [
+      "exercise-media/open/ski-machine/start.webp",
+      "exercise-media/open/ski-machine/end.webp"
+    ]
+  },
+  "2186": {
+    "name": "ez barbell decline triceps extension",
+    "sourceId": "0170",
+    "title": "Triceps Extension: EZ Bar Barbell (Decline)",
+    "frames": [
+      "exercise-media/everkinetic/0170-relaxation.svg",
+      "exercise-media/everkinetic/0170-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "2197": {
+    "name": "run on treadmill",
+    "source": "open",
+    "sourceId": "treadmill-run",
+    "title": "Treadmill Run",
+    "frames": [
+      "exercise-media/open/treadmill-run/hold.webp"
+    ]
+  },
+  "2224": {
+    "name": "sled 45 degrees leg press",
+    "source": "open",
+    "sourceId": "leg-press",
+    "title": "Leg Press",
+    "frames": [
+      "exercise-media/open/leg-press/start.webp",
+      "exercise-media/open/leg-press/end.webp"
+    ]
+  },
+  "2249": {
+    "name": "cable triceps pushdown (v bar)",
+    "sourceId": "0207",
+    "title": "Triceps Pushdown: Cable (V-Bar)",
+    "frames": [
+      "exercise-media/everkinetic/0207-relaxation.svg",
+      "exercise-media/everkinetic/0207-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "2267": {
+    "name": "lever seated leg press",
+    "source": "open",
+    "sourceId": "seated-leg-press",
+    "title": "Seated Leg Press (Sliding Seat)",
+    "frames": [
+      "exercise-media/open/seated-leg-press/start.webp",
+      "exercise-media/open/seated-leg-press/end.webp"
+    ]
+  },
+  "2285": {
+    "name": "lever pullover",
+    "source": "open",
+    "sourceId": "machine-pullover",
+    "title": "Machine Pullover",
+    "frames": [
+      "exercise-media/open/machine-pullover/start.webp",
+      "exercise-media/open/machine-pullover/end.webp"
+    ]
+  },
+  "2290": {
+    "name": "dumbbell bulgarian split squat",
+    "source": "open",
+    "sourceId": "bulgarian-split-squat",
+    "title": "Bulgarian Split Squat",
+    "frames": [
+      "exercise-media/open/bulgarian-split-squat/start.webp",
+      "exercise-media/open/bulgarian-split-squat/end.webp"
+    ]
+  },
+  "2294": {
+    "name": "dumbbell zottman preacher curl",
+    "sourceId": "0252",
+    "title": "Preacher Curl: Dumbbell (Zottman)",
+    "frames": [
+      "exercise-media/everkinetic/0252-relaxation.svg",
+      "exercise-media/everkinetic/0252-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "2296": {
+    "name": "stability ball rollout",
+    "source": "open",
+    "sourceId": "stability-ball-rollout",
+    "title": "Stability Ball Rollout",
+    "frames": [
+      "exercise-media/open/stability-ball-rollout/start.webp",
+      "exercise-media/open/stability-ball-rollout/end.webp"
+    ]
+  },
+  "2323": {
+    "name": "dumbbells sumo squat",
+    "source": "open",
+    "sourceId": "sumo-squat",
+    "title": "Sumo Squat",
+    "frames": [
+      "exercise-media/open/sumo-squat/start.webp",
+      "exercise-media/open/sumo-squat/end.webp"
+    ]
+  },
+  "2487": {
+    "name": "dumbbell rear delt fly",
+    "source": "open",
+    "sourceId": "rear-delt-fly",
+    "title": "Rear Delt Fly",
+    "frames": [
+      "exercise-media/open/rear-delt-fly/start.webp",
+      "exercise-media/open/rear-delt-fly/end.webp"
+    ]
+  },
+  "2569": {
+    "name": "cossack squats",
+    "source": "open",
+    "sourceId": "cossack-squat",
+    "title": "Cossack Squat",
+    "frames": [
+      "exercise-media/open/cossack-squat/start.webp",
+      "exercise-media/open/cossack-squat/end.webp"
+    ]
+  },
+  "2612": {
+    "name": "jump rope",
+    "source": "open",
+    "sourceId": "jump-rope",
+    "title": "Jump Rope",
+    "frames": [
+      "exercise-media/open/jump-rope/start.webp",
+      "exercise-media/open/jump-rope/end.webp"
+    ]
+  },
+  "2659": {
+    "name": "lever incline chest press (plate loaded)",
+    "source": "open",
+    "sourceId": "plate-loaded-incline-chest-press",
+    "title": "Plate-Loaded Incline Chest Press",
+    "frames": [
+      "exercise-media/open/plate-loaded-incline-chest-press/start.webp",
+      "exercise-media/open/plate-loaded-incline-chest-press/end.webp"
+    ]
+  },
+  "2910": {
+    "name": "dumbbell suitcase carry",
+    "source": "open",
+    "sourceId": "suitcase-carry",
+    "title": "Suitcase Carry",
+    "frames": [
+      "exercise-media/open/suitcase-carry/start.webp",
+      "exercise-media/open/suitcase-carry/end.webp"
+    ]
+  },
+  "2917": {
+    "name": "dumbbell farmers carry",
+    "source": "open",
+    "sourceId": "farmers-walk",
+    "title": "Farmer's Walk",
+    "frames": [
+      "exercise-media/open/farmers-walk/start.webp",
+      "exercise-media/open/farmers-walk/end.webp"
+    ]
+  },
+  "2921": {
+    "name": "pike push up",
+    "source": "open",
+    "sourceId": "pike-push-up",
+    "title": "Pike Push-Up",
+    "frames": [
+      "exercise-media/open/pike-push-up/start.webp",
+      "exercise-media/open/pike-push-up/end.webp"
+    ]
+  },
+  "2950": {
+    "name": "lever belt squat",
+    "source": "open",
+    "sourceId": "belt-squat",
+    "title": "Belt Squat",
+    "frames": [
+      "exercise-media/open/belt-squat/start.webp",
+      "exercise-media/open/belt-squat/end.webp"
+    ]
+  },
+  "2951": {
+    "name": "lever horizontal leg press",
+    "source": "open",
+    "sourceId": "leg-press-moving-plate",
+    "title": "Seated Leg Press (Moving Plate)",
+    "frames": [
+      "exercise-media/open/leg-press-moving-plate/start.webp",
+      "exercise-media/open/leg-press-moving-plate/end.webp"
+    ]
+  },
+  "2957": {
+    "name": "dumbbell split squat front foot elevated",
+    "source": "guide",
+    "sourceId": "exercise-front-foot-elevated-split-squat",
+    "title": "Front-Foot Elevated Split Squat",
+    "frames": [
+      "exercise-media/guide/exercise-front-foot-elevated-split-squat/frame-1.svg",
+      "exercise-media/guide/exercise-front-foot-elevated-split-squat/frame-3.svg"
+    ]
+  },
+  "2960": {
+    "name": "dumbbell split squat",
+    "source": "guide",
+    "sourceId": "exercise-split-squat",
+    "title": "Split Squat",
+    "frames": [
+      "exercise-media/guide/exercise-split-squat/frame-1.svg",
+      "exercise-media/guide/exercise-split-squat/frame-3.svg"
+    ]
+  },
+  "2968": {
+    "name": "dumbbell thruster",
+    "source": "open",
+    "sourceId": "dumbbell-thruster",
+    "title": "Dumbbell Thruster",
+    "frames": [
+      "exercise-media/open/dumbbell-thruster/start.webp",
+      "exercise-media/open/dumbbell-thruster/end.webp"
+    ]
+  },
+  "2980": {
+    "name": "dumbbell renegade row",
+    "source": "open",
+    "sourceId": "renegade-row",
+    "title": "Renegade Row",
+    "frames": [
+      "exercise-media/open/renegade-row/start.webp",
+      "exercise-media/open/renegade-row/end.webp"
+    ]
+  },
+  "3017": {
+    "name": "barbell pendlay row",
+    "source": "open",
+    "sourceId": "pendlay-row",
+    "title": "Pendlay Row",
+    "frames": [
+      "exercise-media/open/pendlay-row/start.webp",
+      "exercise-media/open/pendlay-row/end.webp"
+    ]
+  },
+  "3030": {
+    "name": "barbell split squat",
+    "source": "open",
+    "sourceId": "barbell-split-squat",
+    "title": "Barbell Split Squat",
+    "frames": [
+      "exercise-media/open/barbell-split-squat/start.webp",
+      "exercise-media/open/barbell-split-squat/end.webp"
+    ]
+  },
+  "3037": {
+    "name": "butt kicks",
+    "source": "open",
+    "sourceId": "butt-kicks",
+    "title": "Butt Kicks",
+    "frames": [
+      "exercise-media/open/butt-kicks/start.webp",
+      "exercise-media/open/butt-kicks/end.webp"
+    ]
+  },
+  "3084": {
+    "name": "dumbbell single arm preacher curl",
+    "source": "open",
+    "sourceId": "dumbbell-preacher-curl",
+    "title": "Dumbbell Preacher Curl",
+    "frames": [
+      "exercise-media/open/dumbbell-preacher-curl/start.webp",
+      "exercise-media/open/dumbbell-preacher-curl/end.webp"
+    ]
+  },
+  "3094": {
+    "name": "jumping jack",
+    "source": "open",
+    "sourceId": "jumping-jacks",
+    "title": "Jumping Jack",
+    "frames": [
+      "exercise-media/open/jumping-jacks/start.webp",
+      "exercise-media/open/jumping-jacks/end.webp"
+    ]
+  },
+  "3110": {
+    "name": "smith hip thrust",
+    "source": "open",
+    "sourceId": "smith-machine-hip-thrust",
+    "title": "Smith Machine Hip Thrust",
+    "frames": [
+      "exercise-media/open/smith-machine-hip-thrust/start.webp",
+      "exercise-media/open/smith-machine-hip-thrust/end.webp"
+    ]
+  },
+  "3181": {
+    "name": "bodyweight frog pump",
+    "source": "open",
+    "sourceId": "frog-pumps",
+    "title": "Frog Pumps",
+    "frames": [
+      "exercise-media/open/frog-pumps/start.webp",
+      "exercise-media/open/frog-pumps/end.webp"
+    ]
+  },
+  "3193": {
+    "name": "glute-ham raise",
+    "source": "open",
+    "sourceId": "glute-ham-raise",
+    "title": "Glute-Ham Raise",
+    "frames": [
+      "exercise-media/open/glute-ham-raise/start.webp",
+      "exercise-media/open/glute-ham-raise/end.webp"
+    ]
+  },
+  "3264": {
+    "name": "side plank leg raise",
+    "source": "open",
+    "sourceId": "side-plank-leg-raise",
+    "title": "Side Plank Leg Raise",
+    "frames": [
+      "exercise-media/open/side-plank-leg-raise/start.webp",
+      "exercise-media/open/side-plank-leg-raise/end.webp"
+    ]
+  },
+  "3268": {
+    "name": "lying leg raise to side",
+    "source": "open",
+    "sourceId": "side-lying-leg-raise",
+    "title": "Side-Lying Leg Raise",
+    "frames": [
+      "exercise-media/open/side-lying-leg-raise/start.webp",
+      "exercise-media/open/side-lying-leg-raise/end.webp"
+    ]
+  },
+  "3294": {
+    "name": "archer push up",
+    "source": "open",
+    "sourceId": "archer-push-up",
+    "title": "Archer Push-Up",
+    "frames": [
+      "exercise-media/open/archer-push-up/start.webp",
+      "exercise-media/open/archer-push-up/end.webp"
+    ]
+  },
+  "3305": {
+    "name": "barbell thruster",
+    "source": "open",
+    "sourceId": "thruster",
+    "title": "Thruster",
+    "frames": [
+      "exercise-media/open/thruster/start.webp",
+      "exercise-media/open/thruster/end.webp"
+    ]
+  },
+  "3322": {
+    "name": "kettlebell deadlift",
+    "source": "open",
+    "sourceId": "kettlebell-deadlift",
+    "title": "Kettlebell Deadlift",
+    "frames": [
+      "exercise-media/open/kettlebell-deadlift/start.webp",
+      "exercise-media/open/kettlebell-deadlift/end.webp"
+    ]
+  },
+  "3342": {
+    "name": "cable y raise",
+    "source": "open",
+    "sourceId": "cable-y-raise",
+    "title": "Cable Y-Raise",
+    "frames": [
+      "exercise-media/open/cable-y-raise/start.webp",
+      "exercise-media/open/cable-y-raise/end.webp"
+    ]
+  },
+  "3359": {
+    "name": "cable standing chest press",
+    "source": "open",
+    "sourceId": "standing-cable-chest-press",
+    "title": "Standing Cable Chest Press",
+    "frames": [
+      "exercise-media/open/standing-cable-chest-press/start.webp",
+      "exercise-media/open/standing-cable-chest-press/end.webp"
+    ]
+  },
+  "3360": {
+    "name": "bear crawl",
+    "source": "open",
+    "sourceId": "bear-crawl",
+    "title": "Bear Crawl",
+    "frames": [
+      "exercise-media/open/bear-crawl/start.webp",
+      "exercise-media/open/bear-crawl/end.webp"
+    ]
+  },
+  "3381": {
+    "name": "inverted row under table",
+    "source": "open",
+    "sourceId": "table-inverted-row",
+    "title": "Table Inverted Row",
+    "frames": [
+      "exercise-media/open/table-inverted-row/start.webp",
+      "exercise-media/open/table-inverted-row/end.webp"
+    ]
+  },
+  "3436": {
+    "name": "superman",
+    "source": "open",
+    "sourceId": "superman",
+    "title": "Superman",
+    "frames": [
+      "exercise-media/open/superman/start.webp",
+      "exercise-media/open/superman/end.webp"
+    ]
+  },
+  "3469": {
+    "name": "downward facing dog",
+    "source": "open",
+    "sourceId": "downward-dog",
+    "title": "Downward Dog",
+    "frames": [
+      "exercise-media/open/downward-dog/hold.webp"
+    ]
+  },
+  "3518": {
+    "name": "band seated leg extension",
+    "source": "open",
+    "sourceId": "band-leg-extension",
+    "title": "Band Leg Extension",
+    "frames": [
+      "exercise-media/open/band-leg-extension/start.webp",
+      "exercise-media/open/band-leg-extension/end.webp"
+    ]
+  },
+  "3561": {
+    "name": "glute bridge march",
+    "source": "open",
+    "sourceId": "glute-bridge-march",
+    "title": "Glute Bridge March",
+    "frames": [
+      "exercise-media/open/glute-bridge-march/start.webp",
+      "exercise-media/open/glute-bridge-march/end.webp"
+    ]
+  },
+  "3582": {
+    "name": "lunge with jump",
+    "source": "open",
+    "sourceId": "jump-lunge",
+    "title": "Jump Lunge",
+    "frames": [
+      "exercise-media/open/jump-lunge/start.webp",
+      "exercise-media/open/jump-lunge/end.webp"
+    ]
+  },
+  "3593": {
+    "name": "barbell squat",
+    "sourceId": "0122",
+    "title": "Barbell Squat",
+    "frames": [
+      "exercise-media/everkinetic/0122-relaxation.svg",
+      "exercise-media/everkinetic/0122-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "3616": {
+    "name": "sled 45 degrees narrow stance leg press",
+    "source": "everkinetic",
+    "sourceId": "0143",
+    "title": "Narrow Stance Leg Press",
+    "frames": [
+      "exercise-media/everkinetic/0143-relaxation.svg",
+      "exercise-media/everkinetic/0143-tension.svg"
+    ]
+  },
+  "3622": {
+    "name": "v up",
+    "source": "open",
+    "sourceId": "v-up",
+    "title": "V-Up",
+    "frames": [
+      "exercise-media/open/v-up/start.webp",
+      "exercise-media/open/v-up/end.webp"
+    ]
+  },
+  "3650": {
+    "name": "jump box",
+    "source": "open",
+    "sourceId": "box-jump",
+    "title": "Box Jump",
+    "frames": [
+      "exercise-media/open/box-jump/start.webp",
+      "exercise-media/open/box-jump/end.webp"
+    ]
+  },
+  "3666": {
+    "name": "walking on incline treadmill",
+    "source": "open",
+    "sourceId": "treadmill-incline-walk",
+    "title": "Treadmill Incline Walk",
+    "frames": [
+      "exercise-media/open/treadmill-incline-walk/hold.webp"
+    ]
+  },
+  "3681": {
+    "name": "dumbbell squeeze bench press",
+    "source": "open",
+    "sourceId": "dumbbell-squeeze-press",
+    "title": "Dumbbell Squeeze Press",
+    "frames": [
+      "exercise-media/open/dumbbell-squeeze-press/start.webp",
+      "exercise-media/open/dumbbell-squeeze-press/end.webp"
+    ]
+  },
+  "3705": {
+    "name": "squat thrust",
+    "source": "guide",
+    "sourceId": "exercise-squat-thrust",
+    "title": "Squat Thrust",
+    "frames": [
+      "exercise-media/guide/exercise-squat-thrust/frame-1.svg",
+      "exercise-media/guide/exercise-squat-thrust/frame-3.svg"
+    ]
+  },
+  "3724": {
+    "name": "barbell floor chest press",
+    "source": "open",
+    "sourceId": "barbell-floor-press",
+    "title": "Barbell Floor Press",
+    "frames": [
+      "exercise-media/open/barbell-floor-press/start.webp",
+      "exercise-media/open/barbell-floor-press/end.webp"
+    ]
+  },
+  "3780": {
+    "name": "band standing chest press",
+    "source": "open",
+    "sourceId": "band-chest-press",
+    "title": "Band Chest Press",
+    "frames": [
+      "exercise-media/open/band-chest-press/start.webp",
+      "exercise-media/open/band-chest-press/end.webp"
+    ]
+  },
+  "3891": {
+    "name": "hanging toes to bar",
+    "source": "open",
+    "sourceId": "toes-to-bar",
+    "title": "Toes-to-Bar",
+    "frames": [
+      "exercise-media/open/toes-to-bar/start.webp",
+      "exercise-media/open/toes-to-bar/end.webp"
+    ]
+  },
+  "3905": {
+    "name": "arm circles",
+    "source": "open",
+    "sourceId": "arm-circles",
+    "title": "Arm Circles",
+    "frames": [
+      "exercise-media/open/arm-circles/start.webp",
+      "exercise-media/open/arm-circles/end.webp"
+    ]
+  },
+  "3929": {
+    "name": "standing side leg raise",
+    "source": "open",
+    "sourceId": "standing-hip-abduction",
+    "title": "Standing Hip Abduction",
+    "frames": [
+      "exercise-media/open/standing-hip-abduction/start.webp",
+      "exercise-media/open/standing-hip-abduction/end.webp"
+    ]
+  },
+  "3948": {
+    "name": "air squat",
+    "source": "open",
+    "sourceId": "bodyweight-squat",
+    "title": "Bodyweight Squat",
+    "frames": [
+      "exercise-media/open/bodyweight-squat/start.webp",
+      "exercise-media/open/bodyweight-squat/end.webp"
+    ]
+  },
+  "3996": {
+    "name": "circles arm",
+    "source": "open",
+    "sourceId": "arm-circles",
+    "title": "Arm Circles",
+    "frames": [
+      "exercise-media/open/arm-circles/start.webp",
+      "exercise-media/open/arm-circles/end.webp"
+    ]
+  },
+  "4051": {
+    "name": "side lying leg raise",
+    "source": "open",
+    "sourceId": "side-lying-leg-raise",
+    "title": "Side-Lying Leg Raise",
+    "frames": [
+      "exercise-media/open/side-lying-leg-raise/start.webp",
+      "exercise-media/open/side-lying-leg-raise/end.webp"
+    ]
+  },
+  "4063": {
+    "name": "band biceps curl",
+    "source": "open",
+    "sourceId": "band-bicep-curl",
+    "title": "Band Bicep Curl",
+    "frames": [
+      "exercise-media/open/band-bicep-curl/start.webp",
+      "exercise-media/open/band-bicep-curl/end.webp"
+    ]
+  },
+  "4113": {
+    "name": "landmine romanian deadlift",
+    "source": "guide",
+    "sourceId": "exercise-landmine-romanian-deadlift",
+    "title": "Landmine Romanian Deadlift",
+    "frames": [
+      "exercise-media/guide/exercise-landmine-romanian-deadlift/frame-1.svg",
+      "exercise-media/guide/exercise-landmine-romanian-deadlift/frame-3.svg"
+    ]
+  },
+  "4170": {
+    "name": "bear plank",
+    "source": "open",
+    "sourceId": "bear-plank",
+    "title": "Bear Plank",
+    "frames": [
+      "exercise-media/open/bear-plank/hold.webp"
+    ]
+  },
+  "4193": {
+    "name": "cable half kneeling pallof press",
+    "source": "guide",
+    "sourceId": "exercise-half-kneeling-pallof-press",
+    "title": "Half-Kneeling Pallof Press",
+    "frames": [
+      "exercise-media/guide/exercise-half-kneeling-pallof-press/frame-1.svg",
+      "exercise-media/guide/exercise-half-kneeling-pallof-press/frame-3.svg"
+    ]
+  },
+  "4295": {
+    "name": "dumbbell walking lunge",
+    "sourceId": "0121",
+    "title": "Lunges: Dumbbell (Walking)",
+    "frames": [
+      "exercise-media/everkinetic/0121-relaxation.svg",
+      "exercise-media/everkinetic/0121-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "4326": {
+    "name": "dumbbell bent arm pullover",
+    "sourceId": "0046",
+    "title": "Dumbbell Bent Arm Pullover",
+    "frames": [
+      "exercise-media/everkinetic/0046-relaxation.svg",
+      "exercise-media/everkinetic/0046-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "4338": {
+    "name": "barbell spider curl",
+    "sourceId": "0245",
+    "title": "Spider Curl with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0245-relaxation.svg",
+      "exercise-media/everkinetic/0245-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "4347": {
+    "name": "lever standing leg curl",
+    "source": "everkinetic",
+    "sourceId": "0120",
+    "title": "Standing Leg Curls",
+    "frames": [
+      "exercise-media/everkinetic/0120-relaxation.svg",
+      "exercise-media/everkinetic/0120-tension.svg"
+    ]
+  },
+  "4349": {
+    "name": "barbell single leg squat",
+    "sourceId": "0132",
+    "title": "Single Leg Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0132-relaxation.svg",
+      "exercise-media/everkinetic/0132-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "4438": {
+    "name": "jack step",
+    "source": "open",
+    "sourceId": "step-jack",
+    "title": "Step Jack",
+    "frames": [
+      "exercise-media/open/step-jack/start.webp",
+      "exercise-media/open/step-jack/end.webp"
+    ]
+  },
+  "4527": {
+    "name": "kettlebell single arm swing",
+    "source": "open",
+    "sourceId": "kettlebell-swing",
+    "title": "Kettlebell Swing",
+    "frames": [
+      "exercise-media/open/kettlebell-swing/start.webp",
+      "exercise-media/open/kettlebell-swing/end.webp"
+    ]
+  },
+  "4544": {
+    "name": "band incline bench press",
+    "sourceId": "0044",
+    "title": "Bench Press: Bands (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0044-relaxation.svg",
+      "exercise-media/everkinetic/0044-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "4580": {
+    "name": "cat cow stretch",
+    "source": "guide",
+    "sourceId": "exercise-cat-cow-stretch",
+    "title": "Cat-Cow Stretch",
+    "frames": [
+      "exercise-media/guide/exercise-cat-cow-stretch/frame-1.svg",
+      "exercise-media/guide/exercise-cat-cow-stretch/frame-3.svg"
+    ]
+  },
+  "4618": {
+    "name": "band deadlift",
+    "source": "open",
+    "sourceId": "band-deadlift",
+    "title": "Band Deadlift",
+    "frames": [
+      "exercise-media/open/band-deadlift/start.webp",
+      "exercise-media/open/band-deadlift/end.webp"
+    ]
+  },
+  "4633": {
+    "name": "world's greatest stretch",
+    "source": "guide",
+    "sourceId": "exercise-worlds-greatest-stretch",
+    "title": "World's Greatest Stretch",
+    "frames": [
+      "exercise-media/guide/exercise-worlds-greatest-stretch/frame-1.svg",
+      "exercise-media/guide/exercise-worlds-greatest-stretch/frame-3.svg"
+    ]
+  },
+  "4742": {
+    "name": "dumbbell hip thrust",
+    "source": "open",
+    "sourceId": "dumbbell-hip-thrust",
+    "title": "Dumbbell Hip Thrust",
+    "frames": [
+      "exercise-media/open/dumbbell-hip-thrust/start.webp",
+      "exercise-media/open/dumbbell-hip-thrust/end.webp"
+    ]
+  },
+  "4853": {
+    "name": "dumbbell lateral lunge",
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-lateral-lunge",
+    "title": "Dumbbell Lateral Lunge",
+    "frames": [
+      "exercise-media/guide/exercise-dumbbell-lateral-lunge/frame-1.svg",
+      "exercise-media/guide/exercise-dumbbell-lateral-lunge/frame-3.svg"
+    ]
+  },
+  "4861": {
+    "name": "kettlebell romanian deadlift",
+    "source": "guide",
+    "sourceId": "exercise-kettlebell-romanian-deadlift",
+    "title": "Kettlebell Romanian Deadlift",
+    "frames": [
+      "exercise-media/guide/exercise-kettlebell-romanian-deadlift/frame-1.svg",
+      "exercise-media/guide/exercise-kettlebell-romanian-deadlift/frame-3.svg"
+    ]
+  },
+  "5036": {
+    "name": "exercise ball leg curl",
+    "source": "open",
+    "sourceId": "stability-ball-hamstring-curl",
+    "title": "Stability Ball Hamstring Curl",
+    "frames": [
+      "exercise-media/open/stability-ball-hamstring-curl/start.webp",
+      "exercise-media/open/stability-ball-hamstring-curl/end.webp"
+    ]
+  },
+  "5074": {
+    "name": "landmine press",
+    "source": "guide",
+    "sourceId": "exercise-landmine-press",
+    "title": "Landmine Press",
+    "frames": [
+      "exercise-media/guide/exercise-landmine-press/frame-1.svg",
+      "exercise-media/guide/exercise-landmine-press/frame-3.svg"
+    ]
+  },
+  "5088": {
+    "name": "cable shoulder internal rotation",
+    "sourceId": "0034",
+    "title": "Internal Cable Rotation",
+    "frames": [
+      "exercise-media/everkinetic/0034-relaxation.svg",
+      "exercise-media/everkinetic/0034-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "5091": {
+    "name": "barbell reverse grip bench press",
+    "source": "everkinetic",
+    "sourceId": "0190",
+    "title": "Bench Press: Barbell (Reverse Triceps)",
+    "frames": [
+      "exercise-media/everkinetic/0190-relaxation.svg",
+      "exercise-media/everkinetic/0190-tension.svg"
+    ]
+  },
+  "5121": {
+    "name": "dumbbell sumo squat",
+    "source": "open",
+    "sourceId": "sumo-squat",
+    "title": "Sumo Squat",
+    "frames": [
+      "exercise-media/open/sumo-squat/start.webp",
+      "exercise-media/open/sumo-squat/end.webp"
+    ]
+  },
+  "5123": {
+    "name": "cable reverse grip pulldown",
+    "source": "open",
+    "sourceId": "reverse-grip-lat-pulldown",
+    "title": "Reverse-Grip Lat Pulldown",
+    "frames": [
+      "exercise-media/open/reverse-grip-lat-pulldown/start.webp",
+      "exercise-media/open/reverse-grip-lat-pulldown/end.webp"
+    ]
+  },
+  "5154": {
+    "name": "lateral step up",
+    "source": "open",
+    "sourceId": "lateral-step-up",
+    "title": "Lateral Step-Up",
+    "frames": [
+      "exercise-media/open/lateral-step-up/start.webp",
+      "exercise-media/open/lateral-step-up/end.webp"
+    ]
+  },
+  "5239": {
+    "name": "dumbbell biceps curl with overhead extension on stability ball",
+    "sourceId": "0260",
+    "title": "Biceps Curl: Stability Ball with Dumbbell (Overhead Extension)",
+    "frames": [
+      "exercise-media/everkinetic/0260-relaxation.svg",
+      "exercise-media/everkinetic/0260-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "5241": {
+    "name": "old school reverse extensions",
+    "sourceId": "0185",
+    "title": "Old School Reverse Extensions",
+    "frames": [
+      "exercise-media/everkinetic/0185-relaxation.svg",
+      "exercise-media/everkinetic/0185-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "5555": {
+    "name": "bodyweight good morning",
+    "source": "open",
+    "sourceId": "bodyweight-good-mornings",
+    "title": "Bodyweight Good Mornings",
+    "frames": [
+      "exercise-media/open/bodyweight-good-mornings/start.webp",
+      "exercise-media/open/bodyweight-good-mornings/end.webp"
+    ]
+  },
+  "5609": {
+    "name": "cable standing face pull",
+    "source": "open",
+    "sourceId": "face-pulls",
+    "title": "Face Pull",
+    "frames": [
+      "exercise-media/open/face-pulls/start.webp",
+      "exercise-media/open/face-pulls/end.webp"
+    ]
+  },
+  "5649": {
+    "name": "hollow rock",
+    "source": "open",
+    "sourceId": "hollow-body-rock",
+    "title": "Hollow Body Rock",
+    "frames": [
+      "exercise-media/open/hollow-body-rock/start.webp",
+      "exercise-media/open/hollow-body-rock/end.webp"
+    ]
+  },
+  "5738": {
+    "name": "suspension chest press",
+    "source": "open",
+    "sourceId": "suspension-chest-press",
+    "title": "Suspension Chest Press",
+    "frames": [
+      "exercise-media/open/suspension-chest-press/start.webp",
+      "exercise-media/open/suspension-chest-press/end.webp"
+    ]
+  },
+  "5803": {
+    "name": "reverse hyperextension on bench",
+    "source": "open",
+    "sourceId": "reverse-hyperextension",
+    "title": "Reverse Hyperextension (Bench)",
+    "frames": [
+      "exercise-media/open/reverse-hyperextension/start.webp",
+      "exercise-media/open/reverse-hyperextension/end.webp"
+    ]
+  },
+  "5822": {
+    "name": "prone y raise",
+    "source": "open",
+    "sourceId": "prone-y-raise",
+    "title": "Prone Y-Raise",
+    "frames": [
+      "exercise-media/open/prone-y-raise/start.webp",
+      "exercise-media/open/prone-y-raise/end.webp"
+    ]
+  },
+  "5876": {
+    "name": "suspension triceps extension",
+    "source": "open",
+    "sourceId": "suspension-triceps-extension",
+    "title": "Suspension Triceps Extension",
+    "frames": [
+      "exercise-media/open/suspension-triceps-extension/start.webp",
+      "exercise-media/open/suspension-triceps-extension/end.webp"
+    ]
+  },
+  "5881": {
+    "name": "crab walk",
+    "source": "open",
+    "sourceId": "crab-walk",
+    "title": "Crab Walk",
+    "frames": [
+      "exercise-media/open/crab-walk/start.webp",
+      "exercise-media/open/crab-walk/end.webp"
+    ]
+  },
+  "5921": {
+    "name": "dumbbell hammer preacher curl",
+    "sourceId": "0240",
+    "title": "Preacher Curl: Dumbbell (Hammer)",
+    "frames": [
+      "exercise-media/everkinetic/0240-relaxation.svg",
+      "exercise-media/everkinetic/0240-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "6211": {
+    "name": "bicycle crunch",
+    "source": "open",
+    "sourceId": "bicycle-crunch",
+    "title": "Bicycle Crunch",
+    "frames": [
+      "exercise-media/open/bicycle-crunch/start.webp",
+      "exercise-media/open/bicycle-crunch/end.webp"
+    ]
+  },
+  "6406": {
+    "name": "ez barbell preacher curl",
+    "source": "open",
+    "sourceId": "preacher-curl",
+    "title": "Preacher Curl",
+    "frames": [
+      "exercise-media/open/preacher-curl/start.webp",
+      "exercise-media/open/preacher-curl/end.webp"
+    ]
+  },
+  "6545": {
+    "name": "handstand hold on wall",
+    "source": "open",
+    "sourceId": "wall-handstand-hold",
+    "title": "Wall Handstand Hold",
+    "frames": [
+      "exercise-media/open/wall-handstand-hold/hold.webp"
+    ]
+  },
+  "7385": {
+    "name": "pull up (negative)",
+    "source": "open",
+    "sourceId": "negative-pull-up",
+    "title": "Negative Pull-Up",
+    "frames": [
+      "exercise-media/open/negative-pull-up/start.webp",
+      "exercise-media/open/negative-pull-up/end.webp"
+    ]
+  },
+  "7553": {
+    "name": "doorway chest stretch",
+    "source": "open",
+    "sourceId": "doorway-chest-stretch",
+    "title": "Chest Stretch on Post",
+    "frames": [
+      "exercise-media/open/doorway-chest-stretch/hold.webp"
+    ]
+  },
+  "7626": {
+    "name": "landmine squat",
+    "source": "guide",
+    "sourceId": "exercise-landmine-squat",
+    "title": "Landmine Squat",
+    "frames": [
+      "exercise-media/guide/exercise-landmine-squat/frame-1.svg",
+      "exercise-media/guide/exercise-landmine-squat/frame-3.svg"
+    ]
+  },
+  "7746": {
+    "name": "nordic hamstring curl",
+    "source": "open",
+    "sourceId": "nordic-hamstring-curl",
+    "title": "Nordic Hamstring Curl",
+    "frames": [
+      "exercise-media/open/nordic-hamstring-curl/start.webp",
+      "exercise-media/open/nordic-hamstring-curl/end.webp"
+    ]
+  },
+  "8141": {
+    "name": "cable standing crossover",
+    "sourceId": "0048",
+    "title": "Cable Crossover",
+    "frames": [
+      "exercise-media/everkinetic/0048-relaxation.svg",
+      "exercise-media/everkinetic/0048-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "8192": {
+    "name": "dumbbell sumo deadlift",
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-sumo-deadlift",
+    "title": "Dumbbell Sumo Deadlift",
+    "frames": [
+      "exercise-media/guide/exercise-dumbbell-sumo-deadlift/frame-1.svg",
+      "exercise-media/guide/exercise-dumbbell-sumo-deadlift/frame-3.svg"
+    ]
+  },
+  "9698": {
+    "name": "dumbbell chest supported row",
+    "source": "open",
+    "sourceId": "chest-supported-dumbbell-row",
+    "title": "Chest-Supported Dumbbell Row",
+    "frames": [
+      "exercise-media/open/chest-supported-dumbbell-row/start.webp",
+      "exercise-media/open/chest-supported-dumbbell-row/end.webp"
+    ]
+  },
+  "9819": {
+    "name": "hanging knee raise",
+    "source": "open",
+    "sourceId": "hanging-knee-raise",
+    "title": "Hanging Knee Raise",
+    "frames": [
+      "exercise-media/open/hanging-knee-raise/start.webp",
+      "exercise-media/open/hanging-knee-raise/end.webp"
+    ]
+  },
+  "10168": {
+    "name": "bodyweight box squat",
+    "source": "open",
+    "sourceId": "box-squat",
+    "title": "Box Squat",
+    "frames": [
+      "exercise-media/open/box-squat/start.webp",
+      "exercise-media/open/box-squat/end.webp"
+    ]
+  },
+  "10780": {
+    "name": "lying neck flexion",
+    "source": "open",
+    "sourceId": "neck-flexion",
+    "title": "Neck Flexion",
+    "frames": [
+      "exercise-media/open/neck-flexion/start.webp",
+      "exercise-media/open/neck-flexion/end.webp"
+    ]
+  },
+  "10781": {
+    "name": "lying neck extension",
+    "source": "open",
+    "sourceId": "neck-extension",
+    "title": "Neck Extension",
+    "frames": [
+      "exercise-media/open/neck-extension/start.webp",
+      "exercise-media/open/neck-extension/end.webp"
+    ]
+  },
+  "11383": {
+    "name": "wrist extensor stretch",
+    "source": "open",
+    "sourceId": "wrist-extensor-stretch",
+    "title": "Wrist Extensor Stretch",
+    "frames": [
+      "exercise-media/open/wrist-extensor-stretch/hold.webp"
+    ]
+  },
+  "0162": {
+    "name": "cable front raise",
+    "sourceId": "0008",
+    "title": "Front Cable Raises",
+    "frames": [
+      "exercise-media/everkinetic/0008-relaxation.svg",
+      "exercise-media/everkinetic/0008-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0120": {
+    "name": "barbell upright row",
+    "sourceId": "0014",
+    "title": "Upright Barbell Rows",
+    "frames": [
+      "exercise-media/everkinetic/0014-relaxation.svg",
+      "exercise-media/everkinetic/0014-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0246": {
+    "name": "cable upright row",
+    "sourceId": "0015",
+    "title": "Upright Cable Row",
+    "frames": [
+      "exercise-media/everkinetic/0015-relaxation.svg",
+      "exercise-media/everkinetic/0015-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0437": {
+    "name": "dumbbell upright row",
+    "sourceId": "0016",
+    "title": "Upright Row: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0016-relaxation.svg",
+      "exercise-media/everkinetic/0016-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0334": {
+    "name": "dumbbell lateral raise",
+    "sourceId": "0018",
+    "title": "Lateral Dumbbell Raises",
+    "frames": [
+      "exercise-media/everkinetic/0018-relaxation.svg",
+      "exercise-media/everkinetic/0018-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0255": {
+    "name": "wall ball circles",
+    "sourceId": "0019",
+    "title": "Ball Wall Circles",
+    "frames": [
+      "exercise-media/everkinetic/0019-relaxation.svg",
+      "exercise-media/everkinetic/0019-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0861": {
+    "name": "cable seated row",
+    "sourceId": "0025",
+    "title": "Seated Cable Rows",
+    "frames": [
+      "exercise-media/everkinetic/0025-relaxation.svg",
+      "exercise-media/everkinetic/0025-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0095": {
+    "name": "barbell shrug",
+    "sourceId": "0030",
+    "title": "Barbell Shrugs",
+    "frames": [
+      "exercise-media/everkinetic/0030-relaxation.svg",
+      "exercise-media/everkinetic/0030-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0310": {
+    "name": "dumbbell front raise",
+    "sourceId": "0033",
+    "title": "Front Dumbbell Raise",
+    "frames": [
+      "exercise-media/everkinetic/0033-relaxation.svg",
+      "exercise-media/everkinetic/0033-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0215": {
+    "name": "cable seated rear lateral raise",
+    "sourceId": "0035",
+    "title": "Seated Rear Lateral Cable Raise",
+    "frames": [
+      "exercise-media/everkinetic/0035-relaxation.svg",
+      "exercise-media/everkinetic/0035-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0361": {
+    "name": "dumbbell one arm shoulder press",
+    "sourceId": "0038",
+    "title": "One Arm Dumbbell Shoulder Press",
+    "frames": [
+      "exercise-media/everkinetic/0038-relaxation.svg",
+      "exercise-media/everkinetic/0038-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0363": {
+    "name": "dumbbell one arm upright row",
+    "sourceId": "0039",
+    "title": "Upright Row: Dumbbell (One Arm)",
+    "frames": [
+      "exercise-media/everkinetic/0039-relaxation.svg",
+      "exercise-media/everkinetic/0039-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0025": {
+    "name": "barbell bench press",
+    "sourceId": "0042",
+    "title": "Bench Press: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0042-relaxation.svg",
+      "exercise-media/everkinetic/0042-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0047": {
+    "name": "barbell incline bench press",
+    "sourceId": "0043",
+    "title": "Bench Press: Barbell (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0043-relaxation.svg",
+      "exercise-media/everkinetic/0043-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0030": {
+    "name": "barbell close-grip bench press",
+    "sourceId": "0049",
+    "title": "Bench Press: Barbell (Close Grip)",
+    "frames": [
+      "exercise-media/everkinetic/0049-relaxation.svg",
+      "exercise-media/everkinetic/0049-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0033": {
+    "name": "barbell decline bench press",
+    "sourceId": "0051",
+    "title": "Bench Press: Barbell (Decline)",
+    "frames": [
+      "exercise-media/everkinetic/0051-relaxation.svg",
+      "exercise-media/everkinetic/0051-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0301": {
+    "name": "dumbbell decline bench press",
+    "sourceId": "0052",
+    "title": "Bench Press: Dumbbell (Decline)",
+    "frames": [
+      "exercise-media/everkinetic/0052-relaxation.svg",
+      "exercise-media/everkinetic/0052-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0302": {
+    "name": "dumbbell decline fly",
+    "sourceId": "0053",
+    "title": "Decline Dumbbell Fly's",
+    "frames": [
+      "exercise-media/everkinetic/0053-relaxation.svg",
+      "exercise-media/everkinetic/0053-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0289": {
+    "name": "dumbbell bench press",
+    "sourceId": "0055",
+    "title": "Bench Press: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0055-relaxation.svg",
+      "exercise-media/everkinetic/0055-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0308": {
+    "name": "dumbbell fly",
+    "sourceId": "0056",
+    "title": "Dumbbell Flys",
+    "frames": [
+      "exercise-media/everkinetic/0056-relaxation.svg",
+      "exercise-media/everkinetic/0056-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0040": {
+    "name": "barbell front raise and pullover",
+    "sourceId": "0058",
+    "title": "Barbell Front Raise and Pullover",
+    "frames": [
+      "exercise-media/everkinetic/0058-relaxation.svg",
+      "exercise-media/everkinetic/0058-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0171": {
+    "name": "cable incline fly",
+    "sourceId": "0060",
+    "title": "Incline Cable Fly's",
+    "frames": [
+      "exercise-media/everkinetic/0060-relaxation.svg",
+      "exercise-media/everkinetic/0060-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0314": {
+    "name": "dumbbell incline bench press",
+    "sourceId": "0061",
+    "title": "Bench Press: Dumbbell (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0061-relaxation.svg",
+      "exercise-media/everkinetic/0061-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0319": {
+    "name": "dumbbell incline fly",
+    "sourceId": "0062",
+    "title": "Incline Dumbbell Fly's",
+    "frames": [
+      "exercise-media/everkinetic/0062-relaxation.svg",
+      "exercise-media/everkinetic/0062-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0037": {
+    "name": "barbell decline wide-grip pullover",
+    "sourceId": "0064",
+    "title": "Wide Grip Decline Barbell Pullover",
+    "frames": [
+      "exercise-media/everkinetic/0064-relaxation.svg",
+      "exercise-media/everkinetic/0064-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0653": {
+    "name": "push-up (bosu ball)",
+    "sourceId": "0069",
+    "title": "Push Up: Bosu Ball",
+    "frames": [
+      "exercise-media/everkinetic/0069-relaxation.svg",
+      "exercise-media/everkinetic/0069-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0065": {
+    "name": "barbell one arm floor press",
+    "sourceId": "0070",
+    "title": "One Arm Barbell Floor Press",
+    "frames": [
+      "exercise-media/everkinetic/0070-relaxation.svg",
+      "exercise-media/everkinetic/0070-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0662": {
+    "name": "push-up",
+    "sourceId": "0077",
+    "title": "Push Up: Body Weight",
+    "frames": [
+      "exercise-media/everkinetic/0077-relaxation.svg",
+      "exercise-media/everkinetic/0077-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0433": {
+    "name": "dumbbell straight arm pullover",
+    "sourceId": "0079",
+    "title": "Straight Arm Dumbbell Pullover",
+    "frames": [
+      "exercise-media/everkinetic/0079-relaxation.svg",
+      "exercise-media/everkinetic/0079-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0253": {
+    "name": "chin-ups (narrow parallel grip)",
+    "sourceId": "0090",
+    "title": "Narrow Parallel Grip Chin-ups",
+    "frames": [
+      "exercise-media/everkinetic/0090-relaxation.svg",
+      "exercise-media/everkinetic/0090-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0934": {
+    "name": "band upright row",
+    "sourceId": "0094",
+    "title": "Upright Band Rows",
+    "frames": [
+      "exercise-media/everkinetic/0094-relaxation.svg",
+      "exercise-media/everkinetic/0094-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0715": {
+    "name": "side plank",
+    "sourceId": "0113",
+    "title": "Side Plank",
+    "frames": [
+      "exercise-media/everkinetic/0113-relaxation.svg",
+      "exercise-media/everkinetic/0113-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0054": {
+    "name": "barbell lunge",
+    "sourceId": "0114",
+    "title": "Lunges: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0114-relaxation.svg",
+      "exercise-media/everkinetic/0114-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0336": {
+    "name": "dumbbell lunge",
+    "sourceId": "0115",
+    "title": "Lunges: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0115-relaxation.svg",
+      "exercise-media/everkinetic/0115-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0046": {
+    "name": "barbell hack squat",
+    "sourceId": "0125",
+    "title": "Hack Squat: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0125-relaxation.svg",
+      "exercise-media/everkinetic/0125-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0078": {
+    "name": "barbell rear lunge",
+    "sourceId": "0128",
+    "title": "Lunges: Barbell (Rear)",
+    "frames": [
+      "exercise-media/everkinetic/0128-relaxation.svg",
+      "exercise-media/everkinetic/0128-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0381": {
+    "name": "dumbbell rear lunge",
+    "sourceId": "0129",
+    "title": "Lunges: Dumbbell (Rear)",
+    "frames": [
+      "exercise-media/everkinetic/0129-relaxation.svg",
+      "exercise-media/everkinetic/0129-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0413": {
+    "name": "dumbbell squat",
+    "sourceId": "0130",
+    "title": "Squats: Dumbbells",
+    "frames": [
+      "exercise-media/everkinetic/0130-relaxation.svg",
+      "exercise-media/everkinetic/0130-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0026": {
+    "name": "barbell bench squat",
+    "sourceId": "0133",
+    "title": "Squats: Barbell (to Bench)",
+    "frames": [
+      "exercise-media/everkinetic/0133-relaxation.svg",
+      "exercise-media/everkinetic/0133-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0291": {
+    "name": "dumbbell bench squat",
+    "sourceId": "0136",
+    "title": "Squats: Dumbbells (to Bench)",
+    "frames": [
+      "exercise-media/everkinetic/0136-relaxation.svg",
+      "exercise-media/everkinetic/0136-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0042": {
+    "name": "barbell front squat",
+    "sourceId": "0138",
+    "title": "Front Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0138-relaxation.svg",
+      "exercise-media/everkinetic/0138-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0332": {
+    "name": "dumbbell iron cross",
+    "sourceId": "0140",
+    "title": "Iron Cross: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0140-relaxation.svg",
+      "exercise-media/everkinetic/0140-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0051": {
+    "name": "barbell jefferson squat",
+    "sourceId": "0141",
+    "title": "Jefferson Squats: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0141-relaxation.svg",
+      "exercise-media/everkinetic/0141-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0063": {
+    "name": "barbell narrow stance squat",
+    "sourceId": "0146",
+    "title": "Narrow Stance Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0146-relaxation.svg",
+      "exercise-media/everkinetic/0146-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0068": {
+    "name": "barbell one leg squat",
+    "sourceId": "0147",
+    "title": "One Leg Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0147-relaxation.svg",
+      "exercise-media/everkinetic/0147-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0067": {
+    "name": "barbell one arm snatch",
+    "sourceId": "0148",
+    "title": "One Arm Snatch with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0148-relaxation.svg",
+      "exercise-media/everkinetic/0148-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0069": {
+    "name": "barbell overhead squat",
+    "sourceId": "0151",
+    "title": "Overhead Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0151-relaxation.svg",
+      "exercise-media/everkinetic/0151-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0101": {
+    "name": "barbell speed squat",
+    "sourceId": "0154",
+    "title": "Speed Squats: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0154-relaxation.svg",
+      "exercise-media/everkinetic/0154-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0172": {
+    "name": "cable incline pushdown",
+    "sourceId": "0163",
+    "title": "Incline Pushdown with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0163-relaxation.svg",
+      "exercise-media/everkinetic/0163-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0173": {
+    "name": "cable incline triceps extension",
+    "sourceId": "0164",
+    "title": "Triceps Extension: Cable (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0164-relaxation.svg",
+      "exercise-media/everkinetic/0164-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0306": {
+    "name": "dumbbell decline triceps extension",
+    "sourceId": "0169",
+    "title": "Triceps Extension: Dumbbell (Decline)",
+    "frames": [
+      "exercise-media/everkinetic/0169-relaxation.svg",
+      "exercise-media/everkinetic/0169-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0176": {
+    "name": "cable kneeling triceps extension",
+    "sourceId": "0177",
+    "title": "Triceps Extension: Cable (Kneeling)",
+    "frames": [
+      "exercise-media/everkinetic/0177-relaxation.svg",
+      "exercise-media/everkinetic/0177-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0351": {
+    "name": "dumbbell lying triceps extension",
+    "sourceId": "0181",
+    "title": "Triceps Extension: Dumbbell (Lying)",
+    "frames": [
+      "exercise-media/everkinetic/0181-relaxation.svg",
+      "exercise-media/everkinetic/0181-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0092": {
+    "name": "barbell seated overhead triceps extension",
+    "sourceId": "0193",
+    "title": "Triceps Extension: Barbell (Seated, Overhead)",
+    "frames": [
+      "exercise-media/everkinetic/0193-relaxation.svg",
+      "exercise-media/everkinetic/0193-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0430": {
+    "name": "dumbbell standing triceps extension",
+    "sourceId": "0198",
+    "title": "Triceps Extension: Dumbbell (Standing)",
+    "frames": [
+      "exercise-media/everkinetic/0198-relaxation.svg",
+      "exercise-media/everkinetic/0198-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0109": {
+    "name": "barbell standing overhead triceps extension",
+    "sourceId": "0201",
+    "title": "Triceps Extension: Barbell (Standing, Overhead)",
+    "frames": [
+      "exercise-media/everkinetic/0201-relaxation.svg",
+      "exercise-media/everkinetic/0201-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0436": {
+    "name": "dumbbell tate press",
+    "sourceId": "0203",
+    "title": "Tate Press with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0203-relaxation.svg",
+      "exercise-media/everkinetic/0203-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0241": {
+    "name": "cable triceps pushdown (v-bar)",
+    "sourceId": "0207",
+    "title": "Triceps Pushdown: Cable (V-Bar)",
+    "frames": [
+      "exercise-media/everkinetic/0207-relaxation.svg",
+      "exercise-media/everkinetic/0207-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0330": {
+    "name": "dumbbell incline triceps extension",
+    "sourceId": "0209",
+    "title": "Triceps Extension: Dumbbell (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0209-relaxation.svg",
+      "exercise-media/everkinetic/0209-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0165": {
+    "name": "cable hammer curl (with rope)",
+    "sourceId": "0216",
+    "title": "Hammer Curls with Rope and Cable",
+    "frames": [
+      "exercise-media/everkinetic/0216-relaxation.svg",
+      "exercise-media/everkinetic/0216-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0195": {
+    "name": "cable preacher curl",
+    "sourceId": "0217",
+    "title": "Preacher Curl: Cable",
+    "frames": [
+      "exercise-media/everkinetic/0217-relaxation.svg",
+      "exercise-media/everkinetic/0217-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0297": {
+    "name": "dumbbell concentration curl",
+    "sourceId": "0220",
+    "title": "Concentration Curls with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0220-relaxation.svg",
+      "exercise-media/everkinetic/0220-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0298": {
+    "name": "dumbbell cross body hammer curl",
+    "sourceId": "0221",
+    "title": "Cross Body Hammer Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0221-relaxation.svg",
+      "exercise-media/everkinetic/0221-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0038": {
+    "name": "barbell drag curl",
+    "sourceId": "0222",
+    "title": "Drag Curl with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0222-relaxation.svg",
+      "exercise-media/everkinetic/0222-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0294": {
+    "name": "dumbbell biceps curl",
+    "sourceId": "0224",
+    "title": "Biceps Curl: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0224-relaxation.svg",
+      "exercise-media/everkinetic/0224-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0322": {
+    "name": "dumbbell incline inner biceps curl",
+    "sourceId": "0231",
+    "title": "Incline Inner Biceps Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0231-relaxation.svg",
+      "exercise-media/everkinetic/0231-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0070": {
+    "name": "barbell preacher curl",
+    "sourceId": "0239",
+    "title": "Preacher Curl: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0239-relaxation.svg",
+      "exercise-media/everkinetic/0239-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0089": {
+    "name": "barbell seated close-grip concentration curl",
+    "sourceId": "0242",
+    "title": "Seated Close Grip Concentration Curls with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0242-relaxation.svg",
+      "exercise-media/everkinetic/0242-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0393": {
+    "name": "dumbbell seated inner biceps curl",
+    "sourceId": "0244",
+    "title": "Seated Inner Biceps Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0244-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0422": {
+    "name": "dumbbell standing one arm curl (over incline bench)",
+    "sourceId": "0248",
+    "title": "Standing One Arm Curl Over Incline Bench with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0248-relaxation.svg",
+      "exercise-media/everkinetic/0248-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0439": {
+    "name": "dumbbell zottman curl",
+    "sourceId": "0251",
+    "title": "Zottman Curl with Dumbbells",
+    "frames": [
+      "exercise-media/everkinetic/0251-relaxation.svg",
+      "exercise-media/everkinetic/0251-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0390": {
+    "name": "dumbbell seated biceps curl (on stability ball)",
+    "sourceId": "0255",
+    "title": "Biceps Curl: Stability Ball with Dumbbell (seated)",
+    "frames": [
+      "exercise-media/everkinetic/0255-relaxation.svg",
+      "exercise-media/everkinetic/0255-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0088": {
+    "name": "barbell seated calf raise",
+    "sourceId": "0272",
+    "title": "Seated Calf Raise with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0272-relaxation.svg",
+      "exercise-media/everkinetic/0272-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0894": {
+    "name": "band calf raise",
+    "sourceId": "0274",
+    "title": "Calf Raises with Band",
+    "frames": [
+      "exercise-media/everkinetic/0274-relaxation.svg",
+      "exercise-media/everkinetic/0274-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0284": {
+    "name": "donkey calf raise",
+    "sourceId": "0275",
+    "title": "Donkey Calf Raises",
+    "frames": [
+      "exercise-media/everkinetic/0275-relaxation.svg",
+      "exercise-media/everkinetic/0275-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0400": {
+    "name": "dumbbell seated one leg calf raise",
+    "sourceId": "0276",
+    "title": "Seated One Leg Calf Raise with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0276-relaxation.svg",
+      "exercise-media/everkinetic/0276-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0003": {
+    "name": "air bike",
+    "sourceId": "0284",
+    "title": "Air Bike",
+    "frames": [
+      "exercise-media/everkinetic/0284-relaxation.svg",
+      "exercise-media/everkinetic/0284-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0484": {
+    "name": "hip raise (bent knee)",
+    "sourceId": "0287",
+    "title": "Bent Knee Hip Raise",
+    "frames": [
+      "exercise-media/everkinetic/0287-relaxation.svg",
+      "exercise-media/everkinetic/0287-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0262": {
+    "name": "cross body crunch",
+    "sourceId": "0289",
+    "title": "Cross Body Crunch",
+    "frames": [
+      "exercise-media/everkinetic/0289-relaxation.svg",
+      "exercise-media/everkinetic/0289-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0277": {
+    "name": "decline crunch",
+    "sourceId": "0292",
+    "title": "Decline Crunch",
+    "frames": [
+      "exercise-media/everkinetic/0292-relaxation.svg",
+      "exercise-media/everkinetic/0292-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0407": {
+    "name": "dumbbell side bend",
+    "sourceId": "0294",
+    "title": "Side Bend with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0294-relaxation.svg",
+      "exercise-media/everkinetic/0294-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0775": {
+    "name": "smith upright row",
+    "sourceId": "0013",
+    "title": "Upright Row: Smith Machine",
+    "frames": [
+      "exercise-media/everkinetic/0013-relaxation.svg",
+      "exercise-media/everkinetic/0013-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0620": {
+    "name": "lying leg raise flat bench",
+    "sourceId": "0021",
+    "title": "Flat Bench Leg Raises",
+    "frames": [
+      "exercise-media/everkinetic/0021-relaxation.svg",
+      "exercise-media/everkinetic/0021-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0762": {
+    "name": "smith rear delt row",
+    "sourceId": "0022",
+    "title": "Smith Machine Rear Deltoid Row",
+    "frames": [
+      "exercise-media/everkinetic/0022-relaxation.svg",
+      "exercise-media/everkinetic/0022-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0348": {
+    "name": "dumbbell lying rear lateral raise",
+    "sourceId": "0023",
+    "title": "Lying Rear Lateral Raise",
+    "frames": [
+      "exercise-media/everkinetic/0023-relaxation.svg",
+      "exercise-media/everkinetic/0023-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0118": {
+    "name": "barbell reverse grip bent over row",
+    "sourceId": "0026",
+    "title": "Reverse Grips Bent Over Barbell Rows",
+    "frames": [
+      "exercise-media/everkinetic/0026-relaxation.svg",
+      "exercise-media/everkinetic/0026-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0076": {
+    "name": "barbell rear delt row",
+    "sourceId": "0028",
+    "title": "Rear Deltoid Row Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0028-relaxation.svg",
+      "exercise-media/everkinetic/0028-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0345": {
+    "name": "dumbbell lying one arm rear lateral raise",
+    "sourceId": "0037",
+    "title": "Lying One Arm Rear Lateral Raise",
+    "frames": [
+      "exercise-media/everkinetic/0037-relaxation.svg",
+      "exercise-media/everkinetic/0037-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0251": {
+    "name": "chest dip",
+    "sourceId": "0054",
+    "title": "Chest Dips",
+    "frames": [
+      "exercise-media/everkinetic/0054-relaxation.svg",
+      "exercise-media/everkinetic/0054-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0036": {
+    "name": "barbell decline wide-grip press",
+    "sourceId": "0083",
+    "title": "Bench Press: Barbell (Decline, Wide Grip)",
+    "frames": [
+      "exercise-media/everkinetic/0083-relaxation.svg",
+      "exercise-media/everkinetic/0083-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0748": {
+    "name": "smith bench press",
+    "sourceId": "0078",
+    "title": "Bench Press: Smith Machine",
+    "frames": [
+      "exercise-media/everkinetic/0078-relaxation.svg",
+      "exercise-media/everkinetic/0078-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0757": {
+    "name": "smith incline bench press",
+    "sourceId": "0081",
+    "title": "Bench Press: Smith Machine (Incline)",
+    "frames": [
+      "exercise-media/everkinetic/0081-relaxation.svg",
+      "exercise-media/everkinetic/0081-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0044": {
+    "name": "barbell good morning",
+    "sourceId": "0101",
+    "title": "Good Mornings: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0101-relaxation.svg",
+      "exercise-media/everkinetic/0101-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0599": {
+    "name": "lever seated leg curl",
+    "sourceId": "0119",
+    "title": "Seated Leg Curl",
+    "frames": [
+      "exercise-media/everkinetic/0119-relaxation.svg",
+      "exercise-media/everkinetic/0119-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0755": {
+    "name": "smith hack squat",
+    "sourceId": "0126",
+    "title": "Smith Machine Hack Squat",
+    "frames": [
+      "exercise-media/everkinetic/0126-relaxation.svg",
+      "exercise-media/everkinetic/0126-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0114": {
+    "name": "barbell step-up",
+    "sourceId": "0134",
+    "title": "Step Ups: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0134-relaxation.svg",
+      "exercise-media/everkinetic/0134-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0431": {
+    "name": "dumbbell step-up",
+    "sourceId": "0137",
+    "title": "Step Ups: Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0137-relaxation.svg",
+      "exercise-media/everkinetic/0137-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0024": {
+    "name": "barbell bench front squat",
+    "sourceId": "0139",
+    "title": "Front Squat to Bench with Barbells",
+    "frames": [
+      "exercise-media/everkinetic/0139-relaxation.svg",
+      "exercise-media/everkinetic/0139-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0585": {
+    "name": "lever leg extension",
+    "sourceId": "0142",
+    "title": "Leg Extensions",
+    "frames": [
+      "exercise-media/everkinetic/0142-relaxation.svg",
+      "exercise-media/everkinetic/0142-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0744": {
+    "name": "sled lying squat",
+    "sourceId": "0144",
+    "title": "Lying Squat",
+    "frames": [
+      "exercise-media/everkinetic/0144-relaxation.svg",
+      "exercise-media/everkinetic/0144-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0066": {
+    "name": "barbell one arm side deadlift",
+    "sourceId": "0150",
+    "title": "Dead Lift: Barbell (One Arm Side)",
+    "frames": [
+      "exercise-media/everkinetic/0150-relaxation.svg",
+      "exercise-media/everkinetic/0150-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0187": {
+    "name": "cable lying triceps extension",
+    "sourceId": "0165",
+    "title": "Lying Tricep Extension with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0165-relaxation.svg",
+      "exercise-media/everkinetic/0165-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0337": {
+    "name": "dumbbell lying extension (across face)",
+    "sourceId": "0182",
+    "title": "Triceps Extension: Dumbbell (Lying, Across Face)",
+    "frames": [
+      "exercise-media/everkinetic/0182-relaxation.svg",
+      "exercise-media/everkinetic/0182-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0207": {
+    "name": "cable reverse-grip pushdown",
+    "sourceId": "0189",
+    "title": "Reverse Grip Triceps Pushdown",
+    "frames": [
+      "exercise-media/everkinetic/0189-relaxation.svg",
+      "exercise-media/everkinetic/0189-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0751": {
+    "name": "smith close-grip bench press",
+    "sourceId": "0195",
+    "title": "Bench Press: Smith Machine (Close Grip)",
+    "frames": [
+      "exercise-media/everkinetic/0195-relaxation.svg",
+      "exercise-media/everkinetic/0195-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0200": {
+    "name": "cable pushdown (with rope attachment)",
+    "sourceId": "0206",
+    "title": "Triceps Pushdown: Cable (Rope)",
+    "frames": [
+      "exercise-media/everkinetic/0206-relaxation.svg",
+      "exercise-media/everkinetic/0206-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0850": {
+    "name": "weighted side bend (on stability ball)",
+    "sourceId": "0208",
+    "title": "Weighted Ball Side Bend",
+    "frames": [
+      "exercise-media/everkinetic/0208-relaxation.svg",
+      "exercise-media/everkinetic/0208-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0607": {
+    "name": "lever triceps extension",
+    "sourceId": "0210",
+    "title": "Triceps Extension: Machine",
+    "frames": [
+      "exercise-media/everkinetic/0210-relaxation.svg",
+      "exercise-media/everkinetic/0210-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0031": {
+    "name": "barbell curl",
+    "sourceId": "0211",
+    "title": "Biceps Curl: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0211-relaxation.svg",
+      "exercise-media/everkinetic/0211-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0447": {
+    "name": "ez barbell curl",
+    "sourceId": "0226",
+    "title": "EZ Bar Curl with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0226-relaxation.svg",
+      "exercise-media/everkinetic/0226-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0313": {
+    "name": "dumbbell hammer curl",
+    "sourceId": "0227",
+    "title": "Biceps Curl: Dumbbell (Hammer)",
+    "frames": [
+      "exercise-media/everkinetic/0227-relaxation.svg",
+      "exercise-media/everkinetic/0227-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0181": {
+    "name": "cable lying close grip curl",
+    "sourceId": "0233",
+    "title": "Lying Close Grip Biceps Curls with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0233-relaxation.svg",
+      "exercise-media/everkinetic/0233-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0182": {
+    "name": "cable lying close-grip curl",
+    "sourceId": "0233",
+    "title": "Lying Close Grip Biceps Curls with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0233-relaxation.svg",
+      "exercise-media/everkinetic/0233-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0350": {
+    "name": "dumbbell lying supine curl",
+    "sourceId": "0235",
+    "title": "Lying Supine Biceps Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0235-relaxation.svg",
+      "exercise-media/everkinetic/0235-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0968": {
+    "name": "band alternating biceps curl",
+    "sourceId": "0261",
+    "title": "Quick Alternating Biceps Curls with Band",
+    "frames": [
+      "exercise-media/everkinetic/0261-relaxation.svg",
+      "exercise-media/everkinetic/0261-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0111": {
+    "name": "barbell standing rocking leg calf raise",
+    "sourceId": "0278",
+    "title": "Rocking Standing Calf Raise with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0278-relaxation.svg",
+      "exercise-media/everkinetic/0278-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0763": {
+    "name": "smith reverse calf raises",
+    "sourceId": "0280",
+    "title": "Smith Machine Reverse Calf Raises",
+    "frames": [
+      "exercise-media/everkinetic/0280-relaxation.svg",
+      "exercise-media/everkinetic/0280-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0108": {
+    "name": "barbell standing leg calf raise",
+    "sourceId": "0281",
+    "title": "Standing Barbell Calf Raise",
+    "frames": [
+      "exercise-media/everkinetic/0281-relaxation.svg",
+      "exercise-media/everkinetic/0281-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0212": {
+    "name": "cable seated crunch",
+    "sourceId": "0288",
+    "title": "Seated Ab Crunch with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0288-relaxation.svg",
+      "exercise-media/everkinetic/0288-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0269": {
+    "name": "crunch (legs on stability ball)",
+    "sourceId": "0290",
+    "title": "Crunches with Legs on Stability Ball",
+    "frames": [
+      "exercise-media/everkinetic/0290-relaxation.svg",
+      "exercise-media/everkinetic/0290-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0271": {
+    "name": "crunch (on stability ball)",
+    "sourceId": "0295",
+    "title": "Stability Ball Abdominal Crunch",
+    "frames": [
+      "exercise-media/everkinetic/0295-relaxation.svg",
+      "exercise-media/everkinetic/0295-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0650": {
+    "name": "pull-in (on stability ball)",
+    "sourceId": "0296",
+    "title": "Exercise Ball Pull In",
+    "frames": [
+      "exercise-media/everkinetic/0296-relaxation.svg",
+      "exercise-media/everkinetic/0296-tension.svg"
+    ],
+    "source": "everkinetic"
+  },
+  "0017": {
+    "name": "assisted pull-up",
+    "source": "open",
+    "sourceId": "assisted-pull-up",
+    "title": "Assisted Pull-Up",
+    "frames": [
+      "exercise-media/open/assisted-pull-up/start.webp",
+      "exercise-media/open/assisted-pull-up/end.webp"
+    ]
+  },
+  "0489": {
+    "name": "hyperextension",
+    "source": "open",
+    "sourceId": "back-extensions",
+    "title": "Back Extension",
+    "frames": [
+      "exercise-media/open/back-extensions/start.webp",
+      "exercise-media/open/back-extensions/end.webp"
+    ]
+  },
+  "0907": {
+    "name": "band lateral raise",
+    "source": "open",
+    "sourceId": "band-lateral-raise",
+    "title": "Band Lateral Raise",
+    "frames": [
+      "exercise-media/open/band-lateral-raise/start.webp",
+      "exercise-media/open/band-lateral-raise/end.webp"
+    ]
+  },
+  "0911": {
+    "name": "band lying leg curl",
+    "source": "open",
+    "sourceId": "band-lying-leg-curl",
+    "title": "Band Lying Leg Curl",
+    "frames": [
+      "exercise-media/open/band-lying-leg-curl/start.webp",
+      "exercise-media/open/band-lying-leg-curl/end.webp"
+    ]
+  },
+  "0784": {
+    "name": "squat (with band)",
+    "source": "open",
+    "sourceId": "band-squat",
+    "title": "Band Squat",
+    "frames": [
+      "exercise-media/open/band-squat/start.webp",
+      "exercise-media/open/band-squat/end.webp"
+    ]
+  },
+  "0073": {
+    "name": "barbell pullover",
+    "source": "open",
+    "sourceId": "barbell-pullover",
+    "title": "Barbell Pullover",
+    "frames": [
+      "exercise-media/open/barbell-pullover/start.webp",
+      "exercise-media/open/barbell-pullover/end.webp"
+    ]
+  },
+  "0868": {
+    "name": "cable curl",
+    "source": "open",
+    "sourceId": "cable-curl",
+    "title": "Cable Curl",
+    "frames": [
+      "exercise-media/open/cable-curl/start.webp",
+      "exercise-media/open/cable-curl/end.webp"
+    ]
+  },
+  "0220": {
+    "name": "cable shrug",
+    "source": "open",
+    "sourceId": "cable-shrug",
+    "title": "Cable Shrug",
+    "frames": [
+      "exercise-media/open/cable-shrug/start.webp",
+      "exercise-media/open/cable-shrug/end.webp"
+    ]
+  },
+  "0276": {
+    "name": "dead bug",
+    "source": "open",
+    "sourceId": "dead-bug",
+    "title": "Dead Bug",
+    "frames": [
+      "exercise-media/open/dead-bug/start.webp",
+      "exercise-media/open/dead-bug/end.webp"
+    ]
+  },
+  "0279": {
+    "name": "decline push-up",
+    "source": "open",
+    "sourceId": "decline-push-up",
+    "title": "Decline Push-Up",
+    "frames": [
+      "exercise-media/open/decline-push-up/start.webp",
+      "exercise-media/open/decline-push-up/end.webp"
+    ]
+  },
+  "0282": {
+    "name": "decline sit-up",
+    "source": "open",
+    "sourceId": "decline-sit-up",
+    "title": "Decline Sit Up",
+    "frames": [
+      "exercise-media/open/decline-sit-up/start.webp",
+      "exercise-media/open/decline-sit-up/end.webp"
+    ]
+  },
+  "0300": {
+    "name": "dumbbell deadlift",
+    "source": "open",
+    "sourceId": "dumbbell-deadlift",
+    "title": "Dumbbell Deadlift",
+    "frames": [
+      "exercise-media/open/dumbbell-deadlift/start.webp",
+      "exercise-media/open/dumbbell-deadlift/end.webp"
+    ]
+  },
+  "0333": {
+    "name": "dumbbell kickback",
+    "source": "open",
+    "sourceId": "dumbbell-kickback",
+    "title": "Triceps Kickback",
+    "frames": [
+      "exercise-media/open/dumbbell-kickback/start.webp",
+      "exercise-media/open/dumbbell-kickback/end.webp"
+    ]
+  },
+  "0375": {
+    "name": "dumbbell pullover",
+    "source": "open",
+    "sourceId": "dumbbell-pullover",
+    "title": "Dumbbell Pullover",
+    "frames": [
+      "exercise-media/open/dumbbell-pullover/start.webp",
+      "exercise-media/open/dumbbell-pullover/end.webp"
+    ]
+  },
+  "0385": {
+    "name": "dumbbell reverse wrist curl",
+    "source": "open",
+    "sourceId": "dumbbell-reverse-wrist-curl",
+    "title": "Dumbbell Reverse Wrist Curl",
+    "frames": [
+      "exercise-media/open/dumbbell-reverse-wrist-curl/start.webp",
+      "exercise-media/open/dumbbell-reverse-wrist-curl/end.webp"
+    ]
+  },
+  "0406": {
+    "name": "dumbbell shrug",
+    "source": "open",
+    "sourceId": "dumbbell-shrug",
+    "title": "Dumbbell Shrug",
+    "frames": [
+      "exercise-media/open/dumbbell-shrug/start.webp",
+      "exercise-media/open/dumbbell-shrug/end.webp"
+    ]
+  },
+  "0472": {
+    "name": "hanging leg raise",
+    "source": "open",
+    "sourceId": "hanging-leg-raise",
+    "title": "Hanging Leg Raise",
+    "frames": [
+      "exercise-media/open/hanging-leg-raise/start.webp",
+      "exercise-media/open/hanging-leg-raise/end.webp"
+    ]
+  },
+  "0318": {
+    "name": "dumbbell incline curl",
+    "source": "open",
+    "sourceId": "incline-dumbbell-curl",
+    "title": "Incline Dumbbell Curl",
+    "frames": [
+      "exercise-media/open/incline-dumbbell-curl/start.webp",
+      "exercise-media/open/incline-dumbbell-curl/end.webp"
+    ]
+  },
+  "0493": {
+    "name": "incline push-up",
+    "source": "open",
+    "sourceId": "incline-push-up",
+    "title": "Incline Push-Up",
+    "frames": [
+      "exercise-media/open/incline-push-up/start.webp",
+      "exercise-media/open/incline-push-up/end.webp"
+    ]
+  },
+  "0499": {
+    "name": "inverted row",
+    "source": "open",
+    "sourceId": "inverted-row",
+    "title": "Inverted Row",
+    "frames": [
+      "exercise-media/open/inverted-row/start.webp",
+      "exercise-media/open/inverted-row/end.webp"
+    ]
+  },
+  "0514": {
+    "name": "jump squat",
+    "source": "open",
+    "sourceId": "jump-squat",
+    "title": "Jump Squat",
+    "frames": [
+      "exercise-media/open/jump-squat/start.webp",
+      "exercise-media/open/jump-squat/end.webp"
+    ]
+  },
+  "0534": {
+    "name": "kettlebell goblet squat",
+    "source": "open",
+    "sourceId": "kettlebell-goblet-squat",
+    "title": "Kettlebell Goblet Squat",
+    "frames": [
+      "exercise-media/open/kettlebell-goblet-squat/start.webp",
+      "exercise-media/open/kettlebell-goblet-squat/end.webp"
+    ]
+  },
+  "0630": {
+    "name": "mountain climber",
+    "source": "open",
+    "sourceId": "mountain-climbers",
+    "title": "Mountain Climber",
+    "frames": [
+      "exercise-media/open/mountain-climbers/start.webp",
+      "exercise-media/open/mountain-climbers/end.webp"
+    ]
+  },
+  "0631": {
+    "name": "muscle up",
+    "source": "open",
+    "sourceId": "muscle-up",
+    "title": "Muscle-Up",
+    "frames": [
+      "exercise-media/open/muscle-up/start.webp",
+      "exercise-media/open/muscle-up/end.webp"
+    ]
+  },
+  "0713": {
+    "name": "side neck stretch",
+    "source": "open",
+    "sourceId": "neck-side-stretch",
+    "title": "Neck Side Stretch",
+    "frames": [
+      "exercise-media/open/neck-side-stretch/hold.webp"
+    ]
+  },
+  "0651": {
+    "name": "pull up (neutral grip)",
+    "source": "open",
+    "sourceId": "neutral-grip-pull-up",
+    "title": "Neutral Grip Pull Up",
+    "frames": [
+      "exercise-media/open/neutral-grip-pull-up/start.webp",
+      "exercise-media/open/neutral-grip-pull-up/end.webp"
+    ]
+  },
+  "0643": {
+    "name": "overhead triceps stretch",
+    "source": "open",
+    "sourceId": "overhead-triceps-stretch",
+    "title": "Overhead Triceps Stretch",
+    "frames": [
+      "exercise-media/open/overhead-triceps-stretch/hold.webp"
+    ]
+  },
+  "0648": {
+    "name": "power clean",
+    "source": "open",
+    "sourceId": "power-clean",
+    "title": "Power Clean",
+    "frames": [
+      "exercise-media/open/power-clean/start.webp",
+      "exercise-media/open/power-clean/end.webp"
+    ]
+  },
+  "0652": {
+    "name": "pull-up",
+    "source": "open",
+    "sourceId": "pull-up",
+    "title": "Pull-Up",
+    "frames": [
+      "exercise-media/open/pull-up/start.webp",
+      "exercise-media/open/pull-up/end.webp"
+    ]
+  },
+  "0872": {
+    "name": "reverse crunch",
+    "source": "open",
+    "sourceId": "reverse-crunch",
+    "title": "Reverse Crunch",
+    "frames": [
+      "exercise-media/open/reverse-crunch/start.webp",
+      "exercise-media/open/reverse-crunch/end.webp"
+    ]
+  },
+  "0867": {
+    "name": "reverse plank",
+    "source": "open",
+    "sourceId": "reverse-plank",
+    "title": "Reverse Plank",
+    "frames": [
+      "exercise-media/open/reverse-plank/hold.webp"
+    ]
+  },
+  "0391": {
+    "name": "dumbbell seated curl",
+    "source": "open",
+    "sourceId": "seated-dumbbell-curl",
+    "title": "Seated Dumbbell Curl",
+    "frames": [
+      "exercise-media/open/seated-dumbbell-curl/start.webp",
+      "exercise-media/open/seated-dumbbell-curl/end.webp"
+    ]
+  },
+  "0736": {
+    "name": "sit up",
+    "source": "open",
+    "sourceId": "sit-up",
+    "title": "Sit-Up",
+    "frames": [
+      "exercise-media/open/sit-up/start.webp",
+      "exercise-media/open/sit-up/end.webp"
+    ]
+  },
+  "0789": {
+    "name": "standing hamstring stretch",
+    "source": "open",
+    "sourceId": "standing-hamstring-stretch",
+    "title": "Standing Hamstring Stretch",
+    "frames": [
+      "exercise-media/open/standing-hamstring-stretch/hold.webp"
+    ]
+  },
+  "0791": {
+    "name": "standing hip abduction",
+    "source": "open",
+    "sourceId": "standing-hip-abduction",
+    "title": "Standing Hip Abduction",
+    "frames": [
+      "exercise-media/open/standing-hip-abduction/start.webp",
+      "exercise-media/open/standing-hip-abduction/end.webp"
+    ]
+  },
+  "0801": {
+    "name": "step up",
+    "source": "open",
+    "sourceId": "step-ups",
+    "title": "Step-Up",
+    "frames": [
+      "exercise-media/open/step-ups/start.webp",
+      "exercise-media/open/step-ups/end.webp"
+    ]
+  },
+  "0811": {
+    "name": "trap bar deadlift",
+    "source": "open",
+    "sourceId": "trap-bar-deadlift",
+    "title": "Trap Bar Deadlift",
+    "frames": [
+      "exercise-media/open/trap-bar-deadlift/start.webp",
+      "exercise-media/open/trap-bar-deadlift/end.webp"
+    ]
+  },
+  "0201": {
+    "name": "cable pushdown",
+    "source": "open",
+    "sourceId": "tricep-pushdowns",
+    "title": "Tricep Pushdown",
+    "frames": [
+      "exercise-media/open/tricep-pushdowns/start.webp",
+      "exercise-media/open/tricep-pushdowns/end.webp"
+    ]
+  },
+  "0507": {
+    "name": "jackknife sit-up",
+    "source": "open",
+    "sourceId": "v-up",
+    "title": "V-Up",
+    "frames": [
+      "exercise-media/open/v-up/start.webp",
+      "exercise-media/open/v-up/end.webp"
+    ]
+  },
+  "0659": {
+    "name": "push-up (wall)",
+    "source": "open",
+    "sourceId": "wall-push-up",
+    "title": "Wall Push-Up",
+    "frames": [
+      "exercise-media/open/wall-push-up/start.webp",
+      "exercise-media/open/wall-push-up/end.webp"
+    ]
+  },
+  "0734": {
+    "name": "sit (wall)",
+    "source": "open",
+    "sourceId": "wall-sit",
+    "title": "Wall Sit",
+    "frames": [
+      "exercise-media/open/wall-sit/hold.webp"
+    ]
+  },
+  "0921": {
+    "name": "band standing external shoulder rotation",
+    "source": "open",
+    "sourceId": "band-external-rotation",
+    "title": "Band External Rotation",
+    "frames": [
+      "exercise-media/open/band-external-rotation/start.webp",
+      "exercise-media/open/band-external-rotation/end.webp"
+    ]
+  },
+  "0924": {
+    "name": "band standing internal shoulder rotation",
+    "source": "open",
+    "sourceId": "band-internal-rotation",
+    "title": "Band Internal Rotation",
+    "frames": [
+      "exercise-media/open/band-internal-rotation/start.webp",
+      "exercise-media/open/band-internal-rotation/end.webp"
+    ]
+  },
+  "0997": {
+    "name": "band shoulder press",
+    "source": "open",
+    "sourceId": "band-overhead-press",
+    "title": "Band Overhead Press",
+    "frames": [
+      "exercise-media/open/band-overhead-press/start.webp",
+      "exercise-media/open/band-overhead-press/end.webp"
+    ]
+  },
+  "0979": {
+    "name": "band horizontal pallof press",
+    "source": "open",
+    "sourceId": "band-pallof-press",
+    "title": "Band Pallof Press",
+    "frames": [
+      "exercise-media/open/band-pallof-press/start.webp",
+      "exercise-media/open/band-pallof-press/end.webp"
+    ]
+  },
+  "0027": {
+    "name": "barbell bent over row",
+    "source": "open",
+    "sourceId": "bent-over-row",
+    "title": "Bent-Over Row",
+    "frames": [
+      "exercise-media/open/bent-over-row/start.webp",
+      "exercise-media/open/bent-over-row/end.webp"
+    ]
+  },
+  "0175": {
+    "name": "cable kneeling crunch",
+    "source": "open",
+    "sourceId": "cable-crunch",
+    "title": "Cable Crunch",
+    "frames": [
+      "exercise-media/open/cable-crunch/start.webp",
+      "exercise-media/open/cable-crunch/end.webp"
+    ]
+  },
+  "0235": {
+    "name": "cable standing shoulder external rotation",
+    "source": "open",
+    "sourceId": "cable-external-rotation",
+    "title": "Cable External Rotation",
+    "frames": [
+      "exercise-media/open/cable-external-rotation/start.webp",
+      "exercise-media/open/cable-external-rotation/end.webp"
+    ]
+  },
+  "0576": {
+    "name": "lever chest press",
+    "source": "open",
+    "sourceId": "chest-press-machine",
+    "title": "Machine Chest Press",
+    "frames": [
+      "exercise-media/open/chest-press-machine/start.webp",
+      "exercise-media/open/chest-press-machine/end.webp"
+    ]
+  },
+  "0945": {
+    "name": "child pose",
+    "source": "open",
+    "sourceId": "childs-pose",
+    "title": "Child's Pose",
+    "frames": [
+      "exercise-media/open/childs-pose/hold.webp"
+    ]
+  },
+  "0417": {
+    "name": "dumbbell standing calf raise",
+    "source": "open",
+    "sourceId": "dumbbell-calf-raise",
+    "title": "Dumbbell Calf Raise",
+    "frames": [
+      "exercise-media/open/dumbbell-calf-raise/start.webp",
+      "exercise-media/open/dumbbell-calf-raise/end.webp"
+    ]
+  },
+  "0405": {
+    "name": "dumbbell seated shoulder press",
+    "source": "open",
+    "sourceId": "dumbbell-shoulder-press",
+    "title": "Dumbbell Shoulder Press",
+    "frames": [
+      "exercise-media/open/dumbbell-shoulder-press/start.webp",
+      "exercise-media/open/dumbbell-shoulder-press/end.webp"
+    ]
+  },
+  "0743": {
+    "name": "sled hack squat",
+    "source": "open",
+    "sourceId": "hack-squat",
+    "title": "Hack Squat",
+    "frames": [
+      "exercise-media/open/hack-squat/start.webp",
+      "exercise-media/open/hack-squat/end.webp"
+    ]
+  },
+  "0597": {
+    "name": "lever seated hip abduction",
+    "source": "open",
+    "sourceId": "hip-abduction-machine",
+    "title": "Hip Abduction",
+    "frames": [
+      "exercise-media/open/hip-abduction-machine/start.webp",
+      "exercise-media/open/hip-abduction-machine/end.webp"
+    ]
+  },
+  "0598": {
+    "name": "lever seated hip adduction",
+    "source": "open",
+    "sourceId": "hip-adduction-machine",
+    "title": "Hip Adduction",
+    "frames": [
+      "exercise-media/open/hip-adduction-machine/start.webp",
+      "exercise-media/open/hip-adduction-machine/end.webp"
+    ]
+  },
+  "0198": {
+    "name": "cable pulldown",
+    "source": "open",
+    "sourceId": "lat-pulldown",
+    "title": "Lat Pulldown",
+    "frames": [
+      "exercise-media/open/lat-pulldown/start.webp",
+      "exercise-media/open/lat-pulldown/end.webp"
+    ]
+  },
+  "0739": {
+    "name": "sled 45° leg press",
+    "source": "open",
+    "sourceId": "leg-press",
+    "title": "Leg Press",
+    "frames": [
+      "exercise-media/open/leg-press/start.webp",
+      "exercise-media/open/leg-press/end.webp"
+    ]
+  },
+  "0581": {
+    "name": "lever high row",
+    "source": "open",
+    "sourceId": "machine-high-row",
+    "title": "Machine High Row",
+    "frames": [
+      "exercise-media/open/machine-high-row/start.webp",
+      "exercise-media/open/machine-high-row/end.webp"
+    ]
+  },
+  "0584": {
+    "name": "lever lateral raise",
+    "source": "open",
+    "sourceId": "machine-lateral-raise",
+    "title": "Machine Lateral Raise",
+    "frames": [
+      "exercise-media/open/machine-lateral-raise/start.webp",
+      "exercise-media/open/machine-lateral-raise/end.webp"
+    ]
+  },
+  "0592": {
+    "name": "lever preacher curl",
+    "source": "open",
+    "sourceId": "machine-preacher-curl",
+    "title": "Machine Preacher Curl",
+    "frames": [
+      "exercise-media/open/machine-preacher-curl/start.webp",
+      "exercise-media/open/machine-preacher-curl/end.webp"
+    ]
+  },
+  "0594": {
+    "name": "lever seated calf raise",
+    "source": "open",
+    "sourceId": "seated-calf-raise-machine",
+    "title": "Seated Calf Raise Machine",
+    "frames": [
+      "exercise-media/open/seated-calf-raise-machine/start.webp",
+      "exercise-media/open/seated-calf-raise-machine/end.webp"
+    ]
+  },
+  "0074": {
+    "name": "barbell rack pull",
+    "source": "open",
+    "sourceId": "rack-pull",
+    "title": "Rack Pull",
+    "frames": [
+      "exercise-media/open/rack-pull/start.webp",
+      "exercise-media/open/rack-pull/end.webp"
+    ]
+  },
+  "0085": {
+    "name": "barbell romanian deadlift",
+    "source": "open",
+    "sourceId": "romanian-deadlift",
+    "title": "Romanian Deadlift",
+    "frames": [
+      "exercise-media/open/romanian-deadlift/start.webp",
+      "exercise-media/open/romanian-deadlift/end.webp"
+    ]
+  },
+  "0767": {
+    "name": "smith shrug",
+    "source": "open",
+    "sourceId": "smith-machine-shrug",
+    "title": "Smith Machine Shrug",
+    "frames": [
+      "exercise-media/open/smith-machine-shrug/start.webp",
+      "exercise-media/open/smith-machine-shrug/end.webp"
+    ]
+  },
+  "0770": {
+    "name": "smith squat",
+    "source": "open",
+    "sourceId": "smith-machine-squat",
+    "title": "Smith Machine Squat",
+    "frames": [
+      "exercise-media/open/smith-machine-squat/start.webp",
+      "exercise-media/open/smith-machine-squat/end.webp"
+    ]
+  },
+  "0569": {
+    "name": "leg curl (on stability ball)",
+    "source": "open",
+    "sourceId": "stability-ball-hamstring-curl",
+    "title": "Stability Ball Hamstring Curl",
+    "frames": [
+      "exercise-media/open/stability-ball-hamstring-curl/start.webp",
+      "exercise-media/open/stability-ball-hamstring-curl/end.webp"
+    ]
+  },
+  "0938": {
+    "name": "lever stepper",
+    "source": "open",
+    "sourceId": "stair-climber",
+    "title": "Stair Climber",
+    "frames": [
+      "exercise-media/open/stair-climber/hold.webp"
+    ]
+  },
+  "0605": {
+    "name": "lever standing calf raise",
+    "source": "open",
+    "sourceId": "standing-calf-raise-machine",
+    "title": "Standing Calf Raise Machine",
+    "frames": [
+      "exercise-media/open/standing-calf-raise-machine/start.webp",
+      "exercise-media/open/standing-calf-raise-machine/end.webp"
+    ]
+  },
+  "0238": {
+    "name": "cable straight arm pulldown",
+    "source": "open",
+    "sourceId": "straight-arm-pulldown",
+    "title": "Straight-Arm Pulldown",
+    "frames": [
+      "exercise-media/open/straight-arm-pulldown/start.webp",
+      "exercise-media/open/straight-arm-pulldown/end.webp"
+    ]
+  },
+  "0117": {
+    "name": "barbell sumo deadlift",
+    "source": "open",
+    "sourceId": "sumo-deadlift",
+    "title": "Sumo Deadlift",
+    "frames": [
+      "exercise-media/open/sumo-deadlift/start.webp",
+      "exercise-media/open/sumo-deadlift/end.webp"
+    ]
+  },
+  "0122": {
+    "name": "barbell wide bench press",
+    "source": "open",
+    "sourceId": "wide-grip-bench-press",
+    "title": "Wide Grip Bench Press",
+    "frames": [
+      "exercise-media/open/wide-grip-bench-press/start.webp",
+      "exercise-media/open/wide-grip-bench-press/end.webp"
+    ]
+  },
+  "0126": {
+    "name": "barbell wrist curl",
+    "source": "open",
+    "sourceId": "wrist-curl",
+    "title": "Wrist Curl",
+    "frames": [
+      "exercise-media/open/wrist-curl/start.webp",
+      "exercise-media/open/wrist-curl/end.webp"
+    ]
+  },
+  "0127": {
+    "name": "barbell zercher squat",
+    "source": "open",
+    "sourceId": "zercher-squat",
+    "title": "Zercher Squat",
+    "frames": [
+      "exercise-media/open/zercher-squat/start.webp",
+      "exercise-media/open/zercher-squat/end.webp"
+    ]
+  },
+  "0293": {
+    "name": "dumbbell bent over row",
+    "source": "guide",
+    "sourceId": "exercise-dumbbell-bent-over-row",
+    "title": "Dumbbell Bent Over Row",
+    "frames": [
+      "exercise-media/guide/exercise-dumbbell-bent-over-row/frame-1.svg",
+      "exercise-media/guide/exercise-dumbbell-bent-over-row/frame-3.svg"
+    ]
+  },
+  "0832": {
+    "name": "weighted crunch",
+    "source": "guide",
+    "sourceId": "exercise-weighted-crunch",
+    "title": "Weighted Crunch",
+    "frames": [
+      "exercise-media/guide/exercise-weighted-crunch/frame-1.svg",
+      "exercise-media/guide/exercise-weighted-crunch/frame-3.svg"
+    ]
+  },
+  "0846": {
+    "name": "weighted russian twist",
+    "source": "open",
+    "sourceId": "russian-twists",
+    "title": "Russian Twist",
+    "frames": [
+      "exercise-media/open/russian-twists/start.webp",
+      "exercise-media/open/russian-twists/end.webp"
+    ]
+  },
+  "0699": {
+    "name": "shoulder tap push-up",
+    "source": "guide",
+    "sourceId": "exercise-push-up-shoulder-tap",
+    "title": "Push-up Shoulder Tap",
+    "frames": [
+      "exercise-media/guide/exercise-push-up-shoulder-tap/frame-1.svg",
+      "exercise-media/guide/exercise-push-up-shoulder-tap/frame-3.svg"
+    ]
+  },
+  "0688": {
+    "name": "scapular pull-up",
+    "source": "guide",
+    "sourceId": "exercise-scapular-pull-up",
+    "title": "Scapular Pull-up",
+    "frames": [
+      "exercise-media/guide/exercise-scapular-pull-up/frame-1.svg",
+      "exercise-media/guide/exercise-scapular-pull-up/frame-3.svg"
+    ]
+  },
+  "0080": {
+    "name": "barbell reverse curl",
+    "source": "guide",
+    "sourceId": "exercise-reverse-curl",
+    "title": "Reverse Curl",
+    "frames": [
+      "exercise-media/guide/exercise-reverse-curl/frame-1.svg",
+      "exercise-media/guide/exercise-reverse-curl/frame-3.svg"
+    ]
+  },
+  "0192": {
+    "name": "cable one arm lateral raise",
+    "source": "open",
+    "sourceId": "cable-lateral-raise",
+    "title": "Cable Lateral Raise",
+    "frames": [
+      "exercise-media/open/cable-lateral-raise/start.webp",
+      "exercise-media/open/cable-lateral-raise/end.webp"
+    ]
+  },
+  "0091": {
+    "name": "barbell seated overhead press",
+    "source": "everkinetic",
+    "sourceId": "0004",
+    "title": "Seated Military Press",
+    "frames": [
+      "exercise-media/everkinetic/0004-relaxation.svg",
+      "exercise-media/everkinetic/0004-tension.svg"
+    ]
+  },
+  "0606": {
+    "name": "lever t bar row",
+    "source": "everkinetic",
+    "sourceId": "0029",
+    "title": "T-Bar Rows",
+    "frames": [
+      "exercise-media/everkinetic/0029-relaxation.svg",
+      "exercise-media/everkinetic/0029-tension.svg"
+    ]
+  },
+  "0185": {
+    "name": "cable lying fly",
+    "source": "everkinetic",
+    "sourceId": "0057",
+    "title": "Flat Bench Cable Flys",
+    "frames": [
+      "exercise-media/everkinetic/0057-relaxation.svg",
+      "exercise-media/everkinetic/0057-tension.svg"
+    ]
+  },
+  "0321": {
+    "name": "dumbbell incline hammer press",
+    "source": "everkinetic",
+    "sourceId": "0059",
+    "title": "Bench Press: Dumbbell (Incline, Hammer Grip)",
+    "frames": [
+      "exercise-media/everkinetic/0059-relaxation.svg",
+      "exercise-media/everkinetic/0059-tension.svg"
+    ]
+  },
+  "0331": {
+    "name": "dumbbell incline twisted flyes",
+    "source": "everkinetic",
+    "sourceId": "0063",
+    "title": "Incline Fly's with a Twist",
+    "frames": [
+      "exercise-media/everkinetic/0063-relaxation.svg",
+      "exercise-media/everkinetic/0063-tension.svg"
+    ]
+  },
+  "0343": {
+    "name": "dumbbell lying one arm press",
+    "source": "everkinetic",
+    "sourceId": "0068",
+    "title": "Bench Press: Dumbbell (One Arm)",
+    "frames": [
+      "exercise-media/everkinetic/0068-relaxation.svg",
+      "exercise-media/everkinetic/0068-tension.svg"
+    ]
+  },
+  "0032": {
+    "name": "barbell deadlift",
+    "source": "everkinetic",
+    "sourceId": "0099",
+    "title": "Dead Lifts: Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0099-relaxation.svg",
+      "exercise-media/everkinetic/0099-tension.svg"
+    ]
+  },
+  "0752": {
+    "name": "smith deadlift",
+    "source": "everkinetic",
+    "sourceId": "0100",
+    "title": "Dead Lifts: Smith Machine",
+    "frames": [
+      "exercise-media/everkinetic/0100-relaxation.svg",
+      "exercise-media/everkinetic/0100-tension.svg"
+    ]
+  },
+  "0749": {
+    "name": "smith bent knee good morning",
+    "source": "everkinetic",
+    "sourceId": "0102",
+    "title": "Good Mornings: Smith Machine",
+    "frames": [
+      "exercise-media/everkinetic/0102-relaxation.svg",
+      "exercise-media/everkinetic/0102-tension.svg"
+    ]
+  },
+  "0586": {
+    "name": "lever lying leg curl",
+    "source": "everkinetic",
+    "sourceId": "0117",
+    "title": "Lying Leg Curl Machine",
+    "frames": [
+      "exercise-media/everkinetic/0117-relaxation.svg",
+      "exercise-media/everkinetic/0117-tension.svg"
+    ]
+  },
+  "0168": {
+    "name": "cable hip adduction",
+    "source": "everkinetic",
+    "sourceId": "0135",
+    "title": "Hip Adduction",
+    "frames": [
+      "exercise-media/everkinetic/0135-relaxation.svg",
+      "exercise-media/everkinetic/0135-tension.svg"
+    ]
+  },
+  "0851": {
+    "name": "weighted sissy squat",
+    "source": "everkinetic",
+    "sourceId": "0158",
+    "title": "Weighted Sissy Squat with Weight Plate",
+    "frames": [
+      "exercise-media/everkinetic/0158-relaxation.svg",
+      "exercise-media/everkinetic/0158-tension.svg"
+    ]
+  },
+  "0124": {
+    "name": "barbell wide squat",
+    "source": "everkinetic",
+    "sourceId": "0160",
+    "title": "Wide Stance Squat with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0160-relaxation.svg",
+      "exercise-media/everkinetic/0160-tension.svg"
+    ]
+  },
+  "0035": {
+    "name": "barbell decline close grip to skull press",
+    "source": "everkinetic",
+    "sourceId": "0168",
+    "title": "Decline Close Grip Bench to Skull Crusher",
+    "frames": [
+      "exercise-media/everkinetic/0168-relaxation.svg",
+      "exercise-media/everkinetic/0168-tension.svg"
+    ]
+  },
+  "0814": {
+    "name": "triceps dip",
+    "source": "everkinetic",
+    "sourceId": "0172",
+    "title": "Triceps Dips: Body Weight",
+    "frames": [
+      "exercise-media/everkinetic/0172-relaxation.svg",
+      "exercise-media/everkinetic/0172-tension.svg"
+    ]
+  },
+  "0052": {
+    "name": "barbell jm bench press",
+    "source": "everkinetic",
+    "sourceId": "0175",
+    "title": "JM Press",
+    "frames": [
+      "exercise-media/everkinetic/0175-relaxation.svg",
+      "exercise-media/everkinetic/0175-tension.svg"
+    ]
+  },
+  "0055": {
+    "name": "barbell lying close-grip press",
+    "source": "everkinetic",
+    "sourceId": "0180",
+    "title": "Lying Close Grip Triceps Press to Chin with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0180-relaxation.svg",
+      "exercise-media/everkinetic/0180-tension.svg"
+    ]
+  },
+  "0061": {
+    "name": "barbell lying triceps extension",
+    "source": "everkinetic",
+    "sourceId": "0183",
+    "title": "Lying Triceps Press with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0183-relaxation.svg",
+      "exercise-media/everkinetic/0183-tension.svg"
+    ]
+  },
+  "0344": {
+    "name": "dumbbell lying one arm pronated triceps extension",
+    "source": "everkinetic",
+    "sourceId": "0186",
+    "title": "Triceps Extension: Dumbbell (Single Arm, Pronated)",
+    "frames": [
+      "exercise-media/everkinetic/0186-relaxation.svg",
+      "exercise-media/everkinetic/0186-tension.svg"
+    ]
+  },
+  "0346": {
+    "name": "dumbbell lying one arm supinated triceps extension",
+    "source": "everkinetic",
+    "sourceId": "0187",
+    "title": "Triceps Extension: Dumbbell (Single Arm, Supinated)",
+    "frames": [
+      "exercise-media/everkinetic/0187-relaxation.svg",
+      "exercise-media/everkinetic/0187-tension.svg"
+    ]
+  },
+  "0259": {
+    "name": "close-grip push-up",
+    "source": "everkinetic",
+    "sourceId": "0188",
+    "title": "Close Triceps Pushup",
+    "frames": [
+      "exercise-media/everkinetic/0188-relaxation.svg",
+      "exercise-media/everkinetic/0188-tension.svg"
+    ]
+  },
+  "0018": {
+    "name": "assisted standing triceps extension (with towel)",
+    "source": "everkinetic",
+    "sourceId": "0202",
+    "title": "Triceps Extension: Towel (Standing)",
+    "frames": [
+      "exercise-media/everkinetic/0202-relaxation.svg",
+      "exercise-media/everkinetic/0202-tension.svg"
+    ]
+  },
+  "0072": {
+    "name": "barbell prone incline curl",
+    "source": "everkinetic",
+    "sourceId": "0215",
+    "title": "Lying Incline Curl with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0215-relaxation.svg",
+      "exercise-media/everkinetic/0215-tension.svg"
+    ]
+  },
+  "0106": {
+    "name": "barbell standing close grip curl",
+    "source": "everkinetic",
+    "sourceId": "0219",
+    "title": "Close Grip Standing Biceps Curls with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0219-relaxation.svg",
+      "exercise-media/everkinetic/0219-tension.svg"
+    ]
+  },
+  "0285": {
+    "name": "dumbbell alternate biceps curl",
+    "source": "everkinetic",
+    "sourceId": "0223",
+    "title": "Alternating Bicep Curl with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0223-relaxation.svg",
+      "exercise-media/everkinetic/0223-tension.svg"
+    ]
+  },
+  "0190": {
+    "name": "cable one arm curl",
+    "source": "everkinetic",
+    "sourceId": "0247",
+    "title": "Standing One Arm Bicep Curl with Cable",
+    "frames": [
+      "exercise-media/everkinetic/0247-relaxation.svg",
+      "exercise-media/everkinetic/0247-tension.svg"
+    ]
+  },
+  "0353": {
+    "name": "dumbbell one arm concentration curl (on stability ball)",
+    "source": "everkinetic",
+    "sourceId": "0258",
+    "title": "One Arm Bicep Concentration on Stability Ball with Dumbbell",
+    "frames": [
+      "exercise-media/everkinetic/0258-relaxation.svg",
+      "exercise-media/everkinetic/0258-tension.svg"
+    ]
+  },
+  "0103": {
+    "name": "barbell standing ab rollerout",
+    "source": "everkinetic",
+    "sourceId": "0285",
+    "title": "Ab Rollout with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0285-relaxation.svg",
+      "exercise-media/everkinetic/0285-tension.svg"
+    ]
+  },
+  "0084": {
+    "name": "barbell rollerout",
+    "source": "everkinetic",
+    "sourceId": "0286",
+    "title": "Ab Rollout on Knees with Barbell",
+    "frames": [
+      "exercise-media/everkinetic/0286-relaxation.svg",
+      "exercise-media/everkinetic/0286-tension.svg"
+    ]
+  }
+}

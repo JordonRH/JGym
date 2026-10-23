@@ -75,3 +75,47 @@ test('mobile layout and appearance previews', async ({page}) => {
   await page.getByRole('link',{name:'Overview',exact:true}).click()
   await page.screenshot({path:'.qa/jgym-sand-mobile.png',fullPage:true})
 })
+
+test('local exercise illustrations render and switch positions', async ({page}) => {
+  await page.goto('/#/library')
+  await page.getByLabel('With demonstration images').check()
+  await page.getByPlaceholder('Search…').fill('barbell bench press')
+  const row = page.locator('.item').filter({has:page.getByText('barbell bench press',{exact:true})}).first()
+  await expect(row).toBeVisible()
+  await expect.poll(() => row.locator('img.thumb').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await row.locator('.tt').click()
+  const art = page.locator('.jg-illustration')
+  await expect(art).toBeVisible()
+  await expect.poll(() => art.locator('img').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await art.getByRole('button',{name:'Position 2'}).click()
+  await expect(art.locator('img')).toHaveAttribute('src',/0042-tension.svg/)
+  await expect.poll(() => art.locator('img').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await expect(art.getByText('CC BY-SA 4.0')).toBeVisible()
+  await page.screenshot({path:'.qa/exercise-illustration.png'})
+})
+
+for (const sample of [
+  {name:'band squat', credit:'CC0 1.0'},
+  {name:'dumbbell bent over row', credit:'CC BY-SA 4.0', dark:true},
+]) test(`local exercise new source: ${sample.name}`, async ({page}) => {
+  await page.setViewportSize({width:390,height:844})
+  if (sample.dark) {
+    await page.goto('/#/home')
+    await page.getByRole('link',{name:'Appearance',exact:true}).click()
+    await page.getByRole('button',{name:/Midnight/}).click()
+    await page.getByRole('button',{name:'Exercises',exact:true}).click()
+  } else await page.goto('/#/library')
+  await page.getByLabel('With demonstration images').check()
+  await page.getByPlaceholder('Search…').fill(sample.name)
+  const row = page.locator('.item').filter({has:page.getByText(sample.name,{exact:true})}).first()
+  await expect.poll(() => row.locator('img.thumb').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await expect(row.locator('img.thumb')).toHaveCSS('background-color','rgb(32, 37, 43)')
+  await row.locator('.tt').click()
+  const art = page.locator('.jg-illustration')
+  await expect.poll(() => art.locator('img').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await expect(art.getByText(sample.credit,{exact:true})).toBeVisible()
+  await art.getByRole('button',{name:'Position 2'}).click()
+  await expect.poll(() => art.locator('img').evaluate(img => img.complete && img.naturalWidth > 0)).toBe(true)
+  await page.screenshot({path:'.qa/new-'+sample.name.replaceAll(' ','-')+'.png'})
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
+})
