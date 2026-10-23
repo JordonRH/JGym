@@ -64,6 +64,22 @@ Store the backup outside the repository. To restore on a replacement host, stop 
 
 For an update, back up first, run `git pull`, and rebuild with `docker compose -f compose.jgym.yml --profile tunnel up -d --build`. Omit `--profile tunnel` if using your existing tunnel. To roll back, check out your previous commit and rebuild; restore the matching data backup if a future update changes its format.
 
+## Continuous deployment from GitHub
+
+The repository workflow runs the frontend and API checks for pull requests and `main` pushes. A successful push to `main` then deploys over SSH to the Docker host. The deployment pulls the latest `cloudflared` image, fast-forward updates the checkout, rebuilds JGym, and starts the tunnel profile.
+
+Create a GitHub Actions `production` environment and add these secrets:
+
+| Secret | Value |
+| --- | --- |
+| `DEPLOY_HOST` | DNS name or IP address of the Docker host |
+| `DEPLOY_USER` | Linux user allowed to run Docker Compose |
+| `DEPLOY_PATH` | Absolute path to the JGym checkout, e.g. `/home/jbox/Documents/ChatGPT/Linux general/JGym` |
+| `DEPLOY_SSH_KEY` | Private SSH key whose public key is in the deploy user's `authorized_keys` |
+| `DEPLOY_KNOWN_HOSTS` | Output of `ssh-keyscan -H <host>` reviewed and stored as a secret |
+
+The deploy user needs read access to the checkout and permission to run Docker. Keep `.env` and `data/` only on the host; they are not taken from GitHub. Pull requests run checks only and never deploy.
+
 ## Exercise images
 
 JGym retains the open-source exercise catalogue, descriptions and muscle maps. The upstream Gym visual stills and animations are excluded because their licence is restricted to OpenGym. JGym displays neutral exercise icons; custom exercises can still use your own uploaded images and videos. See `JGYM_UPSTREAM.md`, `NOTICE.md`, and `LICENSE`.
