@@ -18,3 +18,16 @@
 #app:has(.jg-page){padding-bottom:calc(100px + var(--sab))}
 @media(max-width:999px){#tabbar{left:0;right:0;transform:none;width:auto}}
 
+
+.jg-illustration { margin: 12px 0; padding: 12px; border-radius: 16px; background: var(--card); text-align: center; }
+.jg-illustration > img { display: block; width: 100%; height: 280px; object-fit: contain; background: #fff; border-radius: 10px; }
+.jg-illustration.compact > img { height: 190px; }
+.jg-illustration.mini > img { height: 100px; }
+.jg-illustration figcaption { margin-top: 8px; }
+.jg-illustration small { display: block; margin-top: 8px; font-size: 11px; }
+.jg-frame-controls { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+.jg-frame-controls button { padding: 6px 12px; border: 1px solid currentColor; border-radius: 8px; color: inherit; background: transparent; cursor: pointer; }
+.jg-frame-controls button[aria-pressed="true"] { background: var(--acc, #649c7d); color: #fff; }
+.jg-frame-controls .giftoggle { position: static; }
+.jg-image-filter { display: flex; align-items: center; gap: 8px; margin: 8px 0 16px; }
+.jg-media-missing { margin: 12px 0; }

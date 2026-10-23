@@ -25,7 +25,7 @@ vi.mock('../store/useStore.js', () => {
   return { useStore }
 })
 
-const EX = { id: 'bench', n: 'bench press', gif: 'bench.gif', img: 'bench.jpg' }
+const EX = { id: '0025', n: 'bench press', gif: 'bench.gif', img: 'bench.jpg' }
 
 let host, root
 beforeEach(() => {
@@ -42,20 +42,32 @@ afterEach(() => {
 const mount = props => act(() => root.render(<Media ex={EX} {...props} />))
 
 describe('Media gifSize', () => {
-  it('renders the full animation by default and toggles to mini in the workout', () => {
+  it('switches frames and resets to the first frame for a different exercise', () => {
+    mount({})
+    act(() => { host.querySelectorAll('.jg-frame-controls button')[1].click() })
+    expect(host.querySelector('img').getAttribute('src')).toContain('0042-tension.svg')
+    mount({ ex: { id: '0289', n: 'dumbbell bench press' } })
+    expect(host.querySelector('img').getAttribute('src')).toContain('0055-relaxation.svg')
+  })
+  it('explicitly reports missing demonstrations without substituting an image', () => {
+    mount({ ex: { id: '5965', n: '1 2 stick drill' } })
+    expect(host.textContent).toContain('No free demonstration image available')
+    expect(host.querySelector('img')).toBeNull()
+  })
+  it('renders the full illustration by default and toggles to mini in the workout', () => {
     mount({ minimizable: true })
-    expect(host.querySelector('.exmedia img')).toBeTruthy()
-    expect(host.querySelector('.exmedia.mini')).toBeFalsy()
+    expect(host.querySelector('.jg-illustration img')).toBeTruthy()
+    expect(host.querySelector('.jg-illustration.mini')).toBeFalsy()
     act(() => { host.querySelector('.giftoggle').click() })
     expect(mocks.S.gifSize).toBe('mini')
     mount({ minimizable: true })
-    expect(host.querySelector('.exmedia.mini')).toBeTruthy()
+    expect(host.querySelector('.jg-illustration.mini')).toBeTruthy()
   })
 
   it("renders nothing at all in the workout when gifSize is 'off'", () => {
     mocks.S = { gifSize: 'off' }
     mount({ minimizable: true })
-    expect(host.querySelector('.exmedia')).toBeFalsy()
+    expect(host.querySelector('.jg-illustration')).toBeFalsy()
     expect(host.querySelector('img')).toBeFalsy()
     expect(host.innerHTML).toBe('')
   })
@@ -63,14 +75,14 @@ describe('Media gifSize', () => {
   it("'off' only applies to the workout — the detail sheet (not minimizable) still shows media", () => {
     mocks.S = { gifSize: 'off' }
     mount({})
-    expect(host.querySelector('.exmedia img')).toBeTruthy()
+    expect(host.querySelector('.jg-illustration img')).toBeTruthy()
   })
 
   it('treats a legacy/unknown value as full', () => {
     mocks.S = { gifSize: 'huge' }
     mount({ minimizable: true })
-    expect(host.querySelector('.exmedia img')).toBeTruthy()
-    expect(host.querySelector('.exmedia.mini')).toBeFalsy()
+    expect(host.querySelector('.jg-illustration img')).toBeTruthy()
+    expect(host.querySelector('.jg-illustration.mini')).toBeFalsy()
   })
 })
 
