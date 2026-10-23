@@ -6,6 +6,7 @@ media/gif/
 # Runtime data — users, passkeys, per-user state, session secret
 data/
 deploy-runner-state/
+deploy-runner-state-v2/
 
 # Local config
 .env

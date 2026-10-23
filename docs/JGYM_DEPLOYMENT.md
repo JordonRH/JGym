@@ -75,7 +75,7 @@ sg docker -c 'RUNNER_TOKEN="$(gh api --method POST repos/JordonRH/JGym/actions/r
 sg docker -c 'docker compose -f compose.deploy-runner.yml up -d --force-recreate runner'
 ```
 
-The first command uses GitHub's short-lived registration token; the second recreates the runner without retaining that token in its container environment. The runner keeps its registration under the ignored `deploy-runner-state/` directory, uses the host Docker socket, and is labeled `self-hosted`, `linux`, `x64`, and `jgym-deploy`. Its separate Compose project restarts it after host reboots. The `deploy` job only runs on pushes to `main` after the GitHub-hosted checks pass; pull requests never run on the self-hosted runner.
+The first command uses GitHub's short-lived registration token; the second recreates the runner without retaining that token in its container environment. The runner keeps its registration under the ignored `deploy-runner-state-v2/` directory, uses the host Docker socket, and is labeled `self-hosted`, `linux`, `x64`, and `jgym-deploy`. Its separate Compose project restarts it after host reboots. The `deploy` job only runs on pushes to `main` after the GitHub-hosted checks pass; pull requests never run on the self-hosted runner.
 
 Keep `.env` and `data/` only on the host; they are not taken from GitHub.
 

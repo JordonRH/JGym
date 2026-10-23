@@ -13,11 +13,11 @@ services:
     environment:
       RUNNER_URL: https://github.com/JordonRH/JGym
       RUNNER_TOKEN: ${RUNNER_TOKEN:-}
-      RUNNER_NAME: jgym-docker-host
+      RUNNER_NAME: jgym-docker-host-v2
       RUNNER_LABELS: jgym-deploy
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - ./deploy-runner-state:/runner
+      - ./deploy-runner-state-v2:/runner
       - /usr/bin/docker:/usr/bin/docker:ro
       - /usr/libexec/docker/cli-plugins/docker-compose:/usr/libexec/docker/cli-plugins/docker-compose:ro
       - "/home/jbox/Documents/ChatGPT/Linux general/JGym:/home/jbox/Documents/ChatGPT/Linux general/JGym"
