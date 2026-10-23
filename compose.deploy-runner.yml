@@ -1,0 +1,23 @@
+name: jgym-deploy-runner
+services:
+  runner:
+    build:
+      context: .
+      dockerfile: deploy/runner/Dockerfile
+    image: jgym-deploy-runner:v1
+    container_name: jgym-deploy-runner
+    restart: unless-stopped
+    user: "1000:1000"
+    group_add:
+      - "116"
+    environment:
+      RUNNER_URL: https://github.com/JordonRH/JGym
+      RUNNER_TOKEN: ${RUNNER_TOKEN:-}
+      RUNNER_NAME: jgym-docker-host
+      RUNNER_LABELS: jgym-deploy
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./deploy-runner-state:/runner
+      - /usr/bin/docker:/usr/bin/docker:ro
+      - /usr/libexec/docker/cli-plugins/docker-compose:/usr/libexec/docker/cli-plugins/docker-compose:ro
+      - "/home/jbox/Documents/ChatGPT/Linux general/JGym:/home/jbox/Documents/ChatGPT/Linux general/JGym"

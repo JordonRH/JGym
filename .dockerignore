@@ -2,6 +2,7 @@
 frontend/dist
 /media
 data
+deploy-runner-state
 .env
 .git
 *.log

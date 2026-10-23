@@ -66,19 +66,18 @@ For an update, back up first, run `git pull`, and rebuild with `docker compose -
 
 ## Continuous deployment from GitHub
 
-The repository workflow runs the frontend and API checks for pull requests and `main` pushes. A successful push to `main` then deploys over SSH to the Docker host. The deployment pulls the latest `cloudflared` image, fast-forward updates the checkout, rebuilds JGym, and starts the tunnel profile.
+The repository workflow runs the frontend and API checks for pull requests and `main` pushes. A successful push to `main` then deploys on the Docker host using a repository-scoped self-hosted GitHub Actions runner. The deployment pulls the latest `cloudflared` image, fast-forward updates the checkout, rebuilds JGym, and recreates the services in the tunnel profile.
 
-Create a GitHub Actions `production` environment and add these secrets:
+The repository includes a runner container in `compose.deploy-runner.yml`. On the Docker host, after authenticating `gh` as a repository administrator, register and start it with:
 
-| Secret | Value |
-| --- | --- |
-| `DEPLOY_HOST` | DNS name or IP address of the Docker host |
-| `DEPLOY_USER` | Linux user allowed to run Docker Compose |
-| `DEPLOY_PATH` | Absolute path to the JGym checkout, e.g. `/home/jbox/Documents/ChatGPT/Linux general/JGym` |
-| `DEPLOY_SSH_KEY` | Private SSH key whose public key is in the deploy user's `authorized_keys` |
-| `DEPLOY_KNOWN_HOSTS` | Output of `ssh-keyscan -H <host>` reviewed and stored as a secret |
+```sh
+sg docker -c 'RUNNER_TOKEN="$(gh api --method POST repos/JordonRH/JGym/actions/runners/registration-token --jq .token)" docker compose -f compose.deploy-runner.yml up -d --build'
+sg docker -c 'docker compose -f compose.deploy-runner.yml up -d --force-recreate runner'
+```
 
-The deploy user needs read access to the checkout and permission to run Docker. Keep `.env` and `data/` only on the host; they are not taken from GitHub. Pull requests run checks only and never deploy.
+The first command uses GitHub's short-lived registration token; the second recreates the runner without retaining that token in its container environment. The runner keeps its registration under the ignored `deploy-runner-state/` directory, uses the host Docker socket, and is labeled `self-hosted`, `linux`, `x64`, and `jgym-deploy`. Its separate Compose project restarts it after host reboots. The `deploy` job only runs on pushes to `main` after the GitHub-hosted checks pass; pull requests never run on the self-hosted runner.
+
+Keep `.env` and `data/` only on the host; they are not taken from GitHub.
 
 ## Exercise images
 
