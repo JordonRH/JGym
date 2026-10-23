@@ -4,6 +4,7 @@ import { MOBILE } from '../lib/mobile.js'
 import { useStore } from '../store/useStore.js'
 import { t, exerciseNameFor } from '../lib/i18n.js'
 import Icon from './Icon.jsx'
+import SOURCES from '../lib/exercise-image-sources.json'
 import CustomMedia, { CustomThumb } from './CustomMedia.jsx'
 
 // An exercise's picture, wherever one shows. A custom exercise goes to CustomMedia.jsx — its own
@@ -23,10 +24,11 @@ function BuiltinMedia({ ex, id, compact, minimizable }) {
   const update = useStore(s => s.update)
   if (minimizable && gifSize === 'off') return null
   if (!art) return <p className="small dim jg-media-missing">No free demonstration image available for this exercise yet.</p>
+  const source = SOURCES[art.source || 'everkinetic']
   const frame = selection.id === ex.id ? selection.frame : 0
   const src = art.frames[frame]
   const mini = minimizable && gifSize === 'mini'
-  return <figure id={id} className={'jg-illustration' + (compact ? ' compact' : '') + (mini ? ' mini' : '')}>
+  return <figure id={id} data-image-background={source.dark ? 'dark' : 'light'} className={'jg-illustration' + (compact ? ' compact' : '') + (mini ? ' mini' : '')}>
     {failed === src
       ? <p role="status">Image could not load. <button onClick={() => setFailed(null)}>Retry</button></p>
       : <img src={src} alt={`${exerciseNameFor(ex)} — demonstration ${frame + 1} of ${art.frames.length}`} onError={() => setFailed(src)} />}
@@ -37,8 +39,9 @@ function BuiltinMedia({ ex, id, compact, minimizable }) {
         {minimizable && <button className="giftoggle" onClick={() => update(s => { s.gifSize = mini ? 'full' : 'mini' })}>
           {mini ? t('Expand') : t('Minimize')}</button>}
       </div>
-      <small>Illustration: <a href="https://github.com/everkinetic/data" target="_blank" rel="noreferrer">Greg Priday / Everkinetic</a>
-        {' · '}<a href="exercise-media/everkinetic/LICENSE.md" target="_blank" rel="noreferrer">CC BY-SA 4.0</a></small>
+      <small>{source.aiGenerated ? 'AI-generated illustration: ' : 'Illustration: '}<a href={source.url} target="_blank" rel="noreferrer">{source.creator}</a>
+        {' · '}<a href={source.licensePath} target="_blank" rel="noreferrer">{source.license}</a>
+        {art.source === 'guide' && <> · <a href="exercise-media/provenance.json" target="_blank" rel="noreferrer">Frame credits</a></>}</small>
     </figcaption>
   </figure>
 }
@@ -111,5 +114,5 @@ function BuiltinThumb({ ex }) {
   const src = illustrationOf(ex) ? imgSrc(ex) : null
   const [broken, setBroken] = useState(null)
   if (!src || broken === src) return <div className="thumb thumb-x" role="img" aria-label="No demonstration image"><Icon name="dumbbell" /></div>
-  return <img className="thumb" loading="lazy" decoding="async" draggable={false} src={src} alt="" onError={() => setBroken(src)} />
+  return <img className="thumb" data-image-background={SOURCES[illustrationOf(ex)?.source || 'everkinetic']?.dark ? 'dark' : 'light'} loading="lazy" decoding="async" draggable={false} src={src} alt="" onError={() => setBroken(src)} />
 }

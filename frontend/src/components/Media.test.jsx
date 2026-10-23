@@ -42,6 +42,20 @@ afterEach(() => {
 const mount = props => act(() => root.render(<Media ex={EX} {...props} />))
 
 describe('Media gifSize', () => {
+  it('uses source-specific credits, backgrounds and resets frames across sources', () => {
+    mount({ ex: { id: '1004', n: 'band squat' } })
+    expect(host.textContent).toContain('AI-generated illustration:')
+    expect(host.textContent).toContain('CC0 1.0')
+    expect(host.querySelector('figure').dataset.imageBackground).toBe('dark')
+    act(() => host.querySelectorAll('.jg-frame-controls button')[1].click())
+    mount({ ex: { id: '0293', n: 'dumbbell bent over row' } })
+    expect(host.textContent).toContain('Bryl Lim')
+    expect(host.textContent).not.toContain('AI-generated')
+    expect(host.querySelector('img').getAttribute('src')).toContain('frame-1.svg')
+    expect(host.querySelector('a[href="exercise-media/provenance.json"]')).toBeTruthy()
+    mount({})
+    expect(host.querySelector('figure').dataset.imageBackground).toBe('light')
+  })
   it('switches frames and resets to the first frame for a different exercise', () => {
     mount({})
     act(() => { host.querySelectorAll('.jg-frame-controls button')[1].click() })

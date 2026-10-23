@@ -31,3 +31,7 @@
 .jg-frame-controls .giftoggle { position: static; }
 .jg-image-filter { display: flex; align-items: center; gap: 8px; margin: 8px 0 16px; }
 .jg-media-missing { margin: 12px 0; }
+
+/* White Workout Guide figures and dark source artwork need a stable dark canvas in every theme. */
+.jg-illustration[data-image-background="dark"] > img,
+img.thumb[data-image-background="dark"] { background: #20252b; object-fit: contain; }

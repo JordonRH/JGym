@@ -1,17 +1,29 @@
 # Exercise images
 
-JGym bundles unchanged Everkinetic SVG illustrations by Greg Priday under **CC BY-SA 4.0**. No account, subscription, API key, remote image service or purchase is required. Images ship in the frontend build and Linux Docker image. Existing service-worker media caching applies to these local paths.
-
-Source: https://github.com/everkinetic/data at revision `446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6`, `dist/svg`. Full licence and credits are shipped beside the assets in `frontend/public/exercise-media/everkinetic/`. Preserve attribution and the artwork licence when distributing the app. Artwork is licensed separately from the app code.
+JGym bundles free demonstration artwork locally. No account, subscription, API key or purchase is required. Images ship in the frontend build and Linux Docker image; service-worker media caching applies.
 
 ## Coverage
 
-159 of 5,632 catalogue entries have mapped illustrations. **5,473 remain without a demonstration image**, listed in `exercise-image-gaps.csv`. This is partial coverage, not completion of the request for every exercise. The app keeps every existing exercise ID and workout history. Unmatched details explicitly state that an image is unavailable; they do not show an unrelated demonstration or muscle diagram. Use the library's “With demonstration images” filter to browse covered exercises.
+**414 of 5,632 catalogue entries** have illustrations: 255 more than the initial release. **5,218 remain without images**, listed in `exercise-image-gaps.csv`. Coverage by source: Everkinetic 193, Open Exercise Illustrations 203, Workout Guide 18. These counts are catalogue entries, not unique drawings.
 
-Mappings are explicit in `frontend/src/lib/exercise-illustrations.json`, with catalogue names, source IDs, source titles and frame paths for review. The only inherited matches are the catalogue's explicit male/female counterparts of the same movement. These illustrations use the source artist's figure, independent of the appearance/figure preference. There is no fuzzy runtime substitution. Position buttons show the source's static demonstration frames, not video.
+All existing exercise IDs and workout history remain intact. Unmatched details explicitly report missing artwork. Use “With demonstration images” in the library to browse covered exercises. No fuzzy runtime matching or unrelated fallback demonstration is used.
+
+Mappings in `frontend/src/lib/exercise-illustrations.json` record catalogue names, source IDs, titles and local frame paths. New mappings were checked against equipment, movement and the first/last source frames. Questionable drawings and overbroad aliases were excluded. Visual matching is not professional certification of exercise technique. Open Exercise Illustrations artwork is AI-generated and labelled in the app.
+
+## Sources and credits
+
+| Source | Licence | Pinned revision |
+| --- | --- | --- |
+| [Greg Priday / Everkinetic](https://github.com/everkinetic/data) | CC BY-SA 4.0 | `446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6` |
+| [Open Exercise Illustrations](https://github.com/hitmanrepo/open-exercise-illustrations) | CC0 1.0 | `2786aefa4b36a08faeca8114e0d1eb0af3ef6732` |
+| [Bryl Lim / Workout Guide](https://github.com/bryllim/workout-guide) | CC BY-SA 4.0 (artwork) | `aac599224bb9780305239607ef98540b7e0ce389` |
+
+Images are copied unchanged. Only reviewed first/last frames are included for new mappings (one frame for static holds). Workout Guide includes derivatives of Everkinetic: per-frame original source, creator and upstream modification notices are retained in `frontend/public/exercise-media/provenance.json`, linked from its image credits. Full licences and attribution documents ship beside each source's assets. Preserve those credits and artwork licences when distributing JGym; artwork is licensed separately from application code.
+
+White Workout Guide figures use a dark canvas in thumbnails and details in every theme. Static position buttons do not imply video or animation. Source figures are independent of the user's appearance/figure preference.
 
 ## Extending coverage
 
-Add a verified illustration with permission for redistribution, retain its source and licence, and add an explicit exercise mapping. Confirm equipment, grip, posture and movement match; a similarly named exercise is insufficient. Update the coverage count and gap list, and run the media tests plus production build. Do not copy OpenGym's separately restricted Gym visual artwork into JGym. Free Exercise DB photos were not imported because their upstream provenance does not establish reusable image rights.
+See [research findings](EXERCISE_IMAGE_RESEARCH.md) for sources investigated and exclusions. Add explicit verified mappings only; similar names alone are insufficient. Keep provenance and licences, update the gap list, and run media tests and the production build. Do not copy OpenGym's separately restricted Gym visual artwork.
 
-Deploy with the usual `docker compose -f compose.jgym.yml up -d --build`; no media mount or paid service is needed. The build includes the artwork automatically.
+Deploy using the normal `docker compose -f compose.jgym.yml up -d --build`; no media mount or paid service is needed.
